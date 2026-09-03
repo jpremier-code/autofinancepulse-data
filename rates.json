@@ -1,0 +1,231 @@
+{
+  "generatedAt": "2026-09-03T12:57:33.691676-04:00",
+  "newAutoApr": {
+    "label": "Avg. New Vehicle Loan APR",
+    "value": 7.47,
+    "asOfDate": "2026-05-01",
+    "change": 0.1,
+    "changeLabel": "vs prior quarter",
+    "sourceLabel": "FRED · TERMCBAUTO48NS",
+    "sourceUrl": "https://fred.stlouisfed.org/series/TERMCBAUTO48NS",
+    "cadence": "quarterly",
+    "history": [
+      {
+        "date": "2024-08-01",
+        "value": 8.63
+      },
+      {
+        "date": "2024-11-01",
+        "value": 8.12
+      },
+      {
+        "date": "2025-02-01",
+        "value": 7.71
+      },
+      {
+        "date": "2025-05-01",
+        "value": 7.63
+      },
+      {
+        "date": "2025-08-01",
+        "value": 7.51
+      },
+      {
+        "date": "2025-11-01",
+        "value": 7.62
+      },
+      {
+        "date": "2026-02-01",
+        "value": 7.37
+      },
+      {
+        "date": "2026-05-01",
+        "value": 7.47
+      }
+    ]
+  },
+  "treasury2yr": {
+    "label": "2-Yr Treasury Yield",
+    "value": 4.39,
+    "asOfDate": "2026-09-01",
+    "change": 0.05,
+    "changeLabel": "vs prior week",
+    "sourceLabel": "FRED · DGS2",
+    "sourceUrl": "https://fred.stlouisfed.org/series/DGS2",
+    "cadence": "daily (sampled weekly)",
+    "history": [
+      {
+        "date": "2025-07-09",
+        "value": 3.86
+      },
+      {
+        "date": "2025-07-18",
+        "value": 3.88
+      },
+      {
+        "date": "2025-07-29",
+        "value": 3.86
+      },
+      {
+        "date": "2025-08-07",
+        "value": 3.72
+      },
+      {
+        "date": "2025-08-18",
+        "value": 3.77
+      },
+      {
+        "date": "2025-08-27",
+        "value": 3.59
+      },
+      {
+        "date": "2025-09-08",
+        "value": 3.49
+      },
+      {
+        "date": "2025-09-17",
+        "value": 3.52
+      },
+      {
+        "date": "2025-09-26",
+        "value": 3.63
+      },
+      {
+        "date": "2025-10-07",
+        "value": 3.57
+      },
+      {
+        "date": "2025-10-17",
+        "value": 3.46
+      },
+      {
+        "date": "2025-10-28",
+        "value": 3.47
+      },
+      {
+        "date": "2025-11-06",
+        "value": 3.57
+      },
+      {
+        "date": "2025-11-18",
+        "value": 3.58
+      },
+      {
+        "date": "2025-11-28",
+        "value": 3.47
+      },
+      {
+        "date": "2025-12-09",
+        "value": 3.61
+      },
+      {
+        "date": "2025-12-18",
+        "value": 3.46
+      },
+      {
+        "date": "2025-12-30",
+        "value": 3.45
+      },
+      {
+        "date": "2026-01-09",
+        "value": 3.54
+      },
+      {
+        "date": "2026-01-21",
+        "value": 3.6
+      },
+      {
+        "date": "2026-01-30",
+        "value": 3.52
+      },
+      {
+        "date": "2026-02-10",
+        "value": 3.45
+      },
+      {
+        "date": "2026-02-20",
+        "value": 3.48
+      },
+      {
+        "date": "2026-03-03",
+        "value": 3.51
+      },
+      {
+        "date": "2026-03-12",
+        "value": 3.76
+      },
+      {
+        "date": "2026-03-23",
+        "value": 3.83
+      },
+      {
+        "date": "2026-04-01",
+        "value": 3.81
+      },
+      {
+        "date": "2026-04-10",
+        "value": 3.81
+      },
+      {
+        "date": "2026-04-21",
+        "value": 3.78
+      },
+      {
+        "date": "2026-04-30",
+        "value": 3.88
+      },
+      {
+        "date": "2026-05-11",
+        "value": 3.95
+      },
+      {
+        "date": "2026-05-20",
+        "value": 4.04
+      },
+      {
+        "date": "2026-06-01",
+        "value": 4.05
+      },
+      {
+        "date": "2026-06-10",
+        "value": 4.13
+      },
+      {
+        "date": "2026-06-22",
+        "value": 4.24
+      },
+      {
+        "date": "2026-07-01",
+        "value": 4.17
+      },
+      {
+        "date": "2026-07-13",
+        "value": 4.26
+      },
+      {
+        "date": "2026-07-22",
+        "value": 4.31
+      },
+      {
+        "date": "2026-07-31",
+        "value": 4.28
+      },
+      {
+        "date": "2026-08-11",
+        "value": 4.22
+      },
+      {
+        "date": "2026-08-20",
+        "value": 4.19
+      },
+      {
+        "date": "2026-08-31",
+        "value": 4.34
+      },
+      {
+        "date": "2026-09-01",
+        "value": 4.39
+      }
+    ]
+  }
+}
