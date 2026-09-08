@@ -1,0 +1,135 @@
+[
+  {
+    "date": "2026-06-22",
+    "issuer": "CarMax",
+    "issuerFullName": null,
+    "amountM": 600,
+    "amountLabel": "$600M"
+  },
+  {
+    "date": "2026-06-23",
+    "issuer": "Arra Finance",
+    "issuerFullName": null,
+    "amountM": null,
+    "amountLabel": null
+  },
+  {
+    "date": "2026-07-03",
+    "issuer": "Westlake",
+    "issuerFullName": null,
+    "amountM": null,
+    "amountLabel": null
+  },
+  {
+    "date": "2026-07-03",
+    "issuer": "ACA",
+    "issuerFullName": "American Credit Acceptance",
+    "amountM": null,
+    "amountLabel": null
+  },
+  {
+    "date": "2026-07-03",
+    "issuer": "GLS",
+    "issuerFullName": "Global Lending Services",
+    "amountM": null,
+    "amountLabel": null
+  },
+  {
+    "date": "2026-07-13",
+    "issuer": "CPS",
+    "issuerFullName": "Consumer Portfolio Services",
+    "amountM": 716.8,
+    "amountLabel": "$716.8M"
+  },
+  {
+    "date": "2026-07-15",
+    "issuer": "Bridgecrest",
+    "issuerFullName": null,
+    "amountM": 600,
+    "amountLabel": "$600M"
+  },
+  {
+    "date": "2026-07-15",
+    "issuer": "Veros Auto",
+    "issuerFullName": null,
+    "amountM": 235.2,
+    "amountLabel": "$235.2M"
+  },
+  {
+    "date": "2026-07-16",
+    "issuer": "LAD Select Auto",
+    "issuerFullName": null,
+    "amountM": 462.5,
+    "amountLabel": "$462.5M"
+  },
+  {
+    "date": "2026-07-16",
+    "issuer": "Pagaya",
+    "issuerFullName": null,
+    "amountM": 750,
+    "amountLabel": "$750M"
+  },
+  {
+    "date": "2026-07-20",
+    "issuer": "Arivo",
+    "issuerFullName": null,
+    "amountM": 221.8,
+    "amountLabel": "$221.8M"
+  },
+  {
+    "date": "2026-07-23",
+    "issuer": "Prestige",
+    "issuerFullName": null,
+    "amountM": 77.6,
+    "amountLabel": "$77.6M"
+  },
+  {
+    "date": "2026-07-30",
+    "issuer": "Ford",
+    "issuerFullName": null,
+    "amountM": 800,
+    "amountLabel": "$800M+"
+  },
+  {
+    "date": "2026-08-12",
+    "issuer": "OCCU",
+    "issuerFullName": "Oregon Community CU",
+    "amountM": 307.33,
+    "amountLabel": "$307.33M"
+  },
+  {
+    "date": "2026-08-17",
+    "issuer": "Lendbuzz",
+    "issuerFullName": null,
+    "amountM": 229.77,
+    "amountLabel": "$229.77M"
+  },
+  {
+    "date": "2026-08-19",
+    "issuer": "Westlake",
+    "issuerFullName": null,
+    "amountM": 1810,
+    "amountLabel": "$1.81B"
+  },
+  {
+    "date": "2026-08-20",
+    "issuer": "Credit Acceptance",
+    "issuerFullName": null,
+    "amountM": 600,
+    "amountLabel": "$600M"
+  },
+  {
+    "date": "2026-08-20",
+    "issuer": "First Help Financial",
+    "issuerFullName": null,
+    "amountM": 272,
+    "amountLabel": "$272M"
+  },
+  {
+    "date": "2026-08-26",
+    "issuer": "CPS",
+    "issuerFullName": "Consumer Portfolio Services",
+    "amountM": 80,
+    "amountLabel": "$80M"
+  }
+]
