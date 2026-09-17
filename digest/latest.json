@@ -1,97 +1,151 @@
 {
-  "date": "Wednesday, September 16, 2026",
-  "generatedAt": "2026-09-16T08:35:30.184847-04:00",
-  "total_stories": 106,
+  "date": "Thursday, September 17, 2026",
+  "generatedAt": "2026-09-17T08:52:28.136911-04:00",
+  "total_stories": 113,
   "stories": [
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "AI at the dealership: handle with care",
-      "summary": "Costly retail mistakes show the necessity of strict guardrails and human oversight when it comes to using artificial intelligence.",
+      "title": "Financing fraud puts Canada’s vehicle exports in crosshairs",
+      "summary": "Organized crime is using stolen or fake identities to obtain vehicles in Canada and move them offshore.",
+      "source": "Automotive News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T12:08:50",
+      "link": "https://www.autonews.com/retail/anc-financing-fraud/"
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Daimler Truck’s new defense unit eyes U.S. in bid for growth",
+      "summary": "Daimler Truck Defence, launched in June, targets $1 billion in revenue by 2028. The German manufacturer is filling orders for France, Canada and Ukraine while assessing U.S. opportunities.",
+      "source": "Automotive News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T10:00:01",
+      "link": "https://www.autonews.com/manufacturing/an-daimler-defense-eyes-us-in-bid-for-growth-0917/"
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Toyota seeks dealers’ help with tariffs, shows new products in Las Vegas",
+      "summary": "Toyota dealers gathering in Las Vegas will lobby on tariffs that pushed vehicle prices higher. The automaker lost money in North America in 2025 despite selling 2.1 million vehicles.",
       "source": "Automotive News",
       "published": "Wed, 16 Sep 2026",
-      "published_iso": "2026-09-16T11:41:58",
-      "link": "https://www.autonews.com/retail/dealers-ai-risks-chatbots-appointments-pricing/"
+      "published_iso": "2026-09-16T20:00:00",
+      "link": "https://www.autonews.com/toyota/an-toyota-dealer-meeting-0916/"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "McLaren’s 2030 roadmap includes first SUV, hybrid coupes, sedan-like GT",
-      "summary": "The British marque plans to hybridize the majority of its lineup in the coming years and introduce two new vehicle classes: the SUV series and the limited-production Maverick series.",
+      "title": "​IRS finalizes auto loan deduction rules — F&I products in, negative equity stays out",
+      "summary": "The IRS finalized rules for the auto loan interest deduction, confirming a wide range of F&amp;I products qualify but rejecting industry requests to extend the write-off to negative vehicle equity.",
       "source": "Automotive News",
       "published": "Wed, 16 Sep 2026",
-      "published_iso": "2026-09-16T11:00:00",
-      "link": "https://www.autonews.com/car-concepts/future-product/an-mclaren-future-product-0916/"
+      "published_iso": "2026-09-16T19:59:26",
+      "link": "https://www.autonews.com/retail/finance-insurance/an-irs-auto-loan-interest-0916/"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Maserati to expand lineup with new crossover as dealers seek clear identity",
-      "summary": "The speedy GranTurismo and GranCabrio coupes and the Grecale midsize crossover are receiving updates before the end of 2026.",
+      "title": "First Shift: U.S. production being studied for some Ram pickups",
+      "summary": "Sale of Stellantis Brampton plant in the works | 2027 NACTOY semifinalists named | Ineos loses two U.S. dealerships",
       "source": "Automotive News",
       "published": "Wed, 16 Sep 2026",
-      "published_iso": "2026-09-16T11:00:00",
-      "link": "https://www.autonews.com/car-concepts/future-product/an-maserati-future-product-0916/"
+      "published_iso": "2026-09-16T19:06:51",
+      "link": "https://www.autonews.com/video/first-shift-us-production-being-studied-for-some-ram-pickups/"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "FTC offers guidance to help dealers comply with price advertising rules",
-      "summary": "The Federal Trade Commission released guidance for dealerships to comply with price advertising rules after earlier warning about six \"illegal\" practices.",
+      "title": "Fed raises rates for 1st time since 2023, while dealers feel effects of interest, inflation",
+      "summary": "The Federal Reserve raised its benchmark rate a quarter point, with another increase expected. Meanwhile, 39 percent of dealers say interest rates are a problem.",
       "source": "Automotive News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T22:19:35",
-      "link": "https://www.autonews.com/retail/finance-insurance/an-ftc-faqs-dealer-price-advertising-0915/"
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T18:16:05",
+      "link": "https://www.autonews.com/retail/finance-insurance/an-federal-reserve-interest-rate-decision-0916/"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "A strategic approach to growth can help dealers build for long-term value",
-      "summary": "Explore the full white paper to discover how dealers can build a strategic platform for long-term growth.",
+      "title": "GM’s next CarPlay play; AN Rising Stars talk AI, EVs and affordability",
+      "summary": "General Motors brings back CarPlay to gasoline-powered pickups. The Federal Trade Commission releases new guidance on dealer price advertising. Plus, three Automotive News Rising Stars talk about AI and EVs.",
       "source": "Automotive News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T19:32:37",
-      "link": "https://www.autonews.com/resource_center/dcg/rethinking-dealer-growth-dcg-september/"
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T17:11:32",
+      "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-gm-carplay-rising-stars-0916/"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Why Honda dealerships may be auto retail’s best acquisition value",
-      "summary": "First reported in the Q2 2026 Haig Report®, Honda has quietly become one of the best values in auto retail, combining strong throughput and loyal customers with multiples that still trail Toyota by a meaningful margin. With hybrid sales at record highs and a new facility program winning over dealers, Honda’s next earnings cycle may arrive well before its blue sky catches up.",
-      "source": "Automotive News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T18:27:32",
-      "link": "https://www.autonews.com/resource_center/haigpartners/an-why-honda-dealerships-may-be-auto-retails-best-acquisition-value/"
+      "title": "What the Fed’s rate hike means for car buyers and your F&I office",
+      "summary": "On the Dash: The Fed raised rates a quarter point to 3.75% to 4%, its first hike since 2023. Most\nThe post What the Fed&#8217;s rate hike means for car buyers and your F&#038;I office appeared first on CBT News.",
+      "source": "CBT News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T11:00:21",
+      "link": "https://www.cbtnews.com/what-feds-rate-hike-means-for-dealers/"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "The Haig Partners Franchise Horsepower Index: Where the real money is",
-      "summary": "Blue sky multiples tell you what buyers are willing to pay for a franchise, but they do not always reveal the underlying economics of the dealership. The Haig Partners Franchise Horsepower Index cuts through market sentiment to measure new vehicle revenue directly, indexed against the market average, so dealers can see where a dollar of goodwill actually buys performance.",
-      "source": "Automotive News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T18:27:28",
-      "link": "https://www.autonews.com/resource_center/haigpartners/an-the-haig-partners-franchise-horsepower-index-where-the-real-money-is/"
+      "title": "CarJiffy helps Carhub sell $2.9 million in vehicles online after hours",
+      "summary": "Car shoppers do much of their browsing long after most showrooms are closed. Most dealer websites let them view inventory\nThe post CarJiffy helps Carhub sell $2.9 million in vehicles online after hours appeared first on CBT News.",
+      "source": "CBT News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T09:04:52",
+      "link": "https://www.cbtnews.com/carjiffy-helps-carhub-sell-after-hours/"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "NADA welcomes FTC pricing FAQs as dealers gain clearer guidance",
-      "summary": "On the Dash: Dealer-required fees must be included in the advertised price, with only government-required charges generally excluded. MSRP, discounts,\nThe post NADA welcomes FTC pricing FAQs as dealers gain clearer guidance appeared first on CBT News.",
+      "title": "Former Chick-Fil-A VP on finding, hiring and keeping great talent",
+      "summary": "Many dealers fill open positions as quickly as they can, especially when good applicants are hard to find. The dealerships\nThe post Former Chick-Fil-A VP on finding, hiring and keeping great talent appeared first on CBT News.",
+      "source": "CBT News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T09:03:16",
+      "link": "https://www.cbtnews.com/former-chick-fil-a-vp-on-talent/"
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Toyota expands product lineup while dealers capitalize on strong demand",
+      "summary": "Toyota dealers are heading into their annual dealer meetings today, and there’s a lot for the industry to talk about.\nThe post Toyota expands product lineup while dealers capitalize on strong demand appeared first on CBT News.",
       "source": "CBT News",
       "published": "Wed, 16 Sep 2026",
-      "published_iso": "2026-09-16T11:28:14",
-      "link": "https://www.cbtnews.com/nada-welcomes-ftc-pricing-faqs/"
+      "published_iso": "2026-09-16T20:01:28",
+      "link": "https://www.cbtnews.com/toyota-dealers-expands-product-lineup/"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "What dealers should know about today’s oil and gas market",
-      "summary": "Oil prices are being shaped by more than how much crude the U.S. produces. Rey “RT” Treviño III, an Oil\nThe post What dealers should know about today&#8217;s oil and gas market appeared first on CBT News.",
+      "title": "CarGurus Kevin Roberts on used-vehicle demand, affordability",
+      "summary": "The used-vehicle market continues to show strength as affordability pressures push more consumers away from new vehicles. Kevin Roberts, Director\nThe post CarGurus Kevin Roberts on used-vehicle demand, affordability appeared first on CBT News.",
       "source": "CBT News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T19:47:35",
-      "link": "https://www.cbtnews.com/todays-oil-and-gas-market/"
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T19:01:51",
+      "link": "https://www.cbtnews.com/cargururs-used-vehicle-demand/"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Service scheduling improves industry-wide, Volkswagen dealers lead the pack",
-      "summary": "On the Dash: Every brand in the study improved its service scheduling score, lifting the industry average 7 points Volkswagen\nThe post Service scheduling improves industry-wide, Volkswagen dealers lead the pack appeared first on CBT News.",
+      "title": "Canadian dealer Glen Trafford talks tariffs, tight inventory and a record year",
+      "summary": "Canadian dealers are working through a new round of cross-border tariffs while still looking for ways to grow sales and\nThe post Canadian dealer Glen Trafford talks tariffs, tight inventory and a record year appeared first on CBT News.",
       "source": "CBT News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T10:33:16",
-      "link": "https://www.cbtnews.com/service-scheduling-improves-industry-wide/"
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T19:00:08",
+      "link": "https://www.cbtnews.com/canadian-dealer-glen-trafford/"
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "FTC pricing FAQs, Tesla plans $1.4M distribution center, EV sales jump",
+      "summary": "Top Stories  NADA welcomes FTC pricing FAQs as dealers gain clearer guidance. Read More Tesla plans $1.4M distribution center near\nThe post FTC pricing FAQs, Tesla plans $1.4M distribution center, EV sales jump appeared first on CBT News.",
+      "source": "CBT News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T14:00:20",
+      "link": "https://www.cbtnews.com/cbt-automotive-newscast-september-16-2026/"
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Your Vehicle Acquisition Team Should Be Driven By Analytics Pros, Not Legacy Car People",
+      "summary": "Every dealership sources inventory somewhere, but the channels do not behave the same way. New vehicle allocation is set by the manufacturer, not the store. Auction supply is broad, but the margin available there has thinned considerably. Trade-ins remain the most familiar channel, yet they represent a smaller share of available inventory today, and competition [&#8230;]",
+      "source": "Digital Dealer",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T11:00:13",
+      "link": "https://digitaldealer.com/news/your-vehicle-acquisition-team-should-be-driven-by-analytics-pros-not-legacy-car-people/173094/"
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Automotive AI Agent Platforms: How Dealerships and Automakers Are Putting AI to Work in 2026",
+      "summary": "Walk into almost any dealership&#8217;s back office today and you&#8217;ll hear the same complaint: leads come in faster than anyone can call them back. A customer submits a form at 11 p.m. about a used SUV, and by the time the BDC team picks it up the next morning, that buyer has already talked to [&#8230;]",
+      "source": "Digital Dealer",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T16:00:41",
+      "link": "https://digitaldealer.com/news/automotive-ai-agent-platforms-how-dealerships-and-automakers-are-putting-ai-to-work-in-2026/173091/"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
@@ -140,21 +194,21 @@
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Kelley Blue Book Report: Average New-Vehicle Transaction Price  Moves Back Above $50,000 in August",
-      "summary": "ATLANTA, Sept. 10, 2026 – The average transaction price (ATP) for a new vehicle in the U.S moved back above $50,000 in August, according to analysis by Kelley Blue Book. Transaction prices continued to be influenced by a richer mix of Midsize SUV sales and price increases across two of the most-popular, most-affordable segments: Subcompact SUVs [&#8230;]",
-      "source": "Digital Dealer",
-      "published": "Fri, 11 Sep 2026",
-      "published_iso": "2026-09-11T00:22:00",
-      "link": "https://digitaldealer.com/news/kelley-blue-book-report-average-new-vehicle-transaction-price-moves-back-above-50000-in-august/173215/"
+      "title": "Group 1 Automotive (GPI): Can High Debt and a Troubled UK Acquisition Derail the Recovery? - Yahoo Finance",
+      "summary": "Group 1 Automotive (GPI): Can High Debt and a Troubled UK Acquisition Derail the Recovery?&nbsp;&nbsp;Yahoo Finance",
+      "source": "\"Group 1 Automotive news\" - Google News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T11:52:44",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0o1anlsZmFDZXUzczVMUm1sNElkNC12elgwRVUwM2duazRsQkxuS2VneU4tQ19HdlcyTW9xazNfajd1SFB5cDV1UVdfMGh6MHpNR1QzS0ZjUjRKSEgtanhBc09Uel9ldW5waFQzaThYZXdxV05obWRZWTQ3YUlqVVpFV2dFS19BR19adFJiekUwMnpnaUZV?oc=5"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Compliance Considerations Are Becoming a Larger Part of the Technology Modernization Discussion for Dealers & Lenders",
-      "summary": "For many years, platform migration in auto lending was framed mostly as an efficiency question: faster origination, lower operating costs, better borrower experience. That framing is shifting. Regulatory change, audit expectations, calculation complexity, and the need for better documentation are increasingly part of the modernization discussion. For many dealers and lender partners, compliance ma...",
-      "source": "Digital Dealer",
-      "published": "Thu, 10 Sep 2026",
-      "published_iso": "2026-09-10T16:00:49",
-      "link": "https://digitaldealer.com/news/compliance-considerations-are-becoming-a-larger-part-of-the-technology-modernization-discussion-for-dealers-lenders/173087/"
+      "title": "Group 1 Automotive (NYSE: GPI) exec makes 854-share stock gift - Stock Titan",
+      "summary": "Group 1 Automotive (NYSE: GPI) exec makes 854-share stock gift&nbsp;&nbsp;Stock Titan",
+      "source": "\"Group 1 Automotive news\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T14:22:34",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMjdiczF3SXktNklUdmF5bENsQ0lGby1MTHNsYWZIVFlwYXdUVi1zUFpKWTNiSVZHME5LeVlKNHQ5UGRBbzFrcDAyVjBENmtuZjZVTTI1amtHZ3FuT1huY09ubk90UEVWVVlPNTNMX3pRSUNzTUE0aWhpQ2Zxdkl6TnZ3dGJCaEJ0eWRkdmNKWmF6RWJuVV9yYlZhejZHeWtOU1ZDQUVQYnMxd0FLLUJ4RzdKcTN3UQ?oc=5"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
@@ -167,21 +221,12 @@
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Group 1 Automotive (GPI) Prices $1.25 Billion Notes As Acquisition Nears - simplywall.st",
-      "summary": "Group 1 Automotive (GPI) Prices $1.25 Billion Notes As Acquisition Nears&nbsp;&nbsp;simplywall.st",
+      "title": "Group 1 Automotive Senior VP Gifts 854 Shares of Common Stock - Kalkine Media",
+      "summary": "Group 1 Automotive Senior VP Gifts 854 Shares of Common Stock&nbsp;&nbsp;Kalkine Media",
       "source": "\"Group 1 Automotive news\" - Google News",
-      "published": "Fri, 11 Sep 2026",
-      "published_iso": "2026-09-11T09:37:54",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMUlvTUE4Q3Ffc1h0Wl9idERPemR1eGRzbUlTMlhJUWtIaGZuTUU0bDB4Wm04WktfRFV0RnhqSE1tQi1fN2o5YzhfUFU0clVxUF81WDZ4S1Y2ZDVKbjN1Y3ozc2wxY0dhR1VFbFZ5a1MyNU4zYmdad2FHVjdLQTM5b3lWcmZtMlRPZURYWGQzOTRiMk5lTnpfLW5fUUFyeUE0QUFnMlA5dDJMbUVaai1DaDZhOElHMWNYcmtBT0VxTllnX2g4WmJSc2tjUWHSAdIBQVVfeXFMT1dscFFnZTVhdXJ5SFVPTDNtS0lOUVhaTk9hNTJHMldjclBjLXo5aUlwQ2ZCdk05VUtfczlLdkFWbHdJUGRrTXBrMUlRMlVpSzFzT3FIajhzazZ4MjNQU0ZabldqUDhfZFVwVlJ3Y2hKX2ZYZTVXOG9qYXZ6dmJrelVpRUxxSlQ0Q21KNkxCN3dmSUt4ZDk5NVBrVlVfWGwtN1RoYXF2UURTYkhZTTN3VEFPVWRmWGNEb3dFUWwxaDNzMi1RSmljVE1XbnBMWVBxd3Nn?oc=5"
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Daily 5 report for Sept. 11: Affordable, high-tech Chinese cars divide dealers and split buyers by age - Automotive News",
-      "summary": "Daily 5 report for Sept. 11: Affordable, high-tech Chinese cars divide dealers and split buyers by age&nbsp;&nbsp;Automotive News",
-      "source": "\"Group 1 Automotive news\" - Google News",
-      "published": "Fri, 11 Sep 2026",
-      "published_iso": "2026-09-11T19:00:00",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZnY3WHZkTjg2ZUR3QVdpb3BOOUlDdmdlWWJjWi0xNmFRS3ZFY3BsMlMtaU5YZWRuSzJnUUIxaVNlSm9OMnJjVHBIOXB2LS0tUFBKN1h2RDZzU3hxLWhCRXRtTC05NDY4NlZYNWhNUUZvcjVTRTNidGNNdnpUX0F5SzZocE0ySXZrYjFQRUQ1S2NlY2dac01Edmpyejc?oc=5"
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T14:42:32",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNTRLUVlsQ1cySDY0WU1ZakprenkxMm5XM21FZWlOd0tHUlZ6SWt5Qy12UXNYRVZORHNUTV9aTjdWeWZvc3hwMHRwS0FUM0hoUUVtVWhDM0sxSXZ5b1lIbk1GcHFXdXpBaE5RYkY1ZjRwWWdNTjM4SDNwUWt5ZlRmQlJaZ3NjMVMwS0t1TmMzM2xYZnZoeTB1Y2xTOXF6ZVFHQnpnbHIxTFlBaDQ2?oc=5"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
@@ -203,30 +248,12 @@
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Form 8K Group 1 Automotive Inc For: 10 September By Investing.com - Investing.com South Africa",
-      "summary": "Form 8K Group 1 Automotive Inc For: 10 September By Investing.com&nbsp;&nbsp;Investing.com South Africa",
+      "title": "Group 1 Automotive Announces $1.25 Billion Senior Notes Offering to Finance Hennessy Deal - Kalkine Media",
+      "summary": "Group 1 Automotive Announces $1.25 Billion Senior Notes Offering to Finance Hennessy Deal&nbsp;&nbsp;Kalkine Media",
       "source": "\"Group 1 Automotive news\" - Google News",
       "published": "Thu, 10 Sep 2026",
-      "published_iso": "2026-09-10T07:00:00",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVpyc184QWx5WjNjWGppWC1RNmJobWJ3VVg3UGNvYlZFOF9oQkZjaHhFWGFGY3pxeUY5N3BIVnVSY3ZCSC1WUTh1WVRUM0xIb3RJNGYyRlJzdGtLYmh6RW9iTDlTd0tqdVRjUWdUclpSVmRtOHBvLXlFUXV2OFVmWDI1bXp4NjFtNXVvVm5hTjI0S19BcGxicTF4QXVHLXdaU2tGck9oOE9UV2c5?oc=5"
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Sonic Automotive (SAH), Why Is It Getting Attention Now? - simplywall.st",
-      "summary": "Sonic Automotive (SAH), Why Is It Getting Attention Now?&nbsp;&nbsp;simplywall.st",
-      "source": "\"Sonic Automotive news\" - Google News",
-      "published": "Sun, 13 Sep 2026",
-      "published_iso": "2026-09-13T00:29:02",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXdPS3dZSW5RQnNubGY1TVV1YU9pTE9BTkQycDR2VGlSbVNMZFlXT1dxMmxsa1YxaDFfOVJVZEUtZFZCOGwwUUJtWU1QdV91R25WbE8tWnNEX0FVdDljbDdmZGVDZkV2TzhFS0xjX0hYaVlic2UxOE9fN1R1R0FFdkt6T042eFpMUEZ1TEFOUUFwS3VYc0pSZGNWUFVCcy02RS03ZG9MNGRBeFJVeUZxQnljV2RXeWJmSWJFd3gwMNIBxAFBVV95cUxQMENidHVFZUN5eENrVWlKREFPVWo1U1p5UXVXTFdqQllaTFFFU1p3NkcxSER6OXpIS2l6cVRjTTItdVN5YnVPb1JMZlN6RG9GdDJTV3BEcWFJODN5WXI2V1VCbHV3MUlhUkJrU2hGQTcwblNFWkFCWXF6enNOMzJhV3Fkd0lGanU4NHBOT2VJNVJKSWhFZUlZRDVNMXE0dGxvMVB5UzhxVFBjRnpURnlmUFZYX2o1T2kxaUc5MFFJQXRCcE1S?oc=5"
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "A Harley-Davidson dealer sold 511 bikes at Sturgis. Black Hills ranks No. 1 nationally. - Stock Titan",
-      "summary": "A Harley-Davidson dealer sold 511 bikes at Sturgis. Black Hills ranks No. 1 nationally.&nbsp;&nbsp;Stock Titan",
-      "source": "\"Sonic Automotive news\" - Google News",
-      "published": "Wed, 09 Sep 2026",
-      "published_iso": "2026-09-09T12:00:00",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlB1cFlEZWUxd29VaTdvUWN4OGlaelRMUEFmeS1wR1NGaUZNYVhHb3lZU19wLVRPOUd0OW5rdnVYSWJISnVINU9PRzhxaXZ5ZXY3aFlKYlNiV1BQSXV3QW10ZU1memJwVVZqNnJieVBvTGRzeUstOG9yUTZSWHNfSU9LRWM4aG1TUUhoM0pLbWNKVEZwb3p3SW1EZS1uYkVjR0MzcnYtQk5kSktkY00zVmhWN1Y4N3k0cUkxbnpLdw?oc=5"
+      "published_iso": "2026-09-10T16:13:49",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc3g4WFRaRDNxd1dkaHI5dWlpXy0xMHgwX20xTFZsNFFJcUdsU0Z3NGF2X1Y1dGZQUnVsOERWMUotTDlmZFhLZ0JlZFQzRHlJZk0tNFdjZ3h3MGU3VnNOZ0REVVVMOVd2dlVSR1VPc3pLdTA0NFNKdHNMM19HT0pmb3pEcWxSS1hxYTkwZHBVNEJvbDFCbzQ1V1lZaHoyYWFrVjRVOUlyLVVzcEhFdFBvbGVzN0JFUlVxVzNtSm8xVzdSejhnbEJQSERtdXBkU1E?oc=5"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
@@ -257,21 +284,21 @@
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Public Employees Retirement System of Ohio Makes New $901,000 Investment in Penske Automotive Group, Inc. $PAG - MarketBeat",
-      "summary": "Public Employees Retirement System of Ohio Makes New $901,000 Investment in Penske Automotive Group, Inc. $PAG&nbsp;&nbsp;MarketBeat",
-      "source": "\"Penske Automotive news\" - Google News",
-      "published": "Thu, 10 Sep 2026",
-      "published_iso": "2026-09-10T08:37:57",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTlFWcVlpcXhaOHc4aUVfUXlUWjNQN21US1FiNDNVMHVwaGpKQ2w4ejI2UENUamljQ2Z4MC1rUGxTOGRnY2RvSVhkRHZPR0RoUTNPOVdySGtNQlBLTU5fWXZVYWdTYWlqbXIwXzdLWnNBOUpnUTM5MXdwM0d5dk43S21OeUFhZ1hVTU1XMWU2c2pkbnp0amg3bHBQbi1yRllOUlVxd1BrN1NyMzhZUW1LdGpBT0VQd1dLY08tNHROUXo4VW1lTmx3bUx4MDVJRFhHQThEZmZHLVZ5OHZyNGF3RnJmR040WXlnemNpckk0VUFaLXhyWHA2NGx3?oc=5"
+      "title": "Asbury Automotive (NYSE: ABG) awards HR boss stock units vesting in three years - Stock Titan",
+      "summary": "Asbury Automotive (NYSE: ABG) awards HR boss stock units vesting in three years&nbsp;&nbsp;Stock Titan",
+      "source": "\"Asbury Automotive news\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T20:11:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWR3SUFick04V1cyVUw2eHdqU0tIN3JQV2VzLTM1NXMyMGJfN3NQM3BzNy1nUWxxYmZhWFV2Q2ozLXQ5SU5fR1JtQ09YcnVwdmRraV8wQ1ItemZ3SEtiV2c2cE5UMjNJcmNUWFp3RWVVUFBfOXNkblBVb0VuS0xySXd1SW1HemtTLS1udzdzOUl4dnVESUVQMERSZWdNbGUxeXlmSEZ6LW55a1ZnQk1yLVExemV5enhYNDRpSg?oc=5"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "California State Teachers Retirement System Has $4.30 Million Stake in Asbury Automotive Group, Inc. $ABG - MarketBeat",
-      "summary": "California State Teachers Retirement System Has $4.30 Million Stake in Asbury Automotive Group, Inc. $ABG&nbsp;&nbsp;MarketBeat",
+      "title": "Asbury Automotive Group Inc (ABG) Stock Down 4.8% -- Now Underva - GuruFocus",
+      "summary": "Asbury Automotive Group Inc (ABG) Stock Down 4.8% -- Now Underva&nbsp;&nbsp;GuruFocus",
       "source": "\"Asbury Automotive news\" - Google News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T19:01:43",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMEtLQjVuTnMxemRaQktQN0RrS3RPWEZSZzZISTlhYlNYWkhwRGZ2U2tJSjlqQnZVZ3dDUkE1S0FsUU0yZlhzYTlja25TVS14QkZDZ28yS0FOV0NGY1lxX3I5VzJKYzB2SHlZNElpNEhfUFBSMm55TVJ1TFU3VUdsZUZHSGczaDViQ3phMzVMdmFKVWFiVEZxWmJILUIyN3h1YmdNNnNKald2SHlJVmpMYUxMVUNLX2pfcGt0TDg1MlBEdGV1Rm04TnhVZkZ3d0hhalZJUXZwb0VqV1FkQmlmaEVrcXU3ZUczdnJYa0tBcWtna09vSXM5d2ln?oc=5"
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T23:43:11",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmNvU1ZGSjNnMmZibV9QNjNKZHZINm5JVWZBb3UtbWlPaVRIa2lFaW94T2VXMGdiZ0g1dzZyN1loWDlyRzRsdkpmV3V0WEN4aUZiZnRDdEJYQjc3RGk1b1NrR252QkVqM1kybE5IMDl6TUNWOHZQbTBBVnNzNUdPOUcwb1g4XzU4Q195d3ltMmFMQXZoRmhXYUpzX29fcjV6LVhBNERXaTlrVkNpTWl0U2VWdG5ZUQ?oc=5"
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
@@ -284,48 +311,48 @@
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Asbury Automotive Group, Inc. (NYSE:ABG) Receives Consensus Recommendation of \"Hold\" from Brokerages - MarketBeat",
-      "summary": "Asbury Automotive Group, Inc. (NYSE:ABG) Receives Consensus Recommendation of \"Hold\" from Brokerages&nbsp;&nbsp;MarketBeat",
+      "title": "California State Teachers Retirement System Has $4.30 Million Stake in Asbury Automotive Group, Inc. $ABG - MarketBeat",
+      "summary": "California State Teachers Retirement System Has $4.30 Million Stake in Asbury Automotive Group, Inc. $ABG&nbsp;&nbsp;MarketBeat",
       "source": "\"Asbury Automotive news\" - Google News",
-      "published": "Mon, 14 Sep 2026",
-      "published_iso": "2026-09-14T06:17:16",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMXQ1eXlCVzBDUi14QVcwSkIyS1lSbTlibVZXVXNVUkZQU2xPR2VRUi1jN21ER3NRc0xta3F3UW1wS25sODcyQXZRWnVwUThLc2x0WkY0ek02bC11UGdaVHhZdkNsa1R0Mm1uTmNhaXExRWlmLURYNDFqOGpGY3cxTEdOV1hqMTludTNPYVcwYnZ5N255VjliT18wbFhDdmlXLXU4RkRvMWUwdi1jZ2FqYVlyY1dwYUpoZjhxN3AtY0JUWHZBUVFRM29YVXdoanpTRVBqZEFwWTdnOEZaN25BdUVMdUh5Sk1NZnhMSWd4Yw?oc=5"
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Engineers Gate Manager LP Grows Stake in Asbury Automotive Group, Inc. $ABG - MarketBeat",
-      "summary": "Engineers Gate Manager LP Grows Stake in Asbury Automotive Group, Inc. $ABG&nbsp;&nbsp;MarketBeat",
-      "source": "\"Asbury Automotive news\" - Google News",
-      "published": "Mon, 14 Sep 2026",
-      "published_iso": "2026-09-14T08:41:13",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGxnTnd5YVU4aFdmSG96dTFRbjh3OWhPbE5CbnNuMVp4YWRpWlY2VWRJU2owVWFZUkxfTnlranlXVTN2R0VTTWoxSFhZS1I2MU1IZU9lT0RxTFp4emxONGprQkJJTmR0QXZMRWJuRnk3ZHhtSTlRNkh3Y3FidlNnamlIdWJFSjduOUFDYWJuSk5KdmlyaDBRTXdXRFFNWkdxQmNkR215cFhSN2F1dVlLbHV1YjJiaHBSXzlrb05TRlprZHM0SnRUeThlYVlZUQ?oc=5"
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Rick Hendrick - The Business Journals",
-      "summary": "Rick Hendrick&nbsp;&nbsp;The Business Journals",
-      "source": "\"Hendrick Automotive Group\" - Google News",
-      "published": "Fri, 11 Sep 2026",
-      "published_iso": "2026-09-11T16:47:27",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeDBOemFNYXVMSmNudzA0WGdJeFF5MnJzMjN6ZWJTaWptLUlxWkRkLXRSMlBzbGN5LTBQcFo5eW5hWFBfMjB6OXcwcWI5cm12QWtHQ2xONFJxWm80cjVlYThNWFFXbkhfY0NoTEpqd0NHeF9UeDNrWWlKOFA4NEdqMGIyTmtGTnFRYWgwbU9HbGFtSkxNaVE?oc=5"
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Hendrick Automotive Group is Charlotte's largest private company with nearly $15B in revenue - The Business Journals",
-      "summary": "Hendrick Automotive Group is Charlotte's largest private company with nearly $15B in revenue&nbsp;&nbsp;The Business Journals",
-      "source": "\"Hendrick Automotive Group\" - Google News",
-      "published": "Fri, 11 Sep 2026",
-      "published_iso": "2026-09-11T11:28:00",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUVU4UzdNR2hDVzEycFRuS3pFNjFyaE8xdUM0N2FyMnFndzR4aWJFay1iVlZFal9zQTBCYkNDTEMzQ0hVRGxfWUFrU2RWWXBWMVdSdl9kdWVLZUJPX1RoTklCcW9McVN3MGhocXBlVFFFSW1Mck52c09DWG9saXFUZGVOUlB0OXhnMG1aaVpNSl95RXJ6V0pkVVd4Zl9RQ2pJ?oc=5"
+      "published": "Tue, 15 Sep 2026",
+      "published_iso": "2026-09-15T07:00:00",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMEtLQjVuTnMxemRaQktQN0RrS3RPWEZSZzZISTlhYlNYWkhwRGZ2U2tJSjlqQnZVZ3dDUkE1S0FsUU0yZlhzYTlja25TVS14QkZDZ28yS0FOV0NGY1lxX3I5VzJKYzB2SHlZNElpNEhfUFBSMm55TVJ1TFU3VUdsZUZHSGczaDViQ3phMzVMdmFKVWFiVEZxWmJILUIyN3h1YmdNNnNKald2SHlJVmpMYUxMVUNLX2pfcGt0TDg1MlBEdGV1Rm04TnhVZkZ3d0hhalZJUXZwb0VqV1FkQmlmaEVrcXU3ZUczdnJYa0tBcWtna09vSXM5d2ln?oc=5"
     },
     {
       "category": "🔨 Auctions & Remarketing",
-      "title": "Copart to acquire ACV, expanding position across the vehicle remarketing ecosystem - CBT News",
-      "summary": "Copart to acquire ACV, expanding position across the vehicle remarketing ecosystem&nbsp;&nbsp;CBT News",
+      "title": "Copart launches tender offer for ACV Auctions at $10.50 per share - Investing.com UK",
+      "summary": "Copart launches tender offer for ACV Auctions at $10.50 per share&nbsp;&nbsp;Investing.com UK",
       "source": "\"ACV Auctions news\" - Google News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T12:38:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVXZwNGlQWW5yS0l3Rkw3N1h5ZmNYZzhnNS1HLW9wTElUdGpGb1hRSTNGVE1nWWZOcGQ4aVZKNWlJQXo4NXRSSFVBNnMtWkhnZC1rZ1hBMGdjeHNlYUZFUjc1R2NNcjFLbnRGd2FXTWJXWHdwdkFiWUpWaEZwSlB5R3p2N29aY0o2WWphUWd0ZElzb01XamN6TVNaekZCV1FPTk5kT29GX0p6TUFfTkVUZG5Uczc1cTVSWmlUaThXLW1UQQ?oc=5"
+    },
+    {
+      "category": "🔨 Auctions & Remarketing",
+      "title": "With ACV Auctions, Copart plans broader reach into wholesale auction market - Automotive News",
+      "summary": "With ACV Auctions, Copart plans broader reach into wholesale auction market&nbsp;&nbsp;Automotive News",
+      "source": "\"ACV Auctions news\" - Google News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T11:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdDJ5bnZVdzdNQ0FhRHpUT3dqRjA0cEtHcmlfR01OWTBOTVZzTzA1aWp5dkNfZ3pIOWcwQ291VmZJaTFjdHAzeld6SnRNUDNIRUFBLXB6dkhvNUJmeVROcENZSDAxcENfdG9seGRnNDdodzk5cDRpV0lqMlFKNF94bEdGOGx5cXdPdlhnaVRodU1xRUVURVBGY3Blcw?oc=5"
+    },
+    {
+      "category": "🔨 Auctions & Remarketing",
+      "title": "ACV Auctions (ACVA) Stock May Be Fully Priced Despite $1.9B Takeover Deal - simplywall.st",
+      "summary": "ACV Auctions (ACVA) Stock May Be Fully Priced Despite $1.9B Takeover Deal&nbsp;&nbsp;simplywall.st",
+      "source": "\"ACV Auctions news\" - Google News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T02:34:02",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeUZQSFU2bVllR1RoUnBiOUxOZFhRTFB2U2RSVFlrT0Nfb09GT2hNWnVMLTFULUVMdDZPTFZHcEhSdkhSUDA0OTlWU1lFeWRzckNFRXZoRW9LQ1o2TFhJOU9MajJPcnBaWWs1NFdoMXlydVRrNV95d2MzcFllUGJRc3pUcGNXYk95eEtTb2owakJIWnVUc1FldHJhLXBqUVVpVTRjTktFZ0FrRFNiWENwN0huTTF0eDBwRGExOFN4RmRKMHl2T0hxdmplaVNiMkg4dDd2V1pTTTVwVi1q0gHcAUFVX3lxTFB5RlBIVTZtWWVHVGhScGI5TE5kWFFMUHZTZFJUWWtPQ19vT0ZPaE1adUwtMVQtRUx0Nk9MVkdwSFJ2SFJQMDQ5OVZTWUV5ZHNyQ0VFdmhFb0tDWjZMWEk5T0xqMk9ycFpZazU0V2gxeXJ1VGs1X3l3YzNwWWVQYlFzelRwY1diT3l4S1NvajBqQkhadVRzUWV0cmEtcGpRVWlVNGNOS0VnQWtEU2JYQ3A3SG5NMXR4MHBEYTE4U3hGZEoweXZPSHF2amVpU2IySDh0N3ZXWlNNNXBWLWo?oc=5"
+    },
+    {
+      "category": "🔨 Auctions & Remarketing",
+      "title": "New York City Puts Repossessed and Abandoned Cars Up for Auction - ForumDaily New York",
+      "summary": "New York City Puts Repossessed and Abandoned Cars Up for Auction&nbsp;&nbsp;ForumDaily New York",
+      "source": "\"auto repossession auction US\" - Google News",
       "published": "Wed, 16 Sep 2026",
-      "published_iso": "2026-09-16T12:00:02",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHRzZqc3FTWDhYRUZiWWlvakZKUkVEM0stMzAxYy12MVFzLWxpNUxLWVV3R1daeks1UnRIQnFDdjRoX0pSckQzWklFM1Q0MHU0YmVsdUMxRFZQdw?oc=5"
+      "published_iso": "2026-09-16T22:12:51",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSmM0NnVTSEhrclpEaXdjOVZaNmtPalhqc1JtNUV1WFZhZ0phSlZzSUVlSTVnb2hCMVcyQnZHOFNfUkc1dW1KRHRhcHV3WXp5NEE0Q0RoSWFJcGN6ZWhfX2h1SU1zSnZHMzBtUHJQMkF2OExOTDJrRHVpTHp5SmhMSExrRGQ1bGJJNnNPTlRoUFdWLVk?oc=5"
     },
     {
       "category": "🔨 Auctions & Remarketing",
@@ -338,12 +365,12 @@
     },
     {
       "category": "🔨 Auctions & Remarketing",
-      "title": "ACV Auctions (ACVA) Agrees To $1.9 Billion All Cash Acquisition Deal - simplywall.st",
-      "summary": "ACV Auctions (ACVA) Agrees To $1.9 Billion All Cash Acquisition Deal&nbsp;&nbsp;simplywall.st",
-      "source": "\"ACV Auctions news\" - Google News",
+      "title": "Carvana Brings Inspection and Reconditioning Center Capabilities to ADESA Charlotte - Business Wire",
+      "summary": "Carvana Brings Inspection and Reconditioning Center Capabilities to ADESA Charlotte&nbsp;&nbsp;Business Wire",
+      "source": "\"ADESA auto auction news\" - Google News",
       "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T22:37:23",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX2FFQmY2M0pqczZHWHpqOENoOVUyX0xuWkZaUEdOdGZJcjRtZmJwaWh4dVNpNmUwRnpOeERBUHdfSHdSQzJoMEtJTnh5eGRlUGxtdHdpOGdKdzBfSGJCeERFb2lxZEJLNDVsc3pwNW1EVHRpMzg2U2VLV0EydlhVYjE1aUpmQWVYd19ibS1GNlFTbUxzNzNONHFXTlhFb29Ua1N5MzlJX003SHZjdjBXdGxWTjR1cjQySGdWcUpUMFViTHluRVllN3BVWENLNUhUMXZkMjZR0gHbAUFVX3lxTE5ObW1uTXRwcnRYT0N6OU16SGdYd1ktUUF5czlZeGE0YlZJQXFhNUtvX2NZR2VHUTg3VW5oTDRrNFZsOG91VTVsRlVCd0lKWUI3Si1ndzFhOXlWRllaUW9Sb3RDbXRMMHN4MVhTT3hyUkJnVGxtdERna0V3RU9HRUdqanZNWC10d2JNS09URy1DY2F5WEs1dnUtWERGRFh6U1dNMjNfWmRyVFpJSlByT0RyazUzSWFHTHU1cHBZMmRUOXJTQnlySjdLUHNmTlJMYUZGMUlRSWxVN2tYRQ?oc=5"
+      "published_iso": "2026-09-15T12:00:00",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaVB4X005cnhvSDZlZkpTS21acjV2TlQtTHQxS2g5RmpPcTVlOTlvS1p2a0laektIQjBnV0lMcVBQdE03cU8wcEVtdzZrZWFjaElhWHJkQzRFakxjb2Z6aWZkYlVqdTUzUjZFd2VsWVVvaWNQdmlmRFV6YVFTT2M2QkZYeXZibnE4U2NvYV8tamxKUGpiOWdlejUwQzBGMXlfRVlOd0lkTEJJYUlTN0RjeklNd1R1TkZSLWxtTk9WN2RBRlU2Zm5tbjJQVTN1WkJxXzVvdXBwZw?oc=5"
     },
     {
       "category": "🔨 Auctions & Remarketing",
@@ -356,12 +383,21 @@
     },
     {
       "category": "🔨 Auctions & Remarketing",
-      "title": "Copart to Buy ACV Auctions in $1.9 Billion Deal - Insurance Journal",
-      "summary": "Copart to Buy ACV Auctions in $1.9 Billion Deal&nbsp;&nbsp;Insurance Journal",
+      "title": "Copart to Buy ACV Auctions in $1.9 Billion Deal - insurancejournal.com",
+      "summary": "Copart to Buy ACV Auctions in $1.9 Billion Deal&nbsp;&nbsp;insurancejournal.com",
       "source": "\"ACV Auctions news\" - Google News",
       "published": "Mon, 14 Sep 2026",
       "published_iso": "2026-09-14T12:02:30",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tRDR6cV9wTF91SDhfdWhfcF8tcWFwbUdueDE1eDc1ZFlCb1BzeU4xX3phdndtZ2o0aFB4TV9XWk5YbnBkS3FiOWpHYU1wcEZPWHpnR3BYVmM2aVFKYzVnSnluN1NvbTc4ZldxZUc5YTdaQQ?oc=5"
+    },
+    {
+      "category": "🔨 Auctions & Remarketing",
+      "title": "Buffalo's ACV Auctions agrees to $1.9 billion acquisition by Copart - WGRZ",
+      "summary": "Buffalo's ACV Auctions agrees to $1.9 billion acquisition by Copart&nbsp;&nbsp;WGRZ",
+      "source": "\"ACV Auctions news\" - Google News",
+      "published": "Sun, 13 Sep 2026",
+      "published_iso": "2026-09-13T00:06:00",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeThpc1RFb3luWXFDVXl2VjlkckMyRWxvZEVkXzNoZk9mSVdOcjJyUGVsdTVsc1Y3UnBEWEI0aGVXczl4RkxHQlpiS1VJZDZST01EQ09yWktRMENzM3czNXdNTEtqTGpyUVN6VFhfOUlwQndqcTY5LUsyZGcyMTZ1OTl1OWdGdURFTDFDQjZYS3FidnVWbzZiNzZUSTZFWlNMQlcyV2k1LThud3RPcEttOVpCb3R0RlBJZHlEVTZzWHBjc2wtX2tQSWstRFZPQQ?oc=5"
     },
     {
       "category": "🔨 Auctions & Remarketing",
@@ -374,21 +410,21 @@
     },
     {
       "category": "🔨 Auctions & Remarketing",
-      "title": "ACV Auctions $1.9 billion deal raises questions about its impact on Buffalo Niagara - buffalonews.com",
-      "summary": "ACV Auctions $1.9 billion deal raises questions about its impact on Buffalo Niagara&nbsp;&nbsp;buffalonews.com",
-      "source": "\"ACV Auctions news\" - Google News",
-      "published": "Sat, 12 Sep 2026",
-      "published_iso": "2026-09-12T10:30:00",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGprSlZRVkVTVmJzWk5VMllSVE5oVUVRSk91MS1sQzJseE9veVFrb0Y2cm9OaWVqMnVIZ2d2RklZeGl4dHlNVm90WG9DVlBtdlhmU0h1dXoyQ2xweTBqN093Uk1MU1dlMFZ1RzFxallZVXNkRzlNSGdtc2pYekVHNVVkeGpWWUxEYUtOMmUwRHhEc2ZlR2dvNw?oc=5"
-    },
-    {
-      "category": "🔨 Auctions & Remarketing",
-      "title": "Copart to Buy ACV Auctions for $1.9 Billion in Cash Deal - backfirenews.com",
-      "summary": "Copart to Buy ACV Auctions for $1.9 Billion in Cash Deal&nbsp;&nbsp;backfirenews.com",
+      "title": "Copart to Buy ACV Auctions for $1.9 Billion in Cash Deal - Backfire News",
+      "summary": "Copart to Buy ACV Auctions for $1.9 Billion in Cash Deal&nbsp;&nbsp;Backfire News",
       "source": "\"off lease vehicle auction US\" - Google News",
       "published": "Fri, 11 Sep 2026",
       "published_iso": "2026-09-11T17:48:47",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWotUWQ1UHNHV3ZXdE5Bd0Y3VFRzM0NGM0QwN09iNW1aLTJ5amtmeDBRcW9hM0lBRU9zWDV5VmJBQWswbFdldXR6MVhXLXpOUlNjZjhSM3ltcU1LZmNzRThVUWZCaFpTZ1FRN2JwVVAzSExzQ21rZDBvLUJublN6U05iV1l3ZHVzQTJoVjR5c0t5YWtwYlJNNmFOSmRYd1NxdHFwUk9QMkFzSnBhQkpYRGpRQ2w?oc=5"
+    },
+    {
+      "category": "🔨 Auctions & Remarketing",
+      "title": "ACV Auctions (ACVA) Shares Skyrocket, What You Need To Know - TradingView",
+      "summary": "ACV Auctions (ACVA) Shares Skyrocket, What You Need To Know&nbsp;&nbsp;TradingView",
+      "source": "\"vehicle remarketing US news\" - Google News",
+      "published": "Fri, 11 Sep 2026",
+      "published_iso": "2026-09-11T16:20:41",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkJvRWJhajFMV0pfZ1lyMzBSc1V4SnVzNVpWc2VxTmcyNWtfR0MwMHdrYVpxWklqZ1JYeXhLdUZMX2RKd3dzSTFUUHRiSjJLUWsxR1RnaFhfLTBuMzk2eEFndFhQQWxTSFNmTi1qeVRkazVIQUtkX19IaEJ6VjNkLVB6Ykt6ZDJiR09IOEtwNVpyWUQ2bDdmaTljNEJGSVQ0M2NiUGRSa1dZSW5GWjBuRjZ6aGNoMDdx?oc=5"
     },
     {
       "category": "🔨 Auctions & Remarketing",
@@ -410,26 +446,17 @@
     },
     {
       "category": "🔨 Auctions & Remarketing",
-      "title": "Copart to acquire wholesale digital marketplace company ACV Auctions for $1.9 billion - Automotive News",
-      "summary": "Copart to acquire wholesale digital marketplace company ACV Auctions for $1.9 billion&nbsp;&nbsp;Automotive News",
+      "title": "Copart to buy ACV Auctions in $1.9 billion deal - Reuters",
+      "summary": "Copart to buy ACV Auctions in $1.9 billion deal&nbsp;&nbsp;Reuters",
       "source": "\"ACV Auctions news\" - Google News",
-      "published": "Thu, 10 Sep 2026",
-      "published_iso": "2026-09-10T21:47:00",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzNZaUtVMnNSSWZQLTZzeXQtT1o2aE1OWjQ3S2ZSNjVDc3hjNDYtZm55bGZKV3lFSU1FQ3dZeGxoV2hGcnFkUUlfTndqWEVudlBLWmZkZW9oZ0ZMLThMU0tXUTlTTy1rQzVWR0hhbXlRdkxsaG9zaWNSblI2R3lhR1FBV1dhbFk?oc=5"
+      "published": "Fri, 11 Sep 2026",
+      "published_iso": "2026-09-11T00:28:48",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXhwcVJ1aVRqNFlKdHJFMFdGY0hBd3A0QXlib2J2MEU0ZXJ4VnFOMEowdG1NWWtRVkhWVXdCTUdOdE84QWN5bnVDZEJOZlV3TVZqT1Bia0VBUzB0TV93Vy1OOF9keWJxLXU4cGJrUXVDWW1vUDBGX0U2UmdDOC1XcnEtOXdwci1BRnRwZw?oc=5"
     },
     {
       "category": "🔨 Auctions & Remarketing",
-      "title": "Copart Buying ACV Auctions for $1.9 Billion in Its Biggest-Ever Deal - Bloomberg.com",
-      "summary": "Copart Buying ACV Auctions for $1.9 Billion in Its Biggest-Ever Deal&nbsp;&nbsp;Bloomberg.com",
-      "source": "\"ACV Auctions news\" - Google News",
-      "published": "Thu, 10 Sep 2026",
-      "published_iso": "2026-09-10T21:13:00",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOenU4VFoyZGx0NTk3LTN4Mm9qbWRYOGNsM1dEQjlSMVBKM29pamZyQWFVcFd3UkpRNFZ5cTctd3RfUTFHV0pzWWZuUEM3VUdiQzN6bE5yU0YwdE0wX3p6UFY1YWlvNWc4OF9BVzZnTnlWZW9yT2JCcUVjVXNIM0ZuV0lNanV2RTJLSnMyMVJVZ0t2LXhOdXpsbEk2cm0yOUdDS0E5bm5lUVZtUUw1aXlGQVFYZ1E?oc=5"
-    },
-    {
-      "category": "🔨 Auctions & Remarketing",
-      "title": "Kelley Blue Book Report: Average New-Vehicle Transaction Price Moves Back Above $50,000 in August - coxautoinc.com",
-      "summary": "Kelley Blue Book Report: Average New-Vehicle Transaction Price Moves Back Above $50,000 in August&nbsp;&nbsp;coxautoinc.com",
+      "title": "Kelley Blue Book Report: Average New-Vehicle Transaction Price Moves Back Above $50,000 in August - Cox Automotive Inc.",
+      "summary": "Kelley Blue Book Report: Average New-Vehicle Transaction Price Moves Back Above $50,000 in August&nbsp;&nbsp;Cox Automotive Inc.",
       "source": "\"NADA book used vehicle values\" - Google News",
       "published": "Thu, 10 Sep 2026",
       "published_iso": "2026-09-10T15:47:50",
@@ -437,12 +464,57 @@
     },
     {
       "category": "🏦 Lenders & Credit",
-      "title": "Truist Financial to sell $5.5 billion of auto loans amid overhaul - SRN News",
-      "summary": "Truist Financial to sell $5.5 billion of auto loans amid overhaul&nbsp;&nbsp;SRN News",
-      "source": "\"US Bank auto lending news\" - Google News",
+      "title": "Mechanics Bank sells $417M auto loan portfolio to BofA - Investing.com India",
+      "summary": "Mechanics Bank sells $417M auto loan portfolio to BofA&nbsp;&nbsp;Investing.com India",
+      "source": "\"Mechanics Bank auto dealer finance\" - Google News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T00:11:35",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0ZDaThURzY0UXNwY29Zck12QzA3cmNwN1JRNUZkNkxZWU0zQTQ0RXd1YTE2RnRYT0hZdmt5ZThBZ1AzZjdqY3ZsYnRRRXcwRVRERG4zak00bTJOME1JRE41OGZSZko3SWJLZ3FZeXhPbFlLRWpMVGdjSDdISmJUUnRxVFJELXVndXltVTVRYjJja1hPNXVfaWFWNllTdmYzbGhMNGdRVUotODFydUhCeFVxcEI?oc=5"
+    },
+    {
+      "category": "🏦 Lenders & Credit",
+      "title": "Mechanics Bank Completes Sale of Substantial Majority of Runoff Auto Loan Portfolio to Bank of America - marketscreener.com",
+      "summary": "Mechanics Bank Completes Sale of Substantial Majority of Runoff Auto Loan Portfolio to Bank of America&nbsp;&nbsp;marketscreener.com",
+      "source": "\"Mechanics Bank auto dealer finance\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T22:19:06",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc3ZRdUlzcUxXZm9yTjBQWkJEVDZFSmEwcE04amdFQkVXcHRYNVh0bVNRSHR3ZlRQbGtPa01IeXNqaE9fbnpvZk1TOW1od0s0Szg5bktRSVZmd0VacG1yQnhZZDEzYkRRM1pmVFhvam12Vk5qaDBSVVhfY3VXbUFaSVFqcG5IMy05ZUpGSmFIU2xnemNzUnJCLURLWWc4TzFpOGxCWEtBMmpjalE4SzFmWmt5Y0d0Uzk1aEF6WkJQbmRCcUIxVkRHU3ZSVmZpMmVTclJHbTlMVDhkMnJWekpvaVRFS3dqQ0NW?oc=5"
+    },
+    {
+      "category": "🏦 Lenders & Credit",
+      "title": "Truist Financial stock gains as $5.5 billion auto loan exit boosts capital - ad-hoc-news.de",
+      "summary": "Truist Financial stock gains as $5.5 billion auto loan exit boosts capital&nbsp;&nbsp;ad-hoc-news.de",
+      "source": "\"auto lender exit OR bankruptcy OR acquired\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T21:15:18",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMXFRTm1ieGFQZEp0bndkVUV3anB0bmljZld2ZS1DZXVzVFhFcVdFRW9qd2tUOVdha1d1Q3Q5NmEzbHVtaXB2SVpwMExQaGR2dG1VMDVMdTdXaGZOa2dJTEdVRktscjY1T0gyeG9HZTNXTUNnWnRicUY4Zk96Q1pMcW9UNUFqbHhwMmhTdkpRSk5sOERrTzhDakQwSndkYWZGNnpzNEI2d0NWVVEyWmxLU3A0dWFlXzNvNEdfbW9IT19Celk2TEVWNXpWRW5lcnFMSkE?oc=5"
+    },
+    {
+      "category": "🏦 Lenders & Credit",
+      "title": "​IRS finalizes auto loan deduction rules — F&I products in, negative equity stays out - Automotive News",
+      "summary": "​IRS finalizes auto loan deduction rules — F&amp;I products in, negative equity stays out&nbsp;&nbsp;Automotive News",
+      "source": "\"dealer reserve auto loan regulation\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T19:59:00",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1lwbXpOY3RxR0k1NExrN21lRnhfTzl4UG4teVphNGJQRDFCbHhVX0wzdEVwQm5xMVU0WklpLW14SHFTQTF4TkVfV0VUNEh4Z2NYYTlVWldHWUVTdUE2c0dSNFRQaUtoWUI3aWFoV1dIN1ZEeDJ0VmNod09EeXNvRUFXZnlYdVdn?oc=5"
+    },
+    {
+      "category": "🏦 Lenders & Credit",
+      "title": "Credit Acceptance extends warehouse facility to 2028 By Investing.com - Investing.com Australia",
+      "summary": "Credit Acceptance extends warehouse facility to 2028 By Investing.com&nbsp;&nbsp;Investing.com Australia",
+      "source": "\"Credit Acceptance Corporation CACC\" - Google News",
       "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T20:57:30",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmxrZEdUSTVsUnlYb3dIVEtuamMzMzROYWtBSFRsRDZqbHZzckRTSnUyQzRRc2dXQnBEYThONndIdmY4eS04VVRmOXYwOXd3YWFuODIxZTMyZExiZkZPQndvTUFSa2J0RmxZOGNjaE16Mk9uNXVLQWVOX2ZIWllmWU5ZOUtndmkwTmlJbUpn?oc=5"
+      "published_iso": "2026-09-15T20:50:49",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODBCRFk0X1hiM0g1RVc0LUZyeFJ6SEZ2aWtDeE8zTTRuckpmdXBIMnRtazJqWVhDWDluYmZhMEc5enRQWkxQVVJlZ0tTbWdlYTc4QnlqY0VsZUpkZlA0aWhSc1lsTUZzTVhVTnR3RGh6LXM0RURKX3FRM2ZjZVR6akFkWS1UTTVFa0dIcFN3MWdkMDlHUVU1cTEzQXpBQmdNZ054NlppMDBqOW5sV204NS0xSQ?oc=5"
+    },
+    {
+      "category": "🏦 Lenders & Credit",
+      "title": "Credit Acceptance extends warehouse facility to 2028 By Investing.com - Investing.com Nigeria",
+      "summary": "Credit Acceptance extends warehouse facility to 2028 By Investing.com&nbsp;&nbsp;Investing.com Nigeria",
+      "source": "\"Credit Acceptance Corporation CACC\" - Google News",
+      "published": "Tue, 15 Sep 2026",
+      "published_iso": "2026-09-15T20:50:37",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEpLYU90MUsxMFJTdjQ3Vmx0YWRNRHctOFAwczF2VlRoak96S29QRldnV3lHaU1zVTNKa25UTXp5U0dlZnY2cWwtNUZ6OVdTU1JXV1FuNG1seFdmckNxQWdpY1B1cnJ4SFFLODBWSmhUeXFzLWpSbE1OZDIyS3ZFRXozb3QtVmZGWERLZmlpTm1LeUFmV2NFdTZnQjZKYXpiSzlLRVc2LWhKazJUS2Uydks5cw?oc=5"
     },
     {
       "category": "🏦 Lenders & Credit",
@@ -482,21 +554,12 @@
     },
     {
       "category": "🏦 Lenders & Credit",
-      "title": "Credit Acceptance Announces Extension of Revolving Secured Warehouse Facility and Extension of $500.0 Million Asset-Backed Financing - Yahoo Finance",
-      "summary": "Credit Acceptance Announces Extension of Revolving Secured Warehouse Facility and Extension of $500.0 Million Asset-Backed Financing&nbsp;&nbsp;Yahoo Finance",
+      "title": "Credit Acceptance Announces Extension of Revolving Secured Warehouse Facility and Extension of $500.0 Million Asset-Backed Financing - Yahoo! Finance Canada",
+      "summary": "Credit Acceptance Announces Extension of Revolving Secured Warehouse Facility and Extension of $500.0 Million Asset-Backed Financing&nbsp;&nbsp;Yahoo! Finance Canada",
       "source": "\"Credit Acceptance Corporation CACC\" - Google News",
       "published": "Tue, 15 Sep 2026",
       "published_iso": "2026-09-15T20:02:00",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHpXZmZVLVNHZzhGN25yc3ZXQkQtc21FVHpQb3pjWkViOTV6bzN6amV2VWptUVk0eV9PTlFsZWc1X3ZqczFaVDh5VGUxcmo0V3hQcjFiX2lCVW9vSEtTVU1KaFZNWUtiYXhfc0dOU0VENVFudlpCYzJfT2pIWWw5TC0tTVFYZnpWalRza1Y4ZGtEOVpRX1Q1RmlWekZnemk5V2lQS2thRHdERnNrR0xnWnJn?oc=5"
-    },
-    {
-      "category": "🏦 Lenders & Credit",
-      "title": "Truist Sells $5.5 Billion In Auto Loans To Shrink - Finimize",
-      "summary": "Truist Sells $5.5 Billion In Auto Loans To Shrink&nbsp;&nbsp;Finimize",
-      "source": "\"US Bank auto lending news\" - Google News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T19:50:04",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS1BTOTlvTmdsSVZrOE1yOFVuR3JWeWtkZ0dRVU1sRjM3UlhuSFUtT2h2UlJ4emRUZTBlcVg5dktLczZQd0NvQTVaOWM0U0htNU0ycFhZYS1CSjhRekRhSXJwZUgtWHJNN0pvejVKangwNzRxZ25Za042eTFtWWhBTE53?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUFVU0hRTFplMDYxdkl2Y0pRSHJUdV9NRnZZZkwtd09yYVU5SHRENWxzRHFaMV84b0xRTWowRTl6Z040V0RYUmNkUXJEcjFSNEZsaXJlNUxOaDJMME9vRmdHa0dUNDJrQm1nT2tLTm83dEJvdkxMMjZZTE13MTNHOWl6Qjc3WndPV2l6WTlRSXFRU3oyVkxPTU1lTDk?oc=5"
     },
     {
       "category": "🏦 Lenders & Credit",
@@ -544,40 +607,67 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iZXJxUkdFZDRPb0RueXFzU19HZHhrUk0xdWhyMmw0eHN2WFhKODEzZWg4V3Q1eTJVMkxYd1h1MkxKcnlqa3gwRzB3TXJEMEo3TkR6cUg2TQ?oc=5"
     },
     {
-      "category": "🏦 Lenders & Credit",
-      "title": "(CACC) Price Dynamics and Execution-Aware Positioning - Stock Traders Daily",
-      "summary": "(CACC) Price Dynamics and Execution-Aware Positioning&nbsp;&nbsp;Stock Traders Daily",
-      "source": "\"Credit Acceptance Corporation CACC\" - Google News",
-      "published": "Wed, 09 Sep 2026",
-      "published_iso": "2026-09-09T23:08:02",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcHh6bDMxTlJyWWNBdHNHQmpyYURzOTBHNzZGREczSzcyVVNJWm5IUmJxUmNORXRTMlcyUm5fem44TUE1TlVNV25qS3JRd2Q4SnBlblg3SXllTUJ1ck1kYl9yY2E3SVgtMTh4S2pyTTRaLW9DYUZuX1dENmNXYktSTlBZblRVRFctS3h6RFQ0eFBMX2ZRX2pRclptblpIVGZkN1VqWlM2dEJHdVplV0lfQ0YxNGs0b0tIWjFfOXNZM3huWkZCNjZUN2lybw?oc=5"
+      "category": "📣 Digital Marketing & Consumer Platforms",
+      "title": "Land Rover, Stellantis Partner to Reportedly Build a Defender Pickup in the U.S. - Kelley Blue Book",
+      "summary": "Land Rover, Stellantis Partner to Reportedly Build a Defender Pickup in the U.S.&nbsp;&nbsp;Kelley Blue Book",
+      "source": "\"Kelley Blue Book news\" - Google News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T12:33:45",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeFRvVGRBTmZ6cG42cElBOEl5bFl4RHBTUTRXSXRLRHd3b0YxUDhyMDFxWXpOYm5SLUhmUkd6cTMzSTdaakJWRXQ0VjRiQk5BZVpPMm5GQXh2dW03N21lZlJEMU5jbTNEcVd2LUdvQUpfMFdTZHRqd2VDQmd1V2IzVDRGVjVMMVkyQ0Y3dHUzUUtPamVtOHVSMElGVy1aVEdVSjIzVVFlQmZuYS00?oc=5"
     },
     {
-      "category": "🏦 Lenders & Credit",
-      "title": "Is the Options Market Predicting a Spike in Credit Acceptance Stock? - TradingView",
-      "summary": "Is the Options Market Predicting a Spike in Credit Acceptance Stock?&nbsp;&nbsp;TradingView",
-      "source": "\"Credit Acceptance Corporation CACC\" - Google News",
-      "published": "Wed, 09 Sep 2026",
-      "published_iso": "2026-09-09T14:25:00",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNkNLZ0VsVGdSMTJtSDBrZ0s0aFpYcXNDQnFnMmxjT0hBV05QdWFDby1QNHd0Y2k0c2ZDbmVJbklUbDJvTl9yUWRRa0lUR3dob1Q4QXRqLXlJUXRHQmtHNkYyeVZmSjk5Z3lqeHVsalhPU2lPMFdJYjI5U25jZ0g3UW5uOVowXzZ0d1FUck9HV24taldCWnYyejZ3ZnV1d2ZwMjBZNG9QVHlOTFI4OFZLVDVzZV9neXdYejFYWTRqTko?oc=5"
+      "category": "📣 Digital Marketing & Consumer Platforms",
+      "title": "2026 Mazda CX-70 PHEV: Everything You Want to Know About the Infotainment System - Kelley Blue Book",
+      "summary": "2026 Mazda CX-70 PHEV: Everything You Want to Know About the Infotainment System&nbsp;&nbsp;Kelley Blue Book",
+      "source": "\"Kelley Blue Book news\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T21:29:07",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWdzWXR6bzFoUW9rdXRGeWtCZVJQMVYya294RFdZcndqa0RRM0Nwd1JpOFRFME5JeUd1Y3FGd0luWDZHVEdkLVh2RVpBMS1NWWtvN0x6QVlQOXhqM2c3UW5zbVNQMWo5NDhiSU9xY1RNQXZYNi05LThHLVh6M2hZVVhhdkQ5YnVGSVdZbzZWV21rblJvYk8ya3NLdnU1VlI1T3lpLXJEMDU1YmtjVnc?oc=5"
     },
     {
-      "category": "🏦 Lenders & Credit",
-      "title": "U.S. auto loan ABS delinquencies show sharp regional gaps in 1H 2026 - Traders Union",
-      "summary": "U.S. auto loan ABS delinquencies show sharp regional gaps in 1H 2026&nbsp;&nbsp;Traders Union",
-      "source": "\"auto ABS securitization news US\" - Google News",
-      "published": "Wed, 09 Sep 2026",
-      "published_iso": "2026-09-09T12:18:25",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTNmMFM4V3dZOHJHZFBVWnlneWdUdlVSM1NIcG4wbmhVX1U3MmN4Z1hrOEFUV1RqZThKeU9yRnpBM29pU2FndnItanNkV1VndTA5SVVLeVk0TWhwRzE2Z0pobl9MUmxkckdfYVg5ck0wRjZmLV82OWV3RDZXUGpxVVBqZzVRMTNKazNSWDRheDVrc0RSZzRwbnZB?oc=5"
+      "category": "📣 Digital Marketing & Consumer Platforms",
+      "title": "Cheapest EV Lease Deals for September 2026 - Cars.com",
+      "summary": "Cheapest EV Lease Deals for September 2026&nbsp;&nbsp;Cars.com",
+      "source": "\"Cars.com dealer news\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T21:24:16",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12eFM1dkxxUmt4YllDTW51TWljY3RGa3VXbTBBbldLSTYyZUJUendwSEJpS1lyYVZOTWxVckpfbTZmRzluRnZCanc2NkZubUttM1QySXZkeWtWa3BXanp4aDNhMnFXdVpOa1hHY3dR?oc=5"
     },
     {
-      "category": "🏛️ Fed Data & Economic Releases",
-      "title": "19 Revealing Credit Card Charge-Off Rate Statistics - CardRates.com",
-      "summary": "19 Revealing Credit Card Charge-Off Rate Statistics&nbsp;&nbsp;CardRates.com",
-      "source": "\"Federal Reserve charge-off delinquency rates banks\" - Google News",
-      "published": "Mon, 14 Sep 2026",
-      "published_iso": "2026-09-14T00:00:00",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wdEtMbGVIRDFYdEZXbW9YejV2ZUpVNXpEcmxyMFU0ZEZyeXoybUxFVXc0SkxhVGFsc2gtWnotUVB4WkMxVlg5N3JobGFYRkV2a3JiVk1tZ2lhelZ2ODNkOThzS3J1R29USGpuWWFZcUY1X0dEcnhzeFR2RzFrUQ?oc=5"
+      "category": "📣 Digital Marketing & Consumer Platforms",
+      "title": "Builder confidence dips in September - hbsdealer.com",
+      "summary": "Builder confidence dips in September&nbsp;&nbsp;hbsdealer.com",
+      "source": "\"Dealer.com website news\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T15:47:51",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iWUxBRnZMekNaNU1WTV9LdjIwVE5KZmlFMlRScTViN1R0NmFNWlZPMUJUaVFadWdLWTVQY0hGcHVMTVFoZHpwa1JZOU1lWWp6ZnMtQk81ZHZBZGZ3RmFOcXQzSjhjZw?oc=5"
+    },
+    {
+      "category": "📣 Digital Marketing & Consumer Platforms",
+      "title": "What Are the Cheapest New Cars With All-Wheel Drive? - Cars.com",
+      "summary": "What Are the Cheapest New Cars With All-Wheel Drive?&nbsp;&nbsp;Cars.com",
+      "source": "\"Cars.com dealer news\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T15:28:57",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTg2dFdoaEdrcXl4QXF3Tnh5bGkybWc0UU14WWVXQ0VCd01ocEt4emVfUUZERXo4bDVpbVBXTW1GblF3aGwxakhVaEI0c3NqcmtDRVdBV0NFdFo5U2sxbU1DM282MFhPNGpPX25HQ25NQVlvVTJVWFBQV2w0X2hwNTBoQzBhd09GMGpQMW9ZV0hobDg?oc=5"
+    },
+    {
+      "category": "📣 Digital Marketing & Consumer Platforms",
+      "title": "Masco names chief technology, AI officer - hbsdealer.com",
+      "summary": "Masco names chief technology, AI officer&nbsp;&nbsp;hbsdealer.com",
+      "source": "\"Dealer.com website news\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T14:02:03",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDajF2UnAyemtad0kydVQ5OEthbERLR1ZXdHphRmNrb2RuUkl0ZlI5Z1dYekFLT3V2NTg1OTJyVlFjZFQ1Wk5PaHRxY2dtT0FCX1NhMk85ODcyTUp0VmFuOHNKRW5fbzlKUlV0WEJB?oc=5"
+    },
+    {
+      "category": "📣 Digital Marketing & Consumer Platforms",
+      "title": "LMC appoints director of millwork - hbsdealer.com",
+      "summary": "LMC appoints director of millwork&nbsp;&nbsp;hbsdealer.com",
+      "source": "\"Dealer.com website news\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T13:06:33",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BN1F3T0ZKZ1NTemY2bnBqSlhMVkRtUmJMdlh4V2J3X3BPbkJac0l5UEJHa25DYmtuYmw1WGJTaFcxbWlyMThWZEk1cUF3RDVLaTVoZ1p3a2VHVlowUjI4RWpB?oc=5"
     },
     {
       "category": "📣 Digital Marketing & Consumer Platforms",
@@ -587,24 +677,6 @@
       "published": "Wed, 16 Sep 2026",
       "published_iso": "2026-09-16T11:22:18",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORzdmam9ER0dxWU50LXE4eVNMbGtvMkNjM3Z1Z1ZIVXhOWFRqc1haY19CUkFFZGpqY2UtUFJJbGFzQXJwM25TaUMtY1dGWFMtWkVVQjNzbkZKUkNTN1RabjNQSTRqODc1eENRZXkxSWtEeWlhZVoxYUVmc051VWpoVzRIakxQUQ?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "10 Best Car Deals in September 2026 - Kelley Blue Book",
-      "summary": "10 Best Car Deals in September 2026&nbsp;&nbsp;Kelley Blue Book",
-      "source": "\"Kelley Blue Book news\" - Google News",
-      "published": "Wed, 16 Sep 2026",
-      "published_iso": "2026-09-16T10:50:25",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VVlZyNVU3S1EySWd4aVFHa2FTbnlfdDludkZUTjFmZVBOSzZjYWFIVFJ3X1BaZzBoc0MyaXZWZ2h0bmwzU3BxS0VJbWtYTXNtME1oWW9oLW11RnVFamc3dEN3?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "Michelin Launches X Multi Energy D2 Tire for Regional Haulers - moderntiredealer.com",
-      "summary": "Michelin Launches X Multi Energy D2 Tire for Regional Haulers&nbsp;&nbsp;moderntiredealer.com",
-      "source": "\"Dealer.com website news\" - Google News",
-      "published": "Wed, 16 Sep 2026",
-      "published_iso": "2026-09-16T07:51:00",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSldLTDdkdTJzWUlIQ3A4Ql9qRm0xS3NYVk1zaGkzTGxIT2xEdlpYbzkzNTNDTEgtTWZtUjJMM3BvUkdpY2pwbEgwT1NBcWpuWEJBcTF4c2ZmWHM5UER4aXk4LUZ2VmtPMy1rUk9YZDRMaHJoY0FMR0JhT09Oa0FJS0J5WkVBd0dDcHJVZ0RrNEt0MDd0bkJHQzdOb2V6MDdTX3Z1eVZ5QXNCOFctYk9IYmJMbGNOaWVPZkVLVm5PVTZMVXZLa1Jv?oc=5"
     },
     {
       "category": "📣 Digital Marketing & Consumer Platforms",
@@ -635,42 +707,6 @@
     },
     {
       "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "Tesla Teases Oct. 1 Launch Date for Next Generation Roadster - Kelley Blue Book",
-      "summary": "Tesla Teases Oct. 1 Launch Date for Next Generation Roadster&nbsp;&nbsp;Kelley Blue Book",
-      "source": "\"Kelley Blue Book news\" - Google News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T19:42:47",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzF6aERXS1BmSGpkYVRoTGlabnJkVHZEc1c3TzRYUGM4TzE0c0RweWVNVUFDX01UWVpxZURzdFpTYm8tc3ExUzRITll2OGJYZjZFZVpYVTZ3aTBFc0xjbGhpbWw2cmUtaXhmT1hsSFlxcjNaLXNIX2FBSzk5N0FmTGtZNUt3WExLQTVoUGt2Tmo0U21xOVVPZQ?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "TIA Opens Registration for 2026 Global Tire Expo Networking Events - moderntiredealer.com",
-      "summary": "TIA Opens Registration for 2026 Global Tire Expo Networking Events&nbsp;&nbsp;moderntiredealer.com",
-      "source": "\"Dealer.com website news\" - Google News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T18:34:58",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmhSdTZ6OXpDcnZUcllqSXZuRE83UkxNRjRCVzRzVUlPS3RJMDdqV2hVRFZnME91cVgtdkxNODRjUDhaQkxhb2I4RGFMTmtKeUxaX0VLV2pKVWlYMmE2R1Q5dGtKQ3BlV2V2UjRjVG9vcFlEVFAxSXg5TEgtSjJHWUlOU0pwd3FuZEhoXzM4bmVIMFp1dFZYbzdYVVNtcUtjeWhHUy1pclBnQzdYYWYxbzBITThqV3UwMVpaejBRd08?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "Dunlop Analysis Questions California Tire Rule Savings - moderntiredealer.com",
-      "summary": "Dunlop Analysis Questions California Tire Rule Savings&nbsp;&nbsp;moderntiredealer.com",
-      "source": "\"Dealer.com website news\" - Google News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T18:34:58",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY0tkb2Z1dldPUEpSZTdxTWJfTzZuZC1ta0Y5dUVuMWF6cUx3LXh1QkRlU3J5Z3R6dXZNQk1nanc4OG9jMEFJUXNLVHp1S0Iyd1NXaG9LMURkbjFobmdwNlJndFVvX1pnRzJ3U1diSTdWcXNGOEZ3RFhMYnlvY2dST3p6ZkVvWXp5Y0hpQTJxMnRaMGYwMFBQZnFoNnU5SnJLck9pb0k1dnZwbjFiMDN6ekM5bXRQRnU1Nm9hSTlaQ0NLR0tRTV8wbGM4bTFEd1FRYy1naVZ4QQ?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "Yokohama TWS Highlights Mitas-NTPA Sponsorship - moderntiredealer.com",
-      "summary": "Yokohama TWS Highlights Mitas-NTPA Sponsorship&nbsp;&nbsp;moderntiredealer.com",
-      "source": "\"Dealer.com website news\" - Google News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T18:34:58",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWlQ4NVl2UXkzazhQeEp3OU5vai1KVTdJVjN0M0luang3XzB1ZElMWW5UNlg5cDZ3RVhKTmJDX1FWSEhBRDg4R1c2NTJNTHJoX1Q5ZXZjOG9lX3YtX1l6RnFocjdxVFl1emxxS3V2QjhmcWc1SF9hMjgtdk5VZHg2MFdtcjV2QTZIbUFPN19ESGd4RlRHT3BiVzlGdXhTX2hrZW1fekRZdkdYVTlzWUpRMjhvWQ?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
       "title": "Report: Audi Offers Up to $10,000 Toward EV Lease Buyouts - Kelley Blue Book",
       "summary": "Report: Audi Offers Up to $10,000 Toward EV Lease Buyouts&nbsp;&nbsp;Kelley Blue Book",
       "source": "\"Kelley Blue Book news\" - Google News",
@@ -680,39 +716,39 @@
     },
     {
       "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "Ford Recalls Over 200,000 F-150s Due to Unsecured Fuel Tank Issue - Kelley Blue Book",
-      "summary": "Ford Recalls Over 200,000 F-150s Due to Unsecured Fuel Tank Issue&nbsp;&nbsp;Kelley Blue Book",
+      "title": "Rural King grows in Ga. - hbsdealer.com",
+      "summary": "Rural King grows in Ga.&nbsp;&nbsp;hbsdealer.com",
+      "source": "\"Dealer.com website news\" - Google News",
+      "published": "Tue, 15 Sep 2026",
+      "published_iso": "2026-09-15T16:07:42",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nNnh2dEFRcDlYZlA3MlE0aTBWTkJMTVcwSW96blRRREVJaWM5dWhUZVFyVXZCQnhLWEoxeGpWVG5DcGJtQWhXTWhlejB4QWdnU1Zv?oc=5"
+    },
+    {
+      "category": "📣 Digital Marketing & Consumer Platforms",
+      "title": "Pella appoints operations exec - hbsdealer.com",
+      "summary": "Pella appoints operations exec&nbsp;&nbsp;hbsdealer.com",
+      "source": "\"Dealer.com website news\" - Google News",
+      "published": "Tue, 15 Sep 2026",
+      "published_iso": "2026-09-15T14:40:37",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ncmlIVmx2cEFzWkllZDNBbG9xbUlVTmxGQ0FTdUt2UEwzM2VyRzBOYmRycFRsVy02YmlwU2k0d1NmNHBobnh0XzMwbzB1M1ZXR21FUGUxZXBSUXB2UmlBdTRB?oc=5"
+    },
+    {
+      "category": "📣 Digital Marketing & Consumer Platforms",
+      "title": "Sunbelt Modular Partners expands - hbsdealer.com",
+      "summary": "Sunbelt Modular Partners expands&nbsp;&nbsp;hbsdealer.com",
+      "source": "\"Dealer.com website news\" - Google News",
+      "published": "Tue, 15 Sep 2026",
+      "published_iso": "2026-09-15T14:14:52",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxR3JTTDE5d3B3UGFrUFRSMEQ1UEpLQUhpdkN1aVlfYzJta204LWdUbmNFSkE4OGgwSWNpUVBxYUswTk1nNE5FRHhWd0sxLXlPQnVHYXlyM1RRSnpIOG11dW9rT18?oc=5"
+    },
+    {
+      "category": "📣 Digital Marketing & Consumer Platforms",
+      "title": "10 Best Car Deals in September 2026 - Kelley Blue Book",
+      "summary": "10 Best Car Deals in September 2026&nbsp;&nbsp;Kelley Blue Book",
       "source": "\"Kelley Blue Book news\" - Google News",
       "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T17:56:57",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd3hNTTNPQmR0SlNQNzZlVEk3aDBITjdJMEJVb1NZZVlLdVBBbzlKOEdHUzR2bDcyMTBZdnJYUnpnOVpWYjE2Zk55U28zckI5dmN0NGdfSGtsdEpSeTg3Yi00VXppcVNvbmswMTZIeHJsTnh3LUNUQkxvSXZRYnAzV09VeEg3WFFoc01GVjgtT3BkVWp3SmI0VU1n?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "Les Schwab’s CMC Tire Acquires BestDrive Locations in Arizona - moderntiredealer.com",
-      "summary": "Les Schwab’s CMC Tire Acquires BestDrive Locations in Arizona&nbsp;&nbsp;moderntiredealer.com",
-      "source": "\"Dealer.com website news\" - Google News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T16:44:51",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3h4OXRuRVlFOUwyYkF2TTlXT1FXTGRfSTVTYWExUVZySTNSLUExRFl3aGswVTZiSnpxZUxQcklrQklLVkM2MERlcHZOS3BvbWkweGVYd1lTZmtERUM0dDZQUEo2QTJrcU55VzNzT2lfUWF0Yk1kd19PLWhEeTZ5ajRzUWpGcWF1M2FTU2V4RXZfVmYwWklTc3pBbFdOMVpXY2xUVTdRMHFZRDRQa3dCTzJUMjI0VFZKMU5CeTRuaDRaOXBfQjFoOW5n?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "Penske Sustainability Executive Joins Tire Recycling Foundation Board - moderntiredealer.com",
-      "summary": "Penske Sustainability Executive Joins Tire Recycling Foundation Board&nbsp;&nbsp;moderntiredealer.com",
-      "source": "\"Dealer.com website news\" - Google News",
-      "published": "Mon, 14 Sep 2026",
-      "published_iso": "2026-09-14T23:56:31",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQS1QZGhLOW1VTXVhRGxWRlY0YnA4WDFpTlhNWU1YODFsQndKRWhFeFJxRVhpRkpzTWMta3JLYXB2bEpxaTYtdjRZRXl5YXlZRXN2RmJTcksxTkRnaW9FZDhIRGIyZUdnSUM4U0ZOX0k4SUxORjJTMzdwYUo3cE12Y05LLVhLVmM3T3QwRU13UWtObmowdUtTQVdCcENNS1dwWXdRMTI0SmNoTmRkOGZkdjc2eWpUODFGeFBVRDZfeS12U2c2?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "TIA Announces 2026 Board of Directors - moderntiredealer.com",
-      "summary": "TIA Announces 2026 Board of Directors&nbsp;&nbsp;moderntiredealer.com",
-      "source": "\"Dealer.com website news\" - Google News",
-      "published": "Mon, 14 Sep 2026",
-      "published_iso": "2026-09-14T17:46:05",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2JXQWpXLWtobGNBZmRuOXlCQnJvMnZnWW45QVNlc01kMDVWV2JOM2ZBVFJKaHZzeWI2MGpGdWJ0UzFjTmVXdmdQaWdUN2pRY0t5WXQ2RlVsRHhURkg1cHc5ZUp2V1pVUlVENkFVbDFnQVl1Ml80TlI5LVQ3dVREdjZva3JoX2pGMTViQml5LWhOZlRFd3l6ZDhFRVVEbkhQM0pNb0xwX1AyWEVQdGZCMVFDMnVuMTg?oc=5"
+      "published_iso": "2026-09-15T07:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VVlZyNVU3S1EySWd4aVFHa2FTbnlfdDludkZUTjFmZVBOSzZjYWFIVFJ3X1BaZzBoc0MyaXZWZ2h0bmwzU3BxS0VJbWtYTXNtME1oWW9oLW11RnVFamc3dEN3?oc=5"
     },
     {
       "category": "📣 Digital Marketing & Consumer Platforms",
@@ -734,15 +770,6 @@
     },
     {
       "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "How Do Car Seats Fit in a 2027 Kia Seltos? - Cars.com",
-      "summary": "How Do Car Seats Fit in a 2027 Kia Seltos?&nbsp;&nbsp;Cars.com",
-      "source": "\"Cars.com dealer news\" - Google News",
-      "published": "Mon, 14 Sep 2026",
-      "published_iso": "2026-09-14T15:19:58",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZG4zZHlSY05fYUJHY1J5Q0VWZnlSUi14ZXVrQjFQZ1VVQVRrOUJ1MkdFdjRHSHhDVkJkMlB3aVY3Q2RYSWF2aWE0ZDNSOVh3ZG1obmR3M3pqdDJScl9kMHFRNzhmTnRQaFpPSTNDT3l4NF9rZ08tS19jZ012VzFGYnVPQ3czdw?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
       "title": "Back To School: Subaru Ascent Helps a Family Get Along - Kelley Blue Book",
       "summary": "Back To School: Subaru Ascent Helps a Family Get Along&nbsp;&nbsp;Kelley Blue Book",
       "source": "\"Kelley Blue Book news\" - Google News",
@@ -752,30 +779,12 @@
     },
     {
       "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "Autotrader adds ‘Key Selling Points’, updates Price Indicator - Motor Trade News",
-      "summary": "Autotrader adds ‘Key Selling Points’, updates Price Indicator&nbsp;&nbsp;Motor Trade News",
-      "source": "\"AutoTrader dealer news US\" - Google News",
-      "published": "Mon, 14 Sep 2026",
-      "published_iso": "2026-09-14T11:43:42",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnlRQ3NhZENMWHUwVElHVjhyc2FkSVRkVjRKbTVpRndHX3RHWFVXa2V1cVo0eVJ4QW0yWTU4LWJpQkdmTXBBd05yQ3gwMUVsQmo5M0RVcmdKTGFPUTBadFhTeXpfVkJoejFSbkNrVVVJZFU0VmRhMGljc1k5TUlWd0FnMUpFcW9HSHQ2TXpoT2NQcENVTzZ2WHZFTFB2anJpWVY4UkR0VmhTdw?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "Dealers gain tools to explain vehicle value on Autotrader - AM-online",
-      "summary": "Dealers gain tools to explain vehicle value on Autotrader&nbsp;&nbsp;AM-online",
-      "source": "\"AutoTrader dealer news US\" - Google News",
-      "published": "Mon, 14 Sep 2026",
-      "published_iso": "2026-09-14T11:14:14",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzlsR1RvNjYyeERWLW5JT21rRWtpQ3BpXy0yazl5T3F5RkZtMlVEeWRGNUNkVndWYjI5a2V3cXlITWJmczZjNExhZ3RhamxvSU4wQk1Zd0JfVHBJbUx0WElSa2RIQ1hSTmZEZWVKV1VhdXhMUWNBZTc4bFVjaHhpd2R0ZjNoSWdfeHZrcDh5dHdvQQ?oc=5"
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "Autotrader to overhaul Price Indicator with new dealer commentary and selling points - Car Dealer Magazine",
-      "summary": "Autotrader to overhaul Price Indicator with new dealer commentary and selling points&nbsp;&nbsp;Car Dealer Magazine",
-      "source": "\"AutoTrader dealer news US\" - Google News",
-      "published": "Mon, 14 Sep 2026",
-      "published_iso": "2026-09-14T09:20:00",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3FHYjRQRF9PQmFQYkp5RmNOU04xNWVfaXFnSFZua1pkTS1LTHh5cm1lY2ZFZUFVeWFmSU5JWUIwbjJGVzdSbEpvSmwxU09TVG9OQk9uTjc3Zm5XOXVxa0t5OUtyMk1PbTdTM29KNGZZamgtOUhwcXpYQ3BJbjlJMUhTdi1BRFJSV3pZSC0teWwtUXdVa1dVU09PS21kcWxfMm1xdmNLZWNwUjJiaTFseWVEbUY0VXk0Tm9qZm5oU3Y?oc=5"
+      "title": "One on One with Trusty-Cook - hbsdealer.com",
+      "summary": "One on One with Trusty-Cook&nbsp;&nbsp;hbsdealer.com",
+      "source": "\"Dealer.com website news\" - Google News",
+      "published": "Sun, 13 Sep 2026",
+      "published_iso": "2026-09-13T16:24:44",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02dUEyTjVTU05vUUdYVUJ0bENqZEM2Z1J5NmVEaC1NaHN4YmtiSm01aWRlUGllU3ZlN1B6cDhENzYxNUpQQ0hsMzFfUE91MXdFWlBR?oc=5"
     },
     {
       "category": "📣 Digital Marketing & Consumer Platforms",
@@ -806,21 +815,48 @@
     },
     {
       "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Rivian R2 vs Tesla Model Y: The $5,000 Difference That's About To Get Smaller - CarBuzz",
+      "summary": "Rivian R2 vs Tesla Model Y: The $5,000 Difference That's About To Get Smaller&nbsp;&nbsp;CarBuzz",
+      "source": "\"Rivian news 2026\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T17:00:11",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MRXlQZ0dtWmIyT2FlVHN6am91bXNNZ0tqRThYVHZGNVZXZERYU054RjRDX3otakZTOUZvR0xybHEyVHZ4WmNGUkV4anRnUTFpZVZLWXNsSTd6RjZSTjdDT2JB?oc=5"
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Rivian Automotive CAO Michael Callahan Sells 15,000 Shares via Rule 10b5-1 Plan - Kalkine Media",
+      "summary": "Rivian Automotive CAO Michael Callahan Sells 15,000 Shares via Rule 10b5-1 Plan&nbsp;&nbsp;Kalkine Media",
+      "source": "\"Rivian news 2026\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T14:07:13",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZTdjY2t0NmliMEw4Y3NpbDNNbm41T2tpMVNqWUx5UGZ2amJpeDdUQjM2dkFXREpUcU4zdGp2Qk00bmppOFJiTUpFZzExLTU3ZXltSEJyNHl0dklFcFR5elBCT1g2UVlvQU5KRFR5M0FCT3haRE5CbWt2N0J2cGY1Ml9RaHJZTFBZMjF2dWJjYXdsZ3Z4MGliXzJHbEtWbzhXUkxtdHNuaWltYm1IMEpqVXk0SlMzc2RJZ20wbm85SHRpTFU?oc=5"
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Rivian’s ALSO e-bikes are finally hitting the road – but not for frustrated customers - Electrek",
+      "summary": "Rivian’s ALSO e-bikes are finally hitting the road – but not for frustrated customers&nbsp;&nbsp;Electrek",
+      "source": "\"Rivian news 2026\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T12:33:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYWk1SzFmR3g4UDhYRjR6eTZuZ2NQUUdLaFYxbnY4TjJaX1JRd0lRUmdkRnQxMHJRV2tuRGRFdThCYVNmazFvdDlac2phN0hJYXoxRVFVX2xaRnJCOG50bHNQc1NSVDh0WTVZS1o1X1ZJTDF0WUNYd2k0OWx2eEpneXdaNFdhWEZWeGtlRzB0WVlLZnRkWTZ0WHpnYXdRSEJlOGRuR25vUzdjemxPNl9OSXc3djY?oc=5"
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Rivian’s R2 Ramp Is Gated by Tier 2 and Tier 3 Suppliers, CEO Says - eletric-vehicles.com",
+      "summary": "Rivian’s R2 Ramp Is Gated by Tier 2 and Tier 3 Suppliers, CEO Says&nbsp;&nbsp;eletric-vehicles.com",
+      "source": "\"Rivian news 2026\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T09:47:59",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYktBaDZwQ1J6eGYzYmFmZWwtN2ZDYVEyTTZ0UlYtOHFIWnRWVkowUi01eHhjMGZtX3pvMVpQbi1FUXBmWGhEdkxQdmEwUGZIUm5rdXc2RDQ0OGNLblNnajdrMHl5blhPTS1HZHIwcWFaazFBWUVmN01fRXFPX1F1eWVac3BQSGJuU19zSXJDVGNUUWxZWjY0MjJvdFFuaUduNFJn?oc=5"
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
       "title": "Albright Credit Union Launches Consumer Deposit Account Opening on Enable's Unified Modern Platform - ACCESS Newswire",
       "summary": "Albright Credit Union Launches Consumer Deposit Account Opening on Enable's Unified Modern Platform&nbsp;&nbsp;ACCESS Newswire",
       "source": "\"Open Lending credit union tech\" - Google News",
       "published": "Wed, 16 Sep 2026",
       "published_iso": "2026-09-16T05:01:25",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaVY0UlBTSWVTNm9fWnJmTFdycFJwaTVTdm11MEd4VVJmWFJveG5kWTl2UEdNbElKVWRna2x0UUNJaFlRdzRiQmZzMldhQmk2bnFld1BYc0FsQ3d3M3BaczFXcmxxNkVXS1pKb2hBZkRNcnI1SDh6X3I5NVNEV0NpZlltNS1FcGdxcGJKbmh2TE0yNnpOUEpENXN2ZzY4cEtrU3Iwbjczb2x2RjROQWZXbHFXYnBhbGdqSVBMYlFLZlViWWsxOEV6aTI4Qm1Md0NNZXVQclFjenVuUmhCMDRLUGRwajg?oc=5"
-    },
-    {
-      "category": "💻 Auto Tech, EV & Innovation",
-      "title": "BYD to Prepare Electric Cars with Solid-State Batteries by 2027 - VOI.id",
-      "summary": "BYD to Prepare Electric Cars with Solid-State Batteries by 2027&nbsp;&nbsp;VOI.id",
-      "source": "\"solid state battery automotive\" - Google News",
-      "published": "Tue, 15 Sep 2026",
-      "published_iso": "2026-09-15T22:30:00",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5xeTdZUGRuajkwSDNNMEQwM2ltVFJnWmwwZUEySG82Mzk5NjFWZVFqbVZZZmJNS2RxWmJGZ3B1SGlrVjlZ0gFCQVVfeXFMTldqN2t4dWFNZE1tSVJnMHg3bDZvaDFJZl9SRGE3bUVRUG5MdEtVZG1uNmozS3lZamxTd1ZsTXBNSXB3?oc=5"
     },
     {
       "category": "💻 Auto Tech, EV & Innovation",
@@ -842,12 +878,21 @@
     },
     {
       "category": "💻 Auto Tech, EV & Innovation",
-      "title": "BYD details solid-state battery EV launch and accident insurance for its FSD rival - Notebookcheck",
-      "summary": "BYD details solid-state battery EV launch and accident insurance for its FSD rival&nbsp;&nbsp;Notebookcheck",
+      "title": "BYD tips launch of electric vehicle with solid-state battery - Notebookcheck",
+      "summary": "BYD tips launch of electric vehicle with solid-state battery&nbsp;&nbsp;Notebookcheck",
       "source": "\"solid state battery automotive\" - Google News",
       "published": "Tue, 15 Sep 2026",
       "published_iso": "2026-09-15T12:50:00",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGxOMzFCdkptUzlZVTM0T0FjUGpnalpsVm1kNW4xUmpUY2kyaExiQjVWYTFaWDNBd2tHQ2MtWUFld2hUMFVpTkwzaVBJT2VXaFdCeFA0Z28zQW5mbTgyLUdwWVVrN0RmZXJzYjR4cUZoMk55TGhBZV9kQmNOYXNJN1A2WnVNQnhTLU9RdUl2WnV6MmJwcFBSekF5c3BLbzQ2Vl9qX0NBMnQ2dGJjbVdLVUlsSWwtRF9FUUJIS0ItdU9Xa3ZHUHc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUhTVzZHVmxhQzQtclE4WS1TUV93d1RyLV9vMTdEeFpfSkpCMGJKMEFjNmFUN2hkTVJOOGhOUEdLSTFXaWlfV0xtTllpaEJHclFzUE43bjJrd1hEaktWT3RNelFhWDF4RlQ0NE1iY0ZhcS12aUM0WFZrUVZ2RGdSaUhtelNxSjdKNkI0ZmFZY3k1alNQaVhOMEI0dnF1U1lGOGJYQXEtbF8?oc=5"
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "BYD to Unveil Solid-State Battery in 2027 Leading Industry Race - Fuel Cells Works",
+      "summary": "BYD to Unveil Solid-State Battery in 2027 Leading Industry Race&nbsp;&nbsp;Fuel Cells Works",
+      "source": "\"solid state battery automotive\" - Google News",
+      "published": "Mon, 14 Sep 2026",
+      "published_iso": "2026-09-14T19:41:00",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZkNKV2s1Ymx5bDl3Y3NzSW9OTHJIU3JzeUQtRUpqU0FxeFJvQkJSVnJqNGVXdUZwZmowenZxekY2V2Y0M3lmZkhlZE1wa1ZPMkFlb3B5U0c3TjdDM04zcndxZXlsVnk0SXNlUUxnOFEzNTdLZEM5czg2aE9xd2NDdDgzNWxBSV85Rkl2dGlKWHR3TkFmcXNKTVplVlloQ3I4azJFN0NxX2lEZE1JY2F1eEV1RU1WTF9LM2tSVmpVMnZOZlBmeDVLSnJpeHcwVGlvRnZRVGt5UzhQM3Ey?oc=5"
     },
     {
       "category": "💻 Auto Tech, EV & Innovation",
@@ -878,8 +923,8 @@
     },
     {
       "category": "💻 Auto Tech, EV & Innovation",
-      "title": "Breakthrough of the Year: BYD Will Launch a Car with a Solid-State Battery as Early as 2027 - Root-Nation.com",
-      "summary": "Breakthrough of the Year: BYD Will Launch a Car with a Solid-State Battery as Early as 2027&nbsp;&nbsp;Root-Nation.com",
+      "title": "Breakthrough of the Year: BYD Will Launch a Car with a Solid-State Battery as Early as 2027 - root-nation.com",
+      "summary": "Breakthrough of the Year: BYD Will Launch a Car with a Solid-State Battery as Early as 2027&nbsp;&nbsp;root-nation.com",
       "source": "\"solid state battery automotive\" - Google News",
       "published": "Mon, 14 Sep 2026",
       "published_iso": "2026-09-14T09:57:55",
@@ -893,15 +938,6 @@
       "published": "Sun, 13 Sep 2026",
       "published_iso": "2026-09-13T12:49:00",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXVUdy1feHFQQTl2S25tVkpmLWlRM0tTd2Q0SHc5bEZqbjBrOTNyQ1gyc19Tbml3ODVZeUdVSnV2eU5jdnNycncyMjd2WU9WRTdMQ1VSbW9yTExFNXNMUWtKSTlWMGRNZFJWa1Vyel9vVlFYYjhpaUdYRklTMDhTZFZ3Vnl1NVVfb3RJUldSWi1XYXBGcFE1Vl8xczRvTXlZMUlMdDdYaUlvb21nWUZkYWhrdW5JeFFYcDVod0oySQ?oc=5"
-    },
-    {
-      "category": "💻 Auto Tech, EV & Innovation",
-      "title": "BYD Has Already Lapped Tesla — Now It Says Toyota Is Next And US Market Doesn't Matter - Stocktwits",
-      "summary": "BYD Has Already Lapped Tesla — Now It Says Toyota Is Next And US Market Doesn't Matter&nbsp;&nbsp;Stocktwits",
-      "source": "\"BYD US sales news\" - Google News",
-      "published": "Sat, 12 Sep 2026",
-      "published_iso": "2026-09-12T20:20:50",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjhGSnUzNXhuZWRTNXJ1TlhfQlRHa2RpT25kMEwyTnIyVkZMYTUxbzZ4dnc1cmg0SEU0bEJXMmJDNFBfc2xnNUZRRTQtazFIQW4zSjhpdWtJVE9YekV3STNrZFRXc3Zrb2twYW5DRXF0dnNLQXpRX3d1QkZaT2RIMDZmSW9lSm9qNm1iR2V0dUFMLTMzRzVpekRJMHZ4clJNWXZWNWFOZlljd3M?oc=5"
     },
     {
       "category": "💻 Auto Tech, EV & Innovation",
@@ -922,13 +958,40 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEo2Y2FGYVFhR3BvYTdOa3J3WmxXVFZ5OFhNSzl0SmE1MDlDWE85VjVEN2lyR3c1cGtialFieHBlR0lVQmhYMmhERjY4OUVoMDNGVkxSSEhyMXRBTzNGWk1TZ1F3eFNnaDRMY2tYSUpCWEMtenU3c1RuajltTUVTWUh3?oc=5"
     },
     {
-      "category": "💻 Auto Tech, EV & Innovation",
-      "title": "Best EV Financing Offers: September 2026 - CarsDirect",
-      "summary": "Best EV Financing Offers: September 2026&nbsp;&nbsp;CarsDirect",
-      "source": "\"Tesla auto finance dealer\" - Google News",
-      "published": "Thu, 10 Sep 2026",
-      "published_iso": "2026-09-10T07:00:00",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wM0tURW5DUEJGWXN0cHRhNzBmWWVlb0pPeklyckx6Vlg5NnA2LVZCYk5YRWF5S0I0SU9vdzZ3dzlCR2hFTk5Ud3JPaFJ3THgyeXExekJmVWkwV2Q5U0VtUWpoNjF6a1hKeGxFOU5qNVdWcTQ?oc=5"
+      "category": "⚡ Breaking & General Auto Finance",
+      "title": "Fed rate hike will immediately impact powersports lending, executives say - Auto Finance News",
+      "summary": "Fed rate hike will immediately impact powersports lending, executives say&nbsp;&nbsp;Auto Finance News",
+      "source": "\"AutoFinance Summit news\" - Google News",
+      "published": "Thu, 17 Sep 2026",
+      "published_iso": "2026-09-17T00:07:43",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05bXR3eHhWby1FWFNvNGhVckJQb0xPZV9WTTY3WDFNbUxsSkhlVUhEdFE1SHprdXlMTGZZcGZVRk1BeG1OaGhISDBSUkFIam9WdnptZXYwekNwYmJfa0lMZXI1V2E1MlBwejJpMnQ4aFFycmNtYjhCZHFn?oc=5"
+    },
+    {
+      "category": "⚡ Breaking & General Auto Finance",
+      "title": "Powersports dealers tighten inventory strategies as new-unit margins narrow - Auto Finance News",
+      "summary": "Powersports dealers tighten inventory strategies as new-unit margins narrow&nbsp;&nbsp;Auto Finance News",
+      "source": "\"AutoFinance Summit news\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T23:52:21",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcmVIMHFLWVlyM2gwTW1mOVJtdlBxeVdITkJoRHlTM1p4TFQwRWdOelVxRUJDcFB6Q2N5eDZVVlB0dnJnQW1qS0c4U2NjRUdKUVZlX240RVdFWnNERFVNc1ltNUprZzZiNlJPU1dfSUw1VVkzdDFrSWhWemlOZFk5X005Mm9FNF9neXpRWDNWNnpJSDFLVWxKOXNWNDFCWlNhNHlRa045alBqXzEydk0wMWhVMTFrMDJQbndpajI5VEM3dm5IbjVRbg?oc=5"
+    },
+    {
+      "category": "⚡ Breaking & General Auto Finance",
+      "title": "Yamaha Financial Services’ dealer interface upgrades to speed funding process - Auto Finance News",
+      "summary": "Yamaha Financial Services’ dealer interface upgrades to speed funding process&nbsp;&nbsp;Auto Finance News",
+      "source": "\"AutoFinance Summit news\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T23:38:07",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORlY5WDVoV2tOcmdxajljNHg0NUNCMUlLOGs5Q25hMktjMkhfQXhnanE5NG16TXA3ejg1QVQxOGhiZkRfUUJKX2tKOG5scDQ1UnhmWFJIZnhhSlpmejBJVHBDelQweVp1Wl9kMG5nUkZUR3BRTjhTTkVvbnJJTGlaVGtVcmp4S3RUWlpyQzI0SGpmU2xDTlVvdGNHN1laZlU5bm90dnVmSnFrVHNBUW1PNzdUVnVQdzZkQ0VsVl9FaXdfMUI5SFdMMjd3?oc=5"
+    },
+    {
+      "category": "⚡ Breaking & General Auto Finance",
+      "title": "Powersports market is ‘tale of two consumers’ as inflation pushes some out - Auto Finance News",
+      "summary": "Powersports market is ‘tale of two consumers’ as inflation pushes some out&nbsp;&nbsp;Auto Finance News",
+      "source": "\"AutoFinance Summit news\" - Google News",
+      "published": "Wed, 16 Sep 2026",
+      "published_iso": "2026-09-16T21:32:11",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRkVtVUI3OXNCRjgzTWxRblZaR2pldjdqOVFia05fcS1renJ0STJKYW9tSGs2dzhkVlltTE9lYVNtZG9BYTFlNDJXcjNfVVE3elVELTVNY1RIVzR0eWZoNzE5d1QtRHlCY18zWm1fcGdLVnY0RE50RVM5OWxvZzNHcWpuUlZENFg1T2RiTXdYZ24zblFNM0tCbmJKMEVscE5pR2xwdk9MRDhHMjFLZk14NmwwOXBlLW9UR2l4NlliajktLVFw?oc=5"
     },
     {
       "category": "⚡ Breaking & General Auto Finance",
@@ -950,12 +1013,12 @@
     },
     {
       "category": "⚡ Breaking & General Auto Finance",
-      "title": "Canada imposes 50% tariff on US-made large motorcycles - Auto Finance News",
-      "summary": "Canada imposes 50% tariff on US-made large motorcycles&nbsp;&nbsp;Auto Finance News",
+      "title": "Bank of America names Caleb head of vehicle lending tech - Auto Finance News",
+      "summary": "Bank of America names Caleb head of vehicle lending tech&nbsp;&nbsp;Auto Finance News",
       "source": "\"auto finance news today US\" - Google News",
-      "published": "Fri, 11 Sep 2026",
-      "published_iso": "2026-09-11T19:29:51",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3Q4SnEwLUZLc2VMakdpakdVOWdXS3BFTnh3QzNVOXY1czY5WG9VZVdSZ2Y2bHUxZ01HX1FfQ1hFSlpMblRSOVJkclE5dGh0WDFyQklzZF8xQzR5cy1DR0lCbHc2SkVWZHZNVFB3TWpXeDVxNW9BTEV5cDN4WXlDa1ZJYlh2WWJfQmhsSE9xaEV5TUhuRUFiTVpKcXg3SmlreGZQYlhJUXVwU0E?oc=5"
+      "published": "Thu, 10 Sep 2026",
+      "published_iso": "2026-09-10T19:00:53",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUTE1cEJORjNEcVMxbEFBajZGTmtTeW80YS0zaEZXbjBOeGdNTXZ3ZmhMbDFIQWlDNjJlaDVxLV80VjRScV9xVF9sa0k3bG5PektON2dnOUhIYVZfeHFWdFFyUVFYbjZhMnBBNy1wRHhPTVNsT0dmbWRtMEU1cHlLeGktTEQyeGdNWWtvcXFqcEU4VTlVekpZZ2xFUFhxVW56QUhISXJ5YU5DeFhlNkE?oc=5"
     }
   ],
   "fedReleasesRecent": [
