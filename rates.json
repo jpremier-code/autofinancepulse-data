@@ -1,14 +1,16 @@
 {
-  "generatedAt": "2026-09-29T17:43:38.501548-04:00",
+  "generatedAt": "2026-09-29T19:20:34.683046-04:00",
   "fedFunds": {
     "label": "Fed Funds Rate",
     "value": 3.63,
     "asOfDate": "2026-08-01",
+    "datePrecision": "month",
     "change": 0.0,
     "changeLabel": "vs prior month",
     "sourceLabel": "FRED · FEDFUNDS",
     "sourceUrl": "https://fred.stlouisfed.org/series/FEDFUNDS",
     "cadence": "monthly",
+    "nextUpdateLabel": "Expected early September 2026",
     "history": [
       {
         "date": "2024-09-01",
@@ -112,11 +114,13 @@
     "label": "2-Yr Treasury Yield",
     "value": 4.92,
     "asOfDate": "2026-09-28",
+    "datePrecision": "day",
     "change": 0.25,
     "changeLabel": "vs prior week",
     "sourceLabel": "FRED · DGS2",
     "sourceUrl": "https://fred.stlouisfed.org/series/DGS2",
     "cadence": "daily (sampled weekly)",
+    "nextUpdateLabel": "Expected Sep 29, 2026",
     "history": [
       {
         "date": "2025-08-05",
@@ -292,11 +296,13 @@
     "label": "New Auto APR — Finance Co. (Wtd. Avg)",
     "value": 6.31,
     "asOfDate": "2026-06-01",
+    "datePrecision": "month",
     "change": 0.15,
     "changeLabel": "vs prior quarter",
     "sourceLabel": "FRED · RIELPCFANNM",
     "sourceUrl": "https://fred.stlouisfed.org/series/RIELPCFANNM",
     "cadence": "quarterly",
+    "nextUpdateLabel": "Expected November 2026",
     "history": [
       {
         "date": "2024-09-01",
@@ -336,11 +342,13 @@
     "label": "New Auto APR — Banks (48-Mo)",
     "value": 7.47,
     "asOfDate": "2026-05-01",
+    "datePrecision": "month",
     "change": 0.1,
     "changeLabel": "vs prior quarter",
     "sourceLabel": "FRED · TERMCBAUTO48NS",
     "sourceUrl": "https://fred.stlouisfed.org/series/TERMCBAUTO48NS",
     "cadence": "quarterly",
+    "nextUpdateLabel": "Expected October 2026",
     "history": [
       {
         "date": "2024-08-01",
