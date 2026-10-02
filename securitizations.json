@@ -145,5 +145,12 @@
     "issuerFullName": null,
     "amountM": null,
     "amountLabel": null
+  },
+  {
+    "date": "2026-09-30",
+    "issuer": "Porsche Financial Services",
+    "issuerFullName": null,
+    "amountM": 911,
+    "amountLabel": "$911M"
   }
 ]
