@@ -24,15 +24,15 @@
     "date": "2026-07-03",
     "issuer": "ACA",
     "issuerFullName": "American Credit Acceptance",
-    "amountM": null,
-    "amountLabel": null
+    "amountM": 756.3,
+    "amountLabel": "756.3M"
   },
   {
     "date": "2026-07-03",
     "issuer": "GLS",
     "issuerFullName": "Global Lending Services",
-    "amountM": null,
-    "amountLabel": null
+    "amountM": 257,
+    "amountLabel": "257M"
   },
   {
     "date": "2026-07-13",
@@ -135,15 +135,15 @@
   {
     "date": "2026-09-17",
     "issuer": "CarMax",
-    "issuerFullName": null,
-    "amountM": null,
+    "issuerFullName": 600,
+    "amountM": "600M",
     "amountLabel": null
   },
   {
     "date": "2026-09-23",
     "issuer": "Hyundai",
-    "issuerFullName": null,
-    "amountM": null,
+    "issuerFullName": 2066,
+    "amountM": "2.066B",
     "amountLabel": null
   },
   {
@@ -152,5 +152,19 @@
     "issuerFullName": null,
     "amountM": 911,
     "amountLabel": "$911M"
+  },
+  {
+    "date": "2026-10-01",
+    "issuer": "Flagship Credit",
+    "issuerFullName": null,
+    "amountM": 288.8,
+    "amountLabel": "$288.8M"
+  },
+  {
+    "date": "2026-10-01",
+    "issuer": "GM Financial",
+    "issuerFullName": null,
+    "amountM": 1020,
+    "amountLabel": "1.02B"
   }
 ]
