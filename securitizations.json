@@ -40,19 +40,6 @@
   },
   {
     "date": "2026-01-23",
-    "issuer": "CarMax",
-    "issuerFullName": null,
-    "dealName": "World Omni Auto Receivables Trust 2026-A",
-    "amountM": 1308.7,
-    "amountLabel": "$1.31B",
-    "tier": "Prime",
-    "collateral": "Loan",
-    "offering": "SEC-registered",
-    "sourceName": "SEC EDGAR",
-    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2104367/000110465926013280/tm264483d12_424b5.htm"
-  },
-  {
-    "date": "2026-01-23",
     "issuer": "Bridgecrest",
     "issuerFullName": "Bridgecrest (DriveTime)",
     "dealName": "Bridgecrest Lending Auto Securitization Trust 2026-1",
@@ -91,6 +78,19 @@
     "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2101848/000092963826000244/eart2026-1_424b5.htm"
   },
   {
+    "date": "2026-01-23",
+    "issuer": "CarMax",
+    "issuerFullName": null,
+    "dealName": "CarMax Auto Owner Trust 2026-1",
+    "amountM": 1300.0,
+    "amountLabel": "$1.30B",
+    "tier": "Prime",
+    "collateral": "Loan",
+    "offering": "SEC-registered",
+    "sourceName": "SEC EDGAR",
+    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2094950/000119312526020885/d80460d424b5.htm"
+  },
+  {
     "date": "2026-02-05",
     "issuer": "GM Financial",
     "issuerFullName": null,
@@ -102,6 +102,19 @@
     "offering": "SEC-registered",
     "sourceName": "SEC EDGAR",
     "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2100562/000119312526039177/d44618d424b5.htm"
+  },
+  {
+    "date": "2026-02-11",
+    "issuer": "World Omni",
+    "issuerFullName": "World Omni Financial (JM Family)",
+    "dealName": "World Omni Auto Receivables Trust 2026-A",
+    "amountM": 1308.7,
+    "amountLabel": "$1.31B",
+    "tier": "Prime",
+    "collateral": "Loan",
+    "offering": "SEC-registered",
+    "sourceName": "SEC EDGAR",
+    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2104367/000110465926013280/tm264483d12_424b5.htm"
   },
   {
     "date": "2026-02-12",
