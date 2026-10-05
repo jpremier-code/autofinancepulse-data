@@ -4,8 +4,8 @@
     "issuer": "GM Financial",
     "issuerFullName": null,
     "dealName": "GM Financial Consumer Automobile Receivables Trust 2026-1",
-    "amountM": 1230.9,
-    "amountLabel": "$1.23B",
+    "amountM": 1250.15,
+    "amountLabel": "$1.25B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -104,15 +104,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1230.9,
+    "offeredM": 1230.87,
+    "retentionNote": null
   },
   {
     "date": "2026-01-15",
     "issuer": "Mercedes-Benz",
     "issuerFullName": "Mercedes-Benz Financial Services",
     "dealName": "Mercedes-Benz Auto Lease Trust 2026-A",
-    "amountM": 995.3,
-    "amountLabel": "$995.3M",
+    "amountM": 1305.0,
+    "amountLabel": "$1.30B",
     "tier": "Prime",
     "collateral": "Lease",
     "offering": "SEC-registered",
@@ -185,15 +188,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 995.3,
+    "offeredM": 995.29,
+    "retentionNote": null
   },
   {
     "date": "2026-01-15",
     "issuer": "Toyota",
     "issuerFullName": "Toyota Motor Credit",
     "dealName": "Toyota Auto Receivables 2026-A Owner Trust",
-    "amountM": 1852.5,
-    "amountLabel": "$1.85B",
+    "amountM": 1900.0,
+    "amountLabel": "$1.90B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -279,15 +285,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1852.5,
+    "offeredM": 1852.5,
+    "retentionNote": null
   },
   {
     "date": "2026-01-23",
     "issuer": "Bridgecrest",
     "issuerFullName": "Bridgecrest (DriveTime)",
     "dealName": "Bridgecrest Lending Auto Securitization Trust 2026-1",
-    "amountM": 599.6,
-    "amountLabel": "$599.6M",
+    "amountM": 645.99,
+    "amountLabel": "$645.99M",
     "tier": "Subprime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -386,15 +395,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 599.6,
+    "offeredM": 599.63,
+    "retentionNote": null
   },
   {
     "date": "2026-01-23",
     "issuer": "Ford Credit",
     "issuerFullName": null,
     "dealName": "Ford Credit Auto Lease Trust 2026-A",
-    "amountM": 1496.2,
-    "amountLabel": "$1.50B",
+    "amountM": 1451.3,
+    "amountLabel": "$1.45B",
     "tier": "Prime",
     "collateral": "Lease",
     "offering": "SEC-registered",
@@ -506,15 +518,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": "class sizes sum to $1,306.2M vs deal size $1,496.2M"
+    "classNote": null,
+    "filedAmountM": 1496.2,
+    "offeredM": 1306.18,
+    "retentionNote": null
   },
   {
     "date": "2026-01-23",
     "issuer": "Exeter",
     "issuerFullName": "Exeter Finance",
     "dealName": "Exeter Automobile Receivables Trust 2026-1",
-    "amountM": 965.4,
-    "amountLabel": "$965.4M",
+    "amountM": 1098.78,
+    "amountLabel": "$1.10B",
     "tier": "Subprime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -626,7 +641,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 965.4,
+    "offeredM": 965.44,
+    "retentionNote": null
   },
   {
     "date": "2026-01-23",
@@ -746,15 +764,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1300.0,
+    "offeredM": 1300.0,
+    "retentionNote": null
   },
   {
     "date": "2026-02-05",
     "issuer": "GM Financial",
     "issuerFullName": null,
     "dealName": "GM Financial Automobile Leasing Trust 2026-1",
-    "amountM": 955.1,
-    "amountLabel": "$955.1M",
+    "amountM": 1000.64,
+    "amountLabel": "$1.00B",
     "tier": "Prime",
     "collateral": "Lease",
     "offering": "SEC-registered",
@@ -840,15 +861,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 955.1,
+    "offeredM": 955.06,
+    "retentionNote": null
   },
   {
     "date": "2026-02-11",
     "issuer": "World Omni",
     "issuerFullName": "World Omni Financial (JM Family)",
     "dealName": "World Omni Auto Receivables Trust 2026-A",
-    "amountM": 1308.7,
-    "amountLabel": "$1.31B",
+    "amountM": 1236.87,
+    "amountLabel": "$1.24B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -947,7 +971,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": "class sizes sum to $1,236.9M vs deal size $1,308.7M"
+    "classNote": null,
+    "filedAmountM": 1308.7,
+    "offeredM": 1236.87,
+    "retentionNote": null
   },
   {
     "date": "2026-02-12",
@@ -1054,15 +1081,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 2199.7,
+    "offeredM": 2199.7,
+    "retentionNote": null
   },
   {
     "date": "2026-02-12",
     "issuer": "Honda",
     "issuerFullName": "American Honda Finance",
     "dealName": "Honda Auto Receivables 2026-1 Owner Trust",
-    "amountM": 2300.0,
-    "amountLabel": "$2.30B",
+    "amountM": 2421.05,
+    "amountLabel": "$2.42B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -1135,15 +1165,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": "class sizes sum to $2,421.1M vs deal size $2,300.0M"
+    "classNote": null,
+    "filedAmountM": 2300.0,
+    "offeredM": 2300.0,
+    "retentionNote": "5% of each offered class retained by the sponsor (risk retention)"
   },
   {
     "date": "2026-02-20",
     "issuer": "CarMax",
     "issuerFullName": null,
     "dealName": "CarMax Select Receivables Trust 2026-A",
-    "amountM": 733.8,
-    "amountLabel": "$733.8M",
+    "amountM": 750.0,
+    "amountLabel": "$750M",
     "tier": "Near-prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -1255,15 +1288,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 733.8,
+    "offeredM": 733.84,
+    "retentionNote": null
   },
   {
     "date": "2026-02-20",
     "issuer": "Santander Consumer",
     "issuerFullName": null,
     "dealName": "Santander Drive Auto Receivables Trust 2026-1",
-    "amountM": 1585.1,
-    "amountLabel": "$1.59B",
+    "amountM": 1893.57,
+    "amountLabel": "$1.89B",
     "tier": "Subprime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -1362,7 +1398,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1585.1,
+    "offeredM": 1585.14,
+    "retentionNote": null
   },
   {
     "date": "2026-02-20",
@@ -1469,15 +1508,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1250.0,
+    "offeredM": 1250.0,
+    "retentionNote": null
   },
   {
     "date": "2026-03-05",
     "issuer": "Ally",
     "issuerFullName": null,
     "dealName": "Ally Auto Receivables Trust 2026-1",
-    "amountM": 758.3,
-    "amountLabel": "$758.3M",
+    "amountM": 1116.88,
+    "amountLabel": "$1.12B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -1576,7 +1618,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": "class sizes sum to $798.2M vs deal size $758.3M"
+    "classNote": null,
+    "filedAmountM": 758.3,
+    "offeredM": 758.3,
+    "retentionNote": "5% of each offered class retained by the sponsor (risk retention)"
   },
   {
     "date": "2026-03-12",
@@ -1683,15 +1728,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1050.7,
+    "offeredM": 1050.7,
+    "retentionNote": null
   },
   {
     "date": "2026-03-19",
     "issuer": "Ford Credit",
     "issuerFullName": null,
     "dealName": "Ford Credit Auto Owner Trust 2026-A",
-    "amountM": 1392.6,
-    "amountLabel": "$1.39B",
+    "amountM": 1421.04,
+    "amountLabel": "$1.42B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -1790,14 +1838,17 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1392.6,
+    "offeredM": 1392.63,
+    "retentionNote": null
   },
   {
     "date": "2026-03-19",
     "issuer": "World Omni",
     "issuerFullName": "World Omni Financial (JM Family)",
     "dealName": "World Omni Automobile Lease Securitization Trust 2026-A",
-    "amountM": 1143.3,
+    "amountM": 1143.32,
     "amountLabel": "$1.14B",
     "tier": "Prime",
     "collateral": "Lease",
@@ -1897,7 +1948,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": "class sizes sum to $1,099.1M vs deal size $1,143.3M"
+    "classNote": null,
+    "filedAmountM": 1143.3,
+    "offeredM": 1099.11,
+    "retentionNote": null
   },
   {
     "date": "2026-03-19",
@@ -1978,15 +2032,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1710.0,
+    "offeredM": 1710.0,
+    "retentionNote": null
   },
   {
     "date": "2026-03-24",
     "issuer": "Exeter",
     "issuerFullName": "Exeter Finance",
     "dealName": "Exeter Automobile Receivables Trust 2026-2",
-    "amountM": 648.9,
-    "amountLabel": "$648.9M",
+    "amountM": 739.17,
+    "amountLabel": "$739.17M",
     "tier": "Subprime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -2098,14 +2155,17 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 648.9,
+    "offeredM": 648.93,
+    "retentionNote": null
   },
   {
     "date": "2026-04-10",
     "issuer": "GM Financial",
     "issuerFullName": null,
     "dealName": "GM Financial Consumer Automobile Receivables Trust 2026-2",
-    "amountM": 1269.8,
+    "amountM": 1269.81,
     "amountLabel": "$1.27B",
     "tier": "Prime",
     "collateral": "Loan",
@@ -2205,7 +2265,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1269.8,
+    "offeredM": 1269.81,
+    "retentionNote": null
   },
   {
     "date": "2026-04-16",
@@ -2286,15 +2349,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1500.0,
+    "offeredM": 1500.0,
+    "retentionNote": null
   },
   {
     "date": "2026-04-16",
     "issuer": "Toyota",
     "issuerFullName": "Toyota Motor Credit",
     "dealName": "Toyota Auto Receivables 2026-B Owner Trust",
-    "amountM": 1852.5,
-    "amountLabel": "$1.85B",
+    "amountM": 1900.0,
+    "amountLabel": "$1.90B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -2380,15 +2446,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1852.5,
+    "offeredM": 1852.5,
+    "retentionNote": null
   },
   {
     "date": "2026-04-20",
     "issuer": "Bridgecrest",
     "issuerFullName": "Bridgecrest (DriveTime)",
     "dealName": "Bridgecrest Lending Auto Securitization Trust 2026-2",
-    "amountM": 580.6,
-    "amountLabel": "$580.6M",
+    "amountM": 642.14,
+    "amountLabel": "$642.14M",
     "tier": "Subprime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -2487,7 +2556,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 580.6,
+    "offeredM": 580.59,
+    "retentionNote": null
   },
   {
     "date": "2026-04-23",
@@ -2607,15 +2679,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1175.0,
+    "offeredM": 1175.0,
+    "retentionNote": null
   },
   {
     "date": "2026-05-07",
     "issuer": "World Omni",
     "issuerFullName": "World Omni Financial (JM Family)",
     "dealName": "World Omni Auto Receivables Trust 2026-B",
-    "amountM": 1296.6,
-    "amountLabel": "$1.30B",
+    "amountM": 1316.37,
+    "amountLabel": "$1.32B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -2714,15 +2789,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1296.6,
+    "offeredM": 1296.63,
+    "retentionNote": null
   },
   {
     "date": "2026-05-07",
     "issuer": "Honda",
     "issuerFullName": "American Honda Finance",
     "dealName": "Honda Auto Receivables 2026-2 Owner Trust",
-    "amountM": 2000.0,
-    "amountLabel": "$2.00B",
+    "amountM": 2105.27,
+    "amountLabel": "$2.11B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -2795,15 +2873,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": "class sizes sum to $2,105.3M vs deal size $2,000.0M"
+    "classNote": null,
+    "filedAmountM": 2000.0,
+    "offeredM": 2000.0,
+    "retentionNote": "5% of each offered class retained by the sponsor (risk retention)"
   },
   {
     "date": "2026-05-07",
     "issuer": "GM Financial",
     "issuerFullName": null,
     "dealName": "GM Financial Automobile Leasing Trust 2026-2",
-    "amountM": 1193.5,
-    "amountLabel": "$1.19B",
+    "amountM": 1250.48,
+    "amountLabel": "$1.25B",
     "tier": "Prime",
     "collateral": "Lease",
     "offering": "SEC-registered",
@@ -2902,15 +2983,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1193.5,
+    "offeredM": 1193.48,
+    "retentionNote": null
   },
   {
     "date": "2026-05-14",
     "issuer": "Mercedes-Benz",
     "issuerFullName": "Mercedes-Benz Financial Services",
     "dealName": "Mercedes-Benz Auto Receivables Trust 2026-1",
-    "amountM": 997.9,
-    "amountLabel": "$997.9M",
+    "amountM": 1355.87,
+    "amountLabel": "$1.36B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -2983,15 +3067,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 997.9,
+    "offeredM": 997.87,
+    "retentionNote": null
   },
   {
     "date": "2026-05-21",
     "issuer": "Exeter",
     "issuerFullName": "Exeter Finance",
     "dealName": "Exeter Select Automobile Receivables Trust 2026-1",
-    "amountM": 350.8,
-    "amountLabel": "$350.8M",
+    "amountM": 384.41,
+    "amountLabel": "$384.41M",
     "tier": "Near-prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -3103,14 +3190,17 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 350.8,
+    "offeredM": 350.84,
+    "retentionNote": null
   },
   {
     "date": "2026-05-21",
     "issuer": "Carvana",
     "issuerFullName": null,
     "dealName": "Carvana Auto Receivables Trust 2026-P2",
-    "amountM": 1100.4,
+    "amountM": 1100.39,
     "amountLabel": "$1.10B",
     "tier": "Prime",
     "collateral": "Loan",
@@ -3210,14 +3300,17 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1100.4,
+    "offeredM": 1100.39,
+    "retentionNote": null
   },
   {
     "date": "2026-05-22",
     "issuer": "Nissan",
     "issuerFullName": "Nissan Motor Acceptance",
     "dealName": "Nissan Auto Receivables 2026-A Owner Trust",
-    "amountM": 1268.5,
+    "amountM": 1268.45,
     "amountLabel": "$1.27B",
     "tier": "Prime",
     "collateral": "Loan",
@@ -3317,7 +3410,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1268.5,
+    "offeredM": 1268.45,
+    "retentionNote": null
   },
   {
     "date": "2026-06-08",
@@ -3398,14 +3494,17 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 911.0,
+    "offeredM": 911.0,
+    "retentionNote": null
   },
   {
     "date": "2026-06-11",
     "issuer": "Hyundai",
     "issuerFullName": "Hyundai Capital America",
     "dealName": "Hyundai Auto Receivables Trust 2026-B",
-    "amountM": 2187.1,
+    "amountM": 2187.07,
     "amountLabel": "$2.19B",
     "tier": "Prime",
     "collateral": "Loan",
@@ -3505,15 +3604,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 2187.1,
+    "offeredM": 2187.07,
+    "retentionNote": null
   },
   {
     "date": "2026-06-18",
     "issuer": "Ford Credit",
     "issuerFullName": null,
     "dealName": "Ford Credit Auto Owner Trust 2026-B",
-    "amountM": 1547.4,
-    "amountLabel": "$1.55B",
+    "amountM": 1578.96,
+    "amountLabel": "$1.58B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -3612,15 +3714,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1547.4,
+    "offeredM": 1547.4,
+    "retentionNote": null
   },
   {
     "date": "2026-06-18",
     "issuer": "Exeter",
     "issuerFullName": "Exeter Finance",
     "dealName": "Exeter Automobile Receivables Trust 2026-3",
-    "amountM": 1126.8,
-    "amountLabel": "$1.13B",
+    "amountM": 1292.07,
+    "amountLabel": "$1.29B",
     "tier": "Subprime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -3732,14 +3837,17 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1126.8,
+    "offeredM": 1126.76,
+    "retentionNote": null
   },
   {
     "date": "2026-06-22",
     "issuer": "CarMax",
     "issuerFullName": null,
-    "amountM": 546.4,
-    "amountLabel": "$546.4M",
+    "amountM": 600.0,
+    "amountLabel": "$600M",
     "dealName": "CarMax Select Receivables Trust 2026-B",
     "tier": "Near-prime",
     "collateral": "Loan",
@@ -3839,7 +3947,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": "class sizes sum to $575.1M vs deal size $546.4M"
+    "classNote": null,
+    "filedAmountM": 546.4,
+    "offeredM": 546.4,
+    "retentionNote": "5% of each offered class retained by the sponsor (risk retention)"
   },
   {
     "date": "2026-06-23",
@@ -3911,8 +4022,8 @@
     "issuer": "GM Financial",
     "issuerFullName": null,
     "dealName": "GM Financial Consumer Automobile Receivables Trust 2026-3",
-    "amountM": 1000.1,
-    "amountLabel": "$1.00B",
+    "amountM": 1015.79,
+    "amountLabel": "$1.02B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -4011,14 +4122,17 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1000.1,
+    "offeredM": 1000.12,
+    "retentionNote": null
   },
   {
     "date": "2026-07-15",
     "issuer": "Bridgecrest",
     "issuerFullName": null,
-    "amountM": 662.8,
-    "amountLabel": "$662.8M",
+    "amountM": 725.0,
+    "amountLabel": "$725M",
     "dealName": "Bridgecrest Lending Auto Securitization Trust 2026-3",
     "tier": "Subprime",
     "collateral": "Loan",
@@ -4118,7 +4232,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 662.8,
+    "offeredM": 662.83,
+    "retentionNote": null
   },
   {
     "date": "2026-07-15",
@@ -4164,8 +4281,8 @@
     "issuer": "CarMax",
     "issuerFullName": null,
     "dealName": "CarMax Auto Owner Trust 2026-3",
-    "amountM": 1333.1,
-    "amountLabel": "$1.33B",
+    "amountM": 1350.0,
+    "amountLabel": "$1.35B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -4264,15 +4381,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1333.1,
+    "offeredM": 1350.0,
+    "retentionNote": null
   },
   {
     "date": "2026-07-16",
     "issuer": "Toyota",
     "issuerFullName": "Toyota Motor Credit",
     "dealName": "Toyota Auto Receivables 2026-C Owner Trust",
-    "amountM": 1852.5,
-    "amountLabel": "$1.85B",
+    "amountM": 1900.0,
+    "amountLabel": "$1.90B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -4358,7 +4478,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1852.5,
+    "offeredM": 1852.5,
+    "retentionNote": null
   },
   {
     "date": "2026-07-20",
@@ -4378,8 +4501,8 @@
     "issuer": "World Omni",
     "issuerFullName": "World Omni Financial (JM Family)",
     "dealName": "World Omni Select Auto Trust 2026-A",
-    "amountM": 615.2,
-    "amountLabel": "$615.2M",
+    "amountM": 615.19,
+    "amountLabel": "$615.19M",
     "tier": "Near-prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -4465,7 +4588,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 615.2,
+    "offeredM": 615.19,
+    "retentionNote": null
   },
   {
     "date": "2026-07-23",
@@ -4485,8 +4611,8 @@
     "issuer": "Ford Credit",
     "issuerFullName": null,
     "dealName": "Ford Credit Auto Lease Trust 2026-B",
-    "amountM": 1496.2,
-    "amountLabel": "$1.50B",
+    "amountM": 1451.3,
+    "amountLabel": "$1.45B",
     "tier": "Prime",
     "collateral": "Lease",
     "offering": "SEC-registered",
@@ -4598,14 +4724,17 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": "class sizes sum to $1,341.3M vs deal size $1,496.2M"
+    "classNote": null,
+    "filedAmountM": 1496.2,
+    "offeredM": 1341.29,
+    "retentionNote": null
   },
   {
     "date": "2026-07-23",
     "issuer": "Nissan",
     "issuerFullName": "Nissan Motor Acceptance",
     "dealName": "Nissan Auto Lease Trust 2026-B",
-    "amountM": 1289.7,
+    "amountM": 1289.74,
     "amountLabel": "$1.29B",
     "tier": "Prime",
     "collateral": "Lease",
@@ -4705,15 +4834,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1289.7,
+    "offeredM": 1289.74,
+    "retentionNote": null
   },
   {
     "date": "2026-08-06",
     "issuer": "Honda",
     "issuerFullName": "American Honda Finance",
     "dealName": "Honda Auto Receivables 2026-3 Owner Trust",
-    "amountM": 2000.0,
-    "amountLabel": "$2.00B",
+    "amountM": 2105.27,
+    "amountLabel": "$2.11B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -4786,15 +4918,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": "class sizes sum to $2,105.3M vs deal size $2,000.0M"
+    "classNote": null,
+    "filedAmountM": 2000.0,
+    "offeredM": 2000.0,
+    "retentionNote": "5% of each offered class retained by the sponsor (risk retention)"
   },
   {
     "date": "2026-08-06",
     "issuer": "GM Financial",
     "issuerFullName": null,
     "dealName": "GM Financial Automobile Leasing Trust 2026-3",
-    "amountM": 954.9,
-    "amountLabel": "$954.9M",
+    "amountM": 1000.53,
+    "amountLabel": "$1.00B",
     "tier": "Prime",
     "collateral": "Lease",
     "offering": "SEC-registered",
@@ -4893,7 +5028,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 954.9,
+    "offeredM": 954.93,
+    "retentionNote": null
   },
   {
     "date": "2026-08-12",
@@ -4987,7 +5125,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1750.0,
+    "offeredM": 1750.0,
+    "retentionNote": null
   },
   {
     "date": "2026-08-17",
@@ -5046,7 +5187,7 @@
     "issuer": "World Omni",
     "issuerFullName": "World Omni Financial (JM Family)",
     "dealName": "World Omni Auto Receivables Trust 2026-C",
-    "amountM": 1011.1,
+    "amountM": 1011.08,
     "amountLabel": "$1.01B",
     "tier": "Prime",
     "collateral": "Loan",
@@ -5146,14 +5287,17 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1011.1,
+    "offeredM": 1011.08,
+    "retentionNote": null
   },
   {
     "date": "2026-08-20",
     "issuer": "Carvana",
     "issuerFullName": null,
     "dealName": "Carvana Auto Receivables Trust 2026-P3",
-    "amountM": 1550.3,
+    "amountM": 1550.31,
     "amountLabel": "$1.55B",
     "tier": "Prime",
     "collateral": "Loan",
@@ -5253,7 +5397,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1550.3,
+    "offeredM": 1550.31,
+    "retentionNote": null
   },
   {
     "date": "2026-08-26",
@@ -5273,8 +5420,8 @@
     "issuer": "Exeter",
     "issuerFullName": "Exeter Finance",
     "dealName": "Exeter Automobile Receivables Trust 2026-4",
-    "amountM": 923.5,
-    "amountLabel": "$923.5M",
+    "amountM": 1060.91,
+    "amountLabel": "$1.06B",
     "tier": "Subprime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -5386,15 +5533,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 923.5,
+    "offeredM": 923.52,
+    "retentionNote": null
   },
   {
     "date": "2026-09-11",
     "issuer": "Capital One",
     "issuerFullName": null,
     "dealName": "Capital One Prime Auto Receivables Trust 2026-1",
-    "amountM": 1500.0,
-    "amountLabel": "$1.50B",
+    "amountM": 1974.59,
+    "amountLabel": "$1.97B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -5506,14 +5656,17 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": "class sizes sum to $1,579.0M vs deal size $1,500.0M"
+    "classNote": null,
+    "filedAmountM": 1500.0,
+    "offeredM": 1500.0,
+    "retentionNote": "5% of each offered class retained by the sponsor (risk retention)"
   },
   {
     "date": "2026-09-17",
     "issuer": "CarMax",
     "issuerFullName": null,
-    "amountM": 588.2,
-    "amountLabel": "$588.2M",
+    "amountM": 600.0,
+    "amountLabel": "$600M",
     "dealName": "CarMax Select Receivables Trust 2026-C",
     "tier": "Near-prime",
     "collateral": "Loan",
@@ -5613,15 +5766,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 588.2,
+    "offeredM": 588.24,
+    "retentionNote": null
   },
   {
     "date": "2026-09-17",
     "issuer": "VW Credit",
     "issuerFullName": null,
     "dealName": "Volkswagen Auto Lease Trust 2026-B",
-    "amountM": 991.8,
-    "amountLabel": "$991.8M",
+    "amountM": 991.83,
+    "amountLabel": "$991.83M",
     "tier": "Prime",
     "collateral": "Lease",
     "offering": "SEC-registered",
@@ -5694,13 +5850,16 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 991.8,
+    "offeredM": 991.83,
+    "retentionNote": null
   },
   {
     "date": "2026-09-23",
     "issuer": "Hyundai",
     "issuerFullName": null,
-    "amountM": 2066.2,
+    "amountM": 2066.16,
     "amountLabel": "$2.07B",
     "dealName": "Hyundai Auto Receivables Trust 2026-C",
     "tier": "Prime",
@@ -5801,15 +5960,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 2066.2,
+    "offeredM": 2066.16,
+    "retentionNote": null
   },
   {
     "date": "2026-09-24",
     "issuer": "Ford Credit",
     "issuerFullName": null,
     "dealName": "Ford Credit Auto Owner Trust 2026-C",
-    "amountM": 1547.4,
-    "amountLabel": "$1.55B",
+    "amountM": 1578.94,
+    "amountLabel": "$1.58B",
     "tier": "Prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -5908,14 +6070,17 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1547.4,
+    "offeredM": 1547.37,
+    "retentionNote": null
   },
   {
     "date": "2026-09-24",
     "issuer": "Nissan",
     "issuerFullName": "Nissan Motor Acceptance",
     "dealName": "Nissan Auto Receivables 2026-B Owner Trust",
-    "amountM": 1285.7,
+    "amountM": 1285.67,
     "amountLabel": "$1.29B",
     "tier": "Prime",
     "collateral": "Loan",
@@ -6015,15 +6180,18 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 1285.7,
+    "offeredM": 1285.67,
+    "retentionNote": null
   },
   {
     "date": "2026-09-24",
     "issuer": "Exeter",
     "issuerFullName": "Exeter Finance",
     "dealName": "Exeter Select Automobile Receivables Trust 2026-2",
-    "amountM": 461.8,
-    "amountLabel": "$461.8M",
+    "amountM": 505.1,
+    "amountLabel": "$505.1M",
     "tier": "Near-prime",
     "collateral": "Loan",
     "offering": "SEC-registered",
@@ -6135,13 +6303,16 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 461.8,
+    "offeredM": 461.8,
+    "retentionNote": null
   },
   {
     "date": "2026-09-30",
     "issuer": "Porsche Financial Services",
     "issuerFullName": null,
-    "amountM": 911,
+    "amountM": 911.0,
     "amountLabel": "$911M",
     "dealName": "Porsche Financial Auto Securitization Trust 2026-1",
     "tier": "Prime",
@@ -6216,7 +6387,10 @@
         "subordination_pct": 0.0
       }
     ],
-    "classNote": null
+    "classNote": null,
+    "filedAmountM": 911,
+    "offeredM": 911.0,
+    "retentionNote": null
   },
   {
     "date": "2026-10-01",
