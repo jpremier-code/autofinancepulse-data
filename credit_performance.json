@@ -1,22 +1,22 @@
 {
- "generatedAt": "2026-10-05T18:36:39.642502-04:00",
+ "generatedAt": "2026-10-05T18:48:23.942776-04:00",
  "coverage": "45 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
    "month": "2026-01",
    "tier": "Prime",
-   "trusts": 2,
-   "poolBalM": 2506.2,
-   "dq60Pct": 0.05,
-   "anlPct": 0.07
+   "trusts": 3,
+   "poolBalM": 4374.5,
+   "dq60Pct": 0.07,
+   "anlPct": 0.05
   },
   {
    "month": "2026-01",
    "tier": "Subprime",
-   "trusts": 1,
-   "poolBalM": 748.7,
-   "dq60Pct": 0.02,
-   "anlPct": 0.93
+   "trusts": 2,
+   "poolBalM": 1859.3,
+   "dq60Pct": 0.04,
+   "anlPct": 0.4
   },
   {
    "month": "2026-02",
@@ -29,10 +29,18 @@
   {
    "month": "2026-02",
    "tier": "Prime",
-   "trusts": 2,
-   "poolBalM": 2421.7,
-   "dq60Pct": 0.13,
+   "trusts": 3,
+   "poolBalM": 4229.4,
+   "dq60Pct": 0.14,
    "anlPct": 0.15
+  },
+  {
+   "month": "2026-02",
+   "tier": "Subprime",
+   "trusts": 2,
+   "poolBalM": 1831.5,
+   "dq60Pct": 1.03,
+   "anlPct": 0.86
   },
   {
    "month": "2026-03",
@@ -45,18 +53,18 @@
   {
    "month": "2026-03",
    "tier": "Prime",
-   "trusts": 3,
-   "poolBalM": 3355.0,
-   "dq60Pct": 0.17,
-   "anlPct": 0.18
+   "trusts": 4,
+   "poolBalM": 5093.6,
+   "dq60Pct": 0.18,
+   "anlPct": 0.26
   },
   {
    "month": "2026-03",
    "tier": "Subprime",
-   "trusts": 1,
-   "poolBalM": 749.2,
-   "dq60Pct": 0.02,
-   "anlPct": 0.16
+   "trusts": 3,
+   "poolBalM": 2548.6,
+   "dq60Pct": 1.66,
+   "anlPct": 1.26
   },
   {
    "month": "2026-04",
@@ -69,10 +77,18 @@
   {
    "month": "2026-04",
    "tier": "Prime",
-   "trusts": 4,
-   "poolBalM": 4369.1,
-   "dq60Pct": 0.15,
-   "anlPct": 0.25
+   "trusts": 5,
+   "poolBalM": 6043.4,
+   "dq60Pct": 0.17,
+   "anlPct": 0.32
+  },
+  {
+   "month": "2026-04",
+   "tier": "Subprime",
+   "trusts": 2,
+   "poolBalM": 1758.4,
+   "dq60Pct": 3.14,
+   "anlPct": 6.16
   },
   {
    "month": "2026-05",
@@ -85,18 +101,18 @@
   {
    "month": "2026-05",
    "tier": "Prime",
-   "trusts": 7,
-   "poolBalM": 8539.4,
+   "trusts": 8,
+   "poolBalM": 10153.9,
    "dq60Pct": 0.2,
-   "anlPct": 0.39
+   "anlPct": 0.43
   },
   {
    "month": "2026-05",
    "tier": "Subprime",
-   "trusts": 1,
-   "poolBalM": 729.3,
-   "dq60Pct": 2.96,
-   "anlPct": 0.77
+   "trusts": 3,
+   "poolBalM": 2442.6,
+   "dq60Pct": 3.59,
+   "anlPct": 5.88
   },
   {
    "month": "2026-06",
@@ -109,18 +125,18 @@
   {
    "month": "2026-06",
    "tier": "Prime",
-   "trusts": 4,
-   "poolBalM": 4348.4,
+   "trusts": 5,
+   "poolBalM": 5900.8,
    "dq60Pct": 0.27,
-   "anlPct": 0.36
+   "anlPct": 0.39
   },
   {
    "month": "2026-06",
    "tier": "Subprime",
-   "trusts": 1,
-   "poolBalM": 723.5,
-   "dq60Pct": 1.88,
-   "anlPct": 4.19
+   "trusts": 3,
+   "poolBalM": 2391.1,
+   "dq60Pct": 3.99,
+   "anlPct": 7.01
   },
   {
    "month": "2026-07",
@@ -133,18 +149,18 @@
   {
    "month": "2026-07",
    "tier": "Prime",
-   "trusts": 7,
-   "poolBalM": 7362.7,
-   "dq60Pct": 0.18,
-   "anlPct": 0.31
+   "trusts": 8,
+   "poolBalM": 8855.6,
+   "dq60Pct": 0.19,
+   "anlPct": 0.32
   },
   {
    "month": "2026-07",
    "tier": "Subprime",
-   "trusts": 2,
-   "poolBalM": 1402.3,
-   "dq60Pct": 4.36,
-   "anlPct": 9.22
+   "trusts": 3,
+   "poolBalM": 2055.4,
+   "dq60Pct": 4.42,
+   "anlPct": 10.09
   },
   {
    "month": "2026-08",
@@ -157,10 +173,10 @@
   {
    "month": "2026-08",
    "tier": "Prime",
-   "trusts": 7,
-   "poolBalM": 8017.7,
-   "dq60Pct": 0.23,
-   "anlPct": 0.42
+   "trusts": 8,
+   "poolBalM": 9455.7,
+   "dq60Pct": 0.24,
+   "anlPct": 0.43
   },
   {
    "month": "2026-08",
@@ -283,14 +299,112 @@
   },
   {
    "dealName": "Toyota Auto Receivables 2026-A Owner Trust",
-   "series": [],
+   "series": [
+    {
+     "period": "2026-01-31",
+     "endBal": 1868341953.55,
+     "dq60Pct": 0.1,
+     "anlPct": 0.03,
+     "cnlPct": 0.0,
+     "origBal": 1995353675.63,
+     "accession": "0001193125-26-069772",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526069772/d75054dex991.htm",
+     "monthsOn": 0,
+     "problems": null
+    },
+    {
+     "period": "2026-02-28",
+     "endBal": 1807688155.39,
+     "dq60Pct": 0.16,
+     "anlPct": 0.16,
+     "cnlPct": 0.01,
+     "origBal": 1995353675.63,
+     "accession": "0001193125-26-128090",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526128090/d107307dex991.htm",
+     "monthsOn": 1,
+     "problems": null
+    },
+    {
+     "period": "2026-03-31",
+     "endBal": 1738607842.03,
+     "dq60Pct": 0.2,
+     "anlPct": 0.42,
+     "cnlPct": 0.05,
+     "origBal": 1995353675.63,
+     "accession": "0001193125-26-184821",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526184821/d17399dex991.htm",
+     "monthsOn": 2,
+     "problems": null
+    },
+    {
+     "period": "2026-04-30",
+     "endBal": 1674289614.73,
+     "dq60Pct": 0.21,
+     "anlPct": 0.49,
+     "cnlPct": 0.08,
+     "origBal": 1995353675.63,
+     "accession": "0001193125-26-240942",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526240942/d477323dex991.htm",
+     "monthsOn": 3,
+     "problems": null
+    },
+    {
+     "period": "2026-05-31",
+     "endBal": 1614493833.85,
+     "dq60Pct": 0.22,
+     "anlPct": 0.59,
+     "cnlPct": 0.12,
+     "origBal": 1995353675.63,
+     "accession": "0001193125-26-284398",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526284398/d65815dex991.htm",
+     "monthsOn": 4,
+     "problems": null
+    },
+    {
+     "period": "2026-06-30",
+     "endBal": 1552438804.61,
+     "dq60Pct": 0.27,
+     "anlPct": 0.46,
+     "cnlPct": 0.15,
+     "origBal": 1995353675.63,
+     "accession": "0001193125-26-322638",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526322638/d49152dex991.htm",
+     "monthsOn": 5,
+     "problems": null
+    },
+    {
+     "period": "2026-07-31",
+     "endBal": 1492922526.28,
+     "dq60Pct": 0.26,
+     "anlPct": 0.37,
+     "cnlPct": 0.18,
+     "origBal": 1995353675.63,
+     "accession": "0001193125-26-370210",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526370210/d91794dex991.htm",
+     "monthsOn": 6,
+     "problems": null
+    },
+    {
+     "period": "2026-08-31",
+     "endBal": 1437983912.36,
+     "dq60Pct": 0.29,
+     "anlPct": 0.49,
+     "cnlPct": 0.21,
+     "origBal": 1995353675.63,
+     "accession": "0001193125-26-404079",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526404079/d28858dex991.htm",
+     "monthsOn": 7,
+     "problems": null
+    }
+   ],
    "issuer": "Toyota",
    "tier": "Prime",
    "tierGroup": "Prime",
    "cik": "2099539",
    "closeDate": "2026-01-15",
    "amountM": 1900.0,
-   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2099539/000092963826000167/taot2026-a_424b5.htm"
+   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2099539/000092963826000167/taot2026-a_424b5.htm",
+   "origBal": 1995353675.63
   },
   {
    "dealName": "Bridgecrest Lending Auto Securitization Trust 2026-1",
@@ -305,6 +419,78 @@
      "accession": "0001104659-26-016060",
      "url": "https://www.sec.gov/Archives/edgar/data/2101434/000110465926016060/tm265491d12_ex99-1.htm",
      "monthsOn": 0,
+     "problems": null
+    },
+    {
+     "period": "2026-02-28",
+     "endBal": 736589696.08,
+     "dq60Pct": 0.27,
+     "anlPct": 1.49,
+     "cnlPct": 0.2,
+     "origBal": 759983967.85,
+     "accession": "0001104659-26-028256",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101434/000110465926028256/tm268237d10_ex99-1.htm",
+     "monthsOn": 1,
+     "problems": null
+    },
+    {
+     "period": "2026-03-31",
+     "endBal": 722531091.21,
+     "dq60Pct": 1.38,
+     "anlPct": 3.24,
+     "cnlPct": 0.46,
+     "origBal": 759983967.85,
+     "accession": "0001104659-26-043619",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101434/000110465926043619/tm2611402d10_ex99-1.htm",
+     "monthsOn": 2,
+     "problems": null
+    },
+    {
+     "period": "2026-04-30",
+     "endBal": 706286291.36,
+     "dq60Pct": 2.29,
+     "anlPct": 7.77,
+     "cnlPct": 1.08,
+     "origBal": 759983967.85,
+     "accession": "0001104659-26-062039",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101434/000110465926062039/tm2613972d10_ex99-1.htm",
+     "monthsOn": 3,
+     "problems": null
+    },
+    {
+     "period": "2026-05-31",
+     "endBal": 689014631.91,
+     "dq60Pct": 3.18,
+     "anlPct": 8.8,
+     "cnlPct": 1.76,
+     "origBal": 759983967.85,
+     "accession": "0001104659-26-073868",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101434/000110465926073868/tm2617182d10_ex99-1.htm",
+     "monthsOn": 4,
+     "problems": null
+    },
+    {
+     "period": "2026-06-30",
+     "endBal": 672908475.76,
+     "dq60Pct": 4.59,
+     "anlPct": 8.56,
+     "cnlPct": 2.41,
+     "origBal": 759983967.85,
+     "accession": "0001104659-26-083807",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101434/000110465926083807/tm2619815d10_ex99-1.htm",
+     "monthsOn": 5,
+     "problems": null
+    },
+    {
+     "period": "2026-07-31",
+     "endBal": 653098260.1,
+     "dq60Pct": 4.54,
+     "anlPct": 11.95,
+     "cnlPct": 3.29,
+     "origBal": 759983967.85,
+     "accession": "0001104659-26-097669",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101434/000110465926097669/tm2622707d10_ex99-1.htm",
+     "monthsOn": 6,
      "problems": null
     },
     {
@@ -331,14 +517,88 @@
   },
   {
    "dealName": "Exeter Automobile Receivables Trust 2026-1",
-   "series": [],
+   "series": [
+    {
+     "period": "2026-01-31",
+     "endBal": 1110558260.51,
+     "dq60Pct": 0.06,
+     "anlPct": 0.04,
+     "cnlPct": 0.0,
+     "origBal": 1123258745.69,
+     "accession": "0000929638-26-000864",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101848/000092963826000864/eart2026-1_exhibit991.htm",
+     "monthsOn": 0,
+     "problems": null
+    },
+    {
+     "period": "2026-02-28",
+     "endBal": 1094921961.21,
+     "dq60Pct": 1.54,
+     "anlPct": 0.44,
+     "cnlPct": 0.04,
+     "origBal": 1123258745.69,
+     "accession": "0000929638-26-001343",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101848/000092963826001343/eart2026-1_exhibit991.htm",
+     "monthsOn": 1,
+     "problems": null
+    },
+    {
+     "period": "2026-03-31",
+     "endBal": 1076792387.97,
+     "dq60Pct": 2.99,
+     "anlPct": 0.7,
+     "cnlPct": 0.1,
+     "origBal": 1123258745.69,
+     "accession": "0000929638-26-001686",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101848/000092963826001686/eart2026-1_exhibit991.htm",
+     "monthsOn": 2,
+     "problems": null
+    },
+    {
+     "period": "2026-04-30",
+     "endBal": 1052079155.8,
+     "dq60Pct": 3.71,
+     "anlPct": 5.08,
+     "cnlPct": 0.5,
+     "origBal": 1123258745.69,
+     "accession": "0000929638-26-002081",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101848/000092963826002081/eart2026-1_exhibit991.htm",
+     "monthsOn": 3,
+     "problems": null
+    },
+    {
+     "period": "2026-05-31",
+     "endBal": 1024336846.44,
+     "dq60Pct": 4.32,
+     "anlPct": 7.56,
+     "cnlPct": 1.09,
+     "origBal": 1123258745.69,
+     "accession": "0000929638-26-002466",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101848/000092963826002466/eart2026-1_exhibit991.htm",
+     "monthsOn": 4,
+     "problems": null
+    },
+    {
+     "period": "2026-06-30",
+     "endBal": 994689313.57,
+     "dq60Pct": 5.12,
+     "anlPct": 8.01,
+     "cnlPct": 1.7,
+     "origBal": 1123258745.69,
+     "accession": "0000929638-26-002834",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101848/000092963826002834/eart2026-1_exhibit991.htm",
+     "monthsOn": 5,
+     "problems": null
+    }
+   ],
    "issuer": "Exeter",
    "tier": "Subprime",
    "tierGroup": "Subprime",
    "cik": "2101848",
    "closeDate": "2026-01-23",
    "amountM": 1098.78,
-   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2101848/000092963826000244/eart2026-1_424b5.htm"
+   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2101848/000092963826000244/eart2026-1_424b5.htm",
+   "origBal": 1123258745.69
   },
   {
    "dealName": "CarMax Auto Owner Trust 2026-1",
