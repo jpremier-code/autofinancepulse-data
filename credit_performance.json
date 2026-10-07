@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T11:04:20.258974-04:00",
+ "generatedAt": "2026-10-07T08:59:55.761359-04:00",
  "coverage": "45 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
@@ -53,10 +53,10 @@
   {
    "month": "2026-03",
    "tier": "Prime",
-   "trusts": 8,
-   "poolBalM": 12852.9,
-   "dq60Pct": 0.15,
-   "anlPct": 0.19
+   "trusts": 7,
+   "poolBalM": 10631.6,
+   "dq60Pct": 0.16,
+   "anlPct": 0.23
   },
   {
    "month": "2026-03",
@@ -940,18 +940,6 @@
      "accession": "0001193125-26-122449",
      "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526122449/na-ex99_1.htm",
      "monthsOn": 0,
-     "problems": null
-    },
-    {
-     "period": "2026-03-31",
-     "endBal": 2221246333.26,
-     "dq60Pct": 0.09,
-     "anlPct": 0.04,
-     "cnlPct": 0.0,
-     "origBal": 2483131904.21,
-     "accession": "0001193125-26-188403",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
-     "monthsOn": 1,
      "problems": null
     },
     {
