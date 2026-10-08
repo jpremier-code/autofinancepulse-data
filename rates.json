@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T08:52:19.239076-04:00",
+  "generatedAt": "2026-10-08T08:48:00.886829-04:00",
   "fedFunds": {
     "label": "Fed Funds Rate",
     "value": 3.75,
@@ -112,183 +112,183 @@
   },
   "treasury2yr": {
     "label": "2-Yr Treasury Yield",
-    "value": 4.84,
-    "asOfDate": "2026-10-05",
+    "value": 4.79,
+    "asOfDate": "2026-10-06",
     "datePrecision": "day",
-    "change": -0.03,
+    "change": -0.02,
     "changeLabel": "vs prior week",
     "sourceLabel": "FRED · DGS2",
     "sourceUrl": "https://fred.stlouisfed.org/series/DGS2",
     "cadence": "daily (sampled weekly)",
-    "nextUpdateLabel": "Expected Oct 6, 2026",
+    "nextUpdateLabel": "Expected Oct 7, 2026",
     "history": [
       {
-        "date": "2025-08-12",
-        "value": 3.72
+        "date": "2025-08-13",
+        "value": 3.67
       },
       {
-        "date": "2025-08-21",
-        "value": 3.79
-      },
-      {
-        "date": "2025-09-02",
-        "value": 3.66
-      },
-      {
-        "date": "2025-09-11",
-        "value": 3.52
-      },
-      {
-        "date": "2025-09-22",
-        "value": 3.61
-      },
-      {
-        "date": "2025-10-01",
-        "value": 3.55
-      },
-      {
-        "date": "2025-10-10",
-        "value": 3.52
-      },
-      {
-        "date": "2025-10-22",
-        "value": 3.45
-      },
-      {
-        "date": "2025-10-31",
-        "value": 3.6
-      },
-      {
-        "date": "2025-11-12",
-        "value": 3.56
-      },
-      {
-        "date": "2025-11-21",
-        "value": 3.51
-      },
-      {
-        "date": "2025-12-03",
-        "value": 3.49
-      },
-      {
-        "date": "2025-12-12",
-        "value": 3.52
-      },
-      {
-        "date": "2025-12-23",
-        "value": 3.48
-      },
-      {
-        "date": "2026-01-05",
-        "value": 3.46
-      },
-      {
-        "date": "2026-01-14",
-        "value": 3.51
-      },
-      {
-        "date": "2026-01-26",
-        "value": 3.56
-      },
-      {
-        "date": "2026-02-04",
-        "value": 3.57
-      },
-      {
-        "date": "2026-02-13",
-        "value": 3.4
-      },
-      {
-        "date": "2026-02-25",
-        "value": 3.45
-      },
-      {
-        "date": "2026-03-06",
-        "value": 3.56
-      },
-      {
-        "date": "2026-03-17",
+        "date": "2025-08-22",
         "value": 3.68
       },
       {
-        "date": "2026-03-26",
-        "value": 3.96
+        "date": "2025-09-03",
+        "value": 3.61
       },
       {
-        "date": "2026-04-06",
-        "value": 3.84
+        "date": "2025-09-12",
+        "value": 3.56
       },
       {
-        "date": "2026-04-15",
+        "date": "2025-09-23",
+        "value": 3.53
+      },
+      {
+        "date": "2025-10-02",
+        "value": 3.55
+      },
+      {
+        "date": "2025-10-14",
+        "value": 3.48
+      },
+      {
+        "date": "2025-10-23",
+        "value": 3.48
+      },
+      {
+        "date": "2025-11-03",
+        "value": 3.6
+      },
+      {
+        "date": "2025-11-13",
+        "value": 3.58
+      },
+      {
+        "date": "2025-11-24",
+        "value": 3.46
+      },
+      {
+        "date": "2025-12-04",
+        "value": 3.52
+      },
+      {
+        "date": "2025-12-15",
+        "value": 3.51
+      },
+      {
+        "date": "2025-12-24",
+        "value": 3.47
+      },
+      {
+        "date": "2026-01-06",
+        "value": 3.47
+      },
+      {
+        "date": "2026-01-15",
+        "value": 3.56
+      },
+      {
+        "date": "2026-01-27",
+        "value": 3.53
+      },
+      {
+        "date": "2026-02-05",
+        "value": 3.47
+      },
+      {
+        "date": "2026-02-17",
+        "value": 3.43
+      },
+      {
+        "date": "2026-02-26",
+        "value": 3.42
+      },
+      {
+        "date": "2026-03-09",
+        "value": 3.56
+      },
+      {
+        "date": "2026-03-18",
         "value": 3.76
       },
       {
-        "date": "2026-04-24",
+        "date": "2026-03-27",
+        "value": 3.88
+      },
+      {
+        "date": "2026-04-07",
+        "value": 3.81
+      },
+      {
+        "date": "2026-04-16",
         "value": 3.78
       },
       {
-        "date": "2026-05-05",
-        "value": 3.93
+        "date": "2026-04-27",
+        "value": 3.78
       },
       {
-        "date": "2026-05-14",
-        "value": 4.0
+        "date": "2026-05-06",
+        "value": 3.87
       },
       {
-        "date": "2026-05-26",
-        "value": 4.01
-      },
-      {
-        "date": "2026-06-04",
-        "value": 4.05
-      },
-      {
-        "date": "2026-06-15",
-        "value": 4.07
-      },
-      {
-        "date": "2026-06-25",
+        "date": "2026-05-15",
         "value": 4.09
       },
       {
-        "date": "2026-07-07",
-        "value": 4.19
+        "date": "2026-05-27",
+        "value": 4.0
       },
       {
-        "date": "2026-07-16",
-        "value": 4.16
+        "date": "2026-06-05",
+        "value": 4.17
       },
       {
-        "date": "2026-07-27",
-        "value": 4.31
+        "date": "2026-06-16",
+        "value": 4.05
       },
       {
-        "date": "2026-08-05",
+        "date": "2026-06-26",
+        "value": 4.07
+      },
+      {
+        "date": "2026-07-08",
+        "value": 4.21
+      },
+      {
+        "date": "2026-07-17",
         "value": 4.18
       },
       {
-        "date": "2026-08-14",
-        "value": 4.17
+        "date": "2026-07-28",
+        "value": 4.26
       },
       {
-        "date": "2026-08-25",
-        "value": 4.17
+        "date": "2026-08-06",
+        "value": 4.25
       },
       {
-        "date": "2026-09-03",
-        "value": 4.34
+        "date": "2026-08-17",
+        "value": 4.19
       },
       {
-        "date": "2026-09-15",
-        "value": 4.67
+        "date": "2026-08-26",
+        "value": 4.19
       },
       {
-        "date": "2026-09-24",
-        "value": 4.87
+        "date": "2026-09-04",
+        "value": 4.37
       },
       {
-        "date": "2026-10-05",
-        "value": 4.84
+        "date": "2026-09-16",
+        "value": 4.74
+      },
+      {
+        "date": "2026-09-25",
+        "value": 4.81
+      },
+      {
+        "date": "2026-10-06",
+        "value": 4.79
       }
     ]
   },
@@ -341,19 +341,15 @@
   "bankApr": {
     "label": "New Auto APR — Banks (48-Mo)",
     "value": 7.47,
-    "asOfDate": "2026-05-01",
+    "asOfDate": "2026-08-01",
     "datePrecision": "month",
-    "change": 0.1,
+    "change": 0.0,
     "changeLabel": "vs prior quarter",
     "sourceLabel": "FRED · TERMCBAUTO48NS",
     "sourceUrl": "https://fred.stlouisfed.org/series/TERMCBAUTO48NS",
     "cadence": "quarterly",
-    "nextUpdateLabel": "Expected October 2026",
+    "nextUpdateLabel": "Expected January 2027",
     "history": [
-      {
-        "date": "2024-08-01",
-        "value": 8.63
-      },
       {
         "date": "2024-11-01",
         "value": 8.12
@@ -380,6 +376,10 @@
       },
       {
         "date": "2026-05-01",
+        "value": 7.47
+      },
+      {
+        "date": "2026-08-01",
         "value": 7.47
       }
     ]
