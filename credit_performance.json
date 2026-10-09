@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-08T08:55:09.843136-04:00",
- "coverage": "45 SEC-registered auto loan trusts",
+ "generatedAt": "2026-10-09T09:51:27.076287-04:00",
+ "coverage": "46 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
    "month": "2026-01",
@@ -949,8 +949,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-188403",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
+     "accession": "0001193125-26-173812",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -2501,6 +2501,17 @@
    "closeDate": "2026-09-30",
    "amountM": 911.0,
    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2149768/000110465926110795/tm2625528d10_424b5.htm"
+  },
+  {
+   "dealName": "GM Financial Consumer Automobile Receivables Trust 2026-4",
+   "series": [],
+   "issuer": "GM Financial",
+   "tier": "Prime",
+   "tierGroup": "Prime",
+   "cik": "2147611",
+   "closeDate": "2026-10-01",
+   "amountM": 1015.78,
+   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2147611/000119312526417856/d178270d424b5.htm"
   }
  ]
 }
