@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-09T09:50:29.152695-04:00",
-  "coverage": "59 SEC-registered auto ABS deals with class detail",
+  "generatedAt": "2026-10-12T10:36:03.164110-04:00",
+  "coverage": "60 SEC-registered auto ABS deals with class detail",
   "benchmarks": {
     "DGS1": {
-      "date": "2026-10-07",
-      "value": 4.42
+      "date": "2026-10-08",
+      "value": 4.44
     },
     "DGS2": {
-      "date": "2026-10-07",
-      "value": 4.77
+      "date": "2026-10-08",
+      "value": 4.75
     },
     "DGS3": {
-      "date": "2026-10-07",
-      "value": 4.87
+      "date": "2026-10-08",
+      "value": 4.85
     },
     "SOFR": {
       "date": "2026-10-08",
@@ -212,10 +212,10 @@
     {
       "month": "2026-10",
       "tier": "Prime",
-      "deals": 1,
-      "volumeM": 1015.8,
-      "seniorSpreadBps": 37,
-      "termSpreadBps": 14,
+      "deals": 2,
+      "volumeM": 2265.8,
+      "seniorSpreadBps": 41,
+      "termSpreadBps": 15,
       "juniorSpreadBps": 66
     }
   ],
@@ -1620,7 +1620,7 @@
       "tier": "Prime",
       "tierGroup": "Prime",
       "collateral": "Loan",
-      "amountM": 1015.78,
+      "amountM": 1015.8,
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2147611/000119312526417856/d178270d424b5.htm",
       "seniorClass": "A-3",
       "seniorCoupon": 5.26,
@@ -1634,6 +1634,30 @@
       "juniorSpreadBps": 66,
       "floatingMarginBps": 37,
       "ust2": 4.89,
+      "sofr": 3.88
+    },
+    {
+      "date": "2026-10-09",
+      "pricingDate": "2026-10-07",
+      "issuer": "BMW",
+      "dealName": "BMW Vehicle Lease Trust 2026-2",
+      "tier": "Prime",
+      "tierGroup": "Prime",
+      "collateral": "Lease",
+      "amountM": 1250.0,
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2153325/000092963826003875/bmw2026-2_424b5.htm",
+      "seniorClass": "A-3",
+      "seniorCoupon": 5.22,
+      "seniorBenchmark": "2-yr UST",
+      "seniorBenchmarkYield": 4.77,
+      "seniorSpreadBps": 45,
+      "termCost": 4.932,
+      "termSpreadBps": 16,
+      "juniorClass": null,
+      "juniorCoupon": null,
+      "juniorSpreadBps": null,
+      "floatingMarginBps": 37,
+      "ust2": 4.77,
       "sofr": 3.88
     }
   ]
