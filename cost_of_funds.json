@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-12T10:36:03.164110-04:00",
-  "coverage": "60 SEC-registered auto ABS deals with class detail",
+  "generatedAt": "2026-10-14T10:32:22.541806-04:00",
+  "coverage": "61 SEC-registered auto ABS deals with class detail",
   "benchmarks": {
     "DGS1": {
-      "date": "2026-10-08",
-      "value": 4.44
+      "date": "2026-10-09",
+      "value": 4.47
     },
     "DGS2": {
-      "date": "2026-10-08",
-      "value": 4.75
+      "date": "2026-10-09",
+      "value": 4.8
     },
     "DGS3": {
-      "date": "2026-10-08",
-      "value": 4.85
+      "date": "2026-10-09",
+      "value": 4.89
     },
     "SOFR": {
-      "date": "2026-10-08",
-      "value": 3.87
+      "date": "2026-10-13",
+      "value": 3.89
     }
   },
   "monthly": [
@@ -217,6 +217,15 @@
       "seniorSpreadBps": 41,
       "termSpreadBps": 15,
       "juniorSpreadBps": 66
+    },
+    {
+      "month": "2026-10",
+      "tier": "Subprime",
+      "deals": 1,
+      "volumeM": 750.0,
+      "seniorSpreadBps": 30,
+      "termSpreadBps": 66,
+      "juniorSpreadBps": 157
     }
   ],
   "deals": [
@@ -1659,6 +1668,30 @@
       "floatingMarginBps": 37,
       "ust2": 4.77,
       "sofr": 3.88
+    },
+    {
+      "date": "2026-10-13",
+      "pricingDate": "2026-10-09",
+      "issuer": "Bridgecrest",
+      "dealName": "Bridgecrest Lending Auto Securitization Trust 2026-4",
+      "tier": "Subprime",
+      "tierGroup": "Subprime",
+      "collateral": "Loan",
+      "amountM": 750.0,
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2151184/000110465926115378/tm2626506d10_424b5.htm",
+      "seniorClass": "A-3",
+      "seniorCoupon": 5.1,
+      "seniorBenchmark": "2-yr UST",
+      "seniorBenchmarkYield": 4.8,
+      "seniorSpreadBps": 30,
+      "termCost": 5.464,
+      "termSpreadBps": 66,
+      "juniorClass": "D",
+      "juniorCoupon": 6.46,
+      "juniorSpreadBps": 157,
+      "floatingMarginBps": null,
+      "ust2": 4.8,
+      "sofr": 3.87
     }
   ]
 }
