@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-12T10:37:13.919803-04:00",
- "coverage": "46 SEC-registered auto loan trusts",
+ "generatedAt": "2026-10-14T10:33:55.774227-04:00",
+ "coverage": "47 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
    "month": "2026-01",
@@ -949,8 +949,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-188403",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
+     "accession": "0001193125-26-173812",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -2512,6 +2512,17 @@
    "closeDate": "2026-10-01",
    "amountM": 1015.8,
    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2147611/000119312526417856/d178270d424b5.htm"
+  },
+  {
+   "dealName": "Bridgecrest Lending Auto Securitization Trust 2026-4",
+   "series": [],
+   "issuer": "Bridgecrest",
+   "tier": "Subprime",
+   "tierGroup": "Subprime",
+   "cik": "2151184",
+   "closeDate": "2026-10-13",
+   "amountM": 750.0,
+   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2151184/000110465926115378/tm2626506d10_424b5.htm"
   }
  ]
 }
