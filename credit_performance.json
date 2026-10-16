@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T10:33:55.774227-04:00",
+ "generatedAt": "2026-10-16T11:02:15.182623-04:00",
  "coverage": "47 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
@@ -185,6 +185,30 @@
    "poolBalM": 7706.1,
    "dq60Pct": 3.91,
    "anlPct": 6.39
+  },
+  {
+   "month": "2026-09",
+   "tier": "Near-prime",
+   "trusts": 3,
+   "poolBalM": 1751.6,
+   "dq60Pct": 2.05,
+   "anlPct": 2.8
+  },
+  {
+   "month": "2026-09",
+   "tier": "Prime",
+   "trusts": 4,
+   "poolBalM": 5020.1,
+   "dq60Pct": 0.23,
+   "anlPct": 0.36
+  },
+  {
+   "month": "2026-09",
+   "tier": "Subprime",
+   "trusts": 4,
+   "poolBalM": 3605.1,
+   "dq60Pct": 4.94,
+   "anlPct": 8.67
   }
  ],
  "trusts": [
@@ -504,6 +528,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2101434/000110465926107789/tm2624852d10_ex99-1.htm",
      "monthsOn": 7,
      "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 618695276.15,
+     "dq60Pct": 4.7,
+     "anlPct": 9.59,
+     "cnlPct": 4.81,
+     "origBal": 759983967.85,
+     "accession": "0001104659-26-116073",
+     "url": "https://www.sec.gov/Archives/edgar/data/2101434/000110465926116073/tm2627320d10_ex99-1.htm",
+     "monthsOn": 8,
+     "problems": null
     }
    ],
    "issuer": "Bridgecrest",
@@ -721,6 +757,18 @@
      "accession": "0002094950-26-000042",
      "url": "https://www.sec.gov/Archives/edgar/data/2094950/000209495026000042/a2026-1ex991091526.htm",
      "monthsOn": 7,
+     "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 911782716.6,
+     "dq60Pct": 0.45,
+     "anlPct": 0.92,
+     "cnlPct": 0.25,
+     "origBal": 1306533362.66,
+     "accession": "0002094950-26-000047",
+     "url": "https://www.sec.gov/Archives/edgar/data/2094950/000209495026000047/a2026-1ex991101526.htm",
+     "monthsOn": 8,
      "problems": null
     }
    ],
@@ -949,8 +997,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-173812",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
+     "accession": "0001193125-26-188403",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -1110,6 +1158,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2104651/000210465126000036/a2026-aex991091526.htm",
      "monthsOn": 6,
      "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 591203290.89,
+     "dq60Pct": 3.56,
+     "anlPct": 4.81,
+     "cnlPct": 1.83,
+     "origBal": 769231898.52,
+     "accession": "0002104651-26-000041",
+     "url": "https://www.sec.gov/Archives/edgar/data/2104651/000210465126000041/a2026-aex991101526.htm",
+     "monthsOn": 7,
+     "problems": null
     }
    ],
    "issuer": "CarMax",
@@ -1206,6 +1266,18 @@
      "accession": "0001193125-26-391005",
      "url": "https://www.sec.gov/Archives/edgar/data/2105961/000119312526391005/d152036dex991.htm",
      "monthsOn": 6,
+     "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 1495223432.91,
+     "dq60Pct": 5.75,
+     "anlPct": 9.12,
+     "cnlPct": 2.23,
+     "origBal": 1936166715.66,
+     "accession": "0001193125-26-422015",
+     "url": "https://www.sec.gov/Archives/edgar/data/2105961/000119312526422015/d88338dex991.htm",
+     "monthsOn": 7,
      "problems": null
     }
    ],
@@ -1618,6 +1690,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2121064/000110465926107794/tm2624852d11_ex99-1.htm",
      "monthsOn": 4,
      "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 670755118.55,
+     "dq60Pct": 6.14,
+     "anlPct": 11.05,
+     "cnlPct": 2.77,
+     "origBal": 759931706.7,
+     "accession": "0001104659-26-116078",
+     "url": "https://www.sec.gov/Archives/edgar/data/2121064/000110465926116078/tm2627320d11_ex99-1.htm",
+     "monthsOn": 5,
+     "problems": null
     }
    ],
    "issuer": "Bridgecrest",
@@ -1690,6 +1774,18 @@
      "accession": "0002117307-26-000025",
      "url": "https://www.sec.gov/Archives/edgar/data/2117307/000211730726000025/a2026-2ex991091526.htm",
      "monthsOn": 4,
+     "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 973204192.33,
+     "dq60Pct": 0.36,
+     "anlPct": 0.68,
+     "cnlPct": 0.13,
+     "origBal": 1180905155.32,
+     "accession": "0002117307-26-000030",
+     "url": "https://www.sec.gov/Archives/edgar/data/2117307/000211730726000030/a2026-2ex991101526.htm",
+     "monthsOn": 5,
      "problems": null
     }
    ],
@@ -2115,6 +2211,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2137261/000213726126000015/a2026-bex991091526.htm",
      "monthsOn": 2,
      "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 556642630.8,
+     "dq60Pct": 2.58,
+     "anlPct": 3.65,
+     "cnlPct": 0.33,
+     "origBal": 621762247.08,
+     "accession": "0002137261-26-000020",
+     "url": "https://www.sec.gov/Archives/edgar/data/2137261/000213726126000020/a2026-bex991101526.htm",
+     "monthsOn": 3,
+     "problems": null
     }
    ],
    "issuer": "CarMax",
@@ -2189,6 +2297,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2138886/000110465926107797/tm2624852d12_ex99-1.htm",
      "monthsOn": 1,
      "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 820378648.71,
+     "dq60Pct": 2.68,
+     "anlPct": 5.21,
+     "cnlPct": 0.68,
+     "origBal": 858027959.79,
+     "accession": "0001104659-26-116082",
+     "url": "https://www.sec.gov/Archives/edgar/data/2138886/000110465926116082/tm2627320d12_ex99-1.htm",
+     "monthsOn": 2,
+     "problems": null
     }
    ],
    "issuer": "Bridgecrest",
@@ -2225,6 +2345,18 @@
      "accession": "0002142044-26-000010",
      "url": "https://www.sec.gov/Archives/edgar/data/2142044/000214204426000010/a2026-3ex991091526.htm",
      "monthsOn": 1,
+     "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 1200669094.26,
+     "dq60Pct": 0.31,
+     "anlPct": 0.12,
+     "cnlPct": 0.01,
+     "origBal": 1353384019.62,
+     "accession": "0002142044-26-000015",
+     "url": "https://www.sec.gov/Archives/edgar/data/2142044/000214204426000015/a2026-3ex991101526.htm",
+     "monthsOn": 2,
      "problems": null
     }
    ],
@@ -2427,25 +2559,53 @@
   },
   {
    "dealName": "Capital One Prime Auto Receivables Trust 2026-1",
-   "series": [],
+   "series": [
+    {
+     "period": "2026-09-30",
+     "endBal": 1934428642.93,
+     "dq60Pct": 0.0,
+     "anlPct": 0.08,
+     "cnlPct": 0.01,
+     "origBal": 2066987592.52,
+     "accession": "0002149906-26-000003",
+     "url": "https://www.sec.gov/Archives/edgar/data/2149906/000214990626000003/copar2026-1exx991xseptembe.htm",
+     "monthsOn": 0,
+     "problems": null
+    }
+   ],
    "issuer": "Capital One",
    "tier": "Prime",
    "tierGroup": "Prime",
    "cik": "2149906",
    "closeDate": "2026-09-11",
    "amountM": 1974.59,
-   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2149906/000119312526389225/d100423d424b5.htm"
+   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2149906/000119312526389225/d100423d424b5.htm",
+   "origBal": 2066987592.52
   },
   {
    "dealName": "CarMax Select Receivables Trust 2026-C",
-   "series": [],
+   "series": [
+    {
+     "period": "2026-09-30",
+     "endBal": 603795551.43,
+     "dq60Pct": 0.09,
+     "anlPct": 0.06,
+     "cnlPct": 0.01,
+     "origBal": 618556951.15,
+     "accession": "0002150707-26-000005",
+     "url": "https://www.sec.gov/Archives/edgar/data/2150707/000215070726000005/a2026-cex991101526.htm",
+     "monthsOn": 0,
+     "problems": null
+    }
+   ],
    "issuer": "CarMax",
    "tier": "Near-prime",
    "tierGroup": "Near-prime",
    "cik": "2150707",
    "closeDate": "2026-09-17",
    "amountM": 600.0,
-   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2150707/000119312526400855/d187449d424b5.htm"
+   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2150707/000119312526400855/d187449d424b5.htm",
+   "origBal": 618556951.15
   },
   {
    "dealName": "Hyundai Auto Receivables Trust 2026-C",
@@ -2521,7 +2681,7 @@
    "tierGroup": "Subprime",
    "cik": "2151184",
    "closeDate": "2026-10-13",
-   "amountM": 750.0,
+   "amountM": 685.2,
    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2151184/000110465926115378/tm2626506d10_424b5.htm"
   }
  ]
