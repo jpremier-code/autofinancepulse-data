@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-14T10:32:22.541806-04:00",
+  "generatedAt": "2026-10-16T10:59:39.388927-04:00",
   "coverage": "61 SEC-registered auto ABS deals with class detail",
   "benchmarks": {
     "DGS1": {
-      "date": "2026-10-09",
-      "value": 4.47
+      "date": "2026-10-14",
+      "value": 4.53
     },
     "DGS2": {
-      "date": "2026-10-09",
-      "value": 4.8
+      "date": "2026-10-14",
+      "value": 4.82
     },
     "DGS3": {
-      "date": "2026-10-09",
-      "value": 4.89
+      "date": "2026-10-14",
+      "value": 4.92
     },
     "SOFR": {
-      "date": "2026-10-13",
+      "date": "2026-10-15",
       "value": 3.89
     }
   },
@@ -222,7 +222,7 @@
       "month": "2026-10",
       "tier": "Subprime",
       "deals": 1,
-      "volumeM": 750.0,
+      "volumeM": 685.2,
       "seniorSpreadBps": 30,
       "termSpreadBps": 66,
       "juniorSpreadBps": 157
@@ -1677,7 +1677,7 @@
       "tier": "Subprime",
       "tierGroup": "Subprime",
       "collateral": "Loan",
-      "amountM": 750.0,
+      "amountM": 685.2,
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2151184/000110465926115378/tm2626506d10_424b5.htm",
       "seniorClass": "A-3",
       "seniorCoupon": 5.1,
