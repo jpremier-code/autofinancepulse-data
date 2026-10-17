@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-16T11:02:15.182623-04:00",
- "coverage": "47 SEC-registered auto loan trusts",
+ "generatedAt": "2026-10-17T09:29:29.145738-04:00",
+ "coverage": "49 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
    "month": "2026-01",
@@ -997,8 +997,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-188403",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
+     "accession": "0001193125-26-173812",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -2683,6 +2683,28 @@
    "closeDate": "2026-10-13",
    "amountM": 685.2,
    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2151184/000110465926115378/tm2626506d10_424b5.htm"
+  },
+  {
+   "dealName": "Toyota Auto Receivables 2026-D Owner Trust",
+   "series": [],
+   "issuer": "Toyota",
+   "tier": "Prime",
+   "tierGroup": "Prime",
+   "cik": "2099542",
+   "closeDate": "2026-10-14",
+   "amountM": 1900.0,
+   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2099542/000092963826003906/taot2026-d_424b5.htm"
+  },
+  {
+   "dealName": "CarMax Auto Owner Trust 2026-4",
+   "series": [],
+   "issuer": "CarMax",
+   "tier": "Prime",
+   "tierGroup": "Prime",
+   "cik": "2150706",
+   "closeDate": "2026-10-16",
+   "amountM": 1350.0,
+   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2150706/000119312526423742/d177261d424b5.htm"
   }
  ]
 }
