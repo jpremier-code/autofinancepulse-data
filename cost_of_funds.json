@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-16T10:59:39.388927-04:00",
-  "coverage": "61 SEC-registered auto ABS deals with class detail",
+  "generatedAt": "2026-10-17T09:28:40.557063-04:00",
+  "coverage": "63 SEC-registered auto ABS deals with class detail",
   "benchmarks": {
     "DGS1": {
-      "date": "2026-10-14",
-      "value": 4.53
+      "date": "2026-10-15",
+      "value": 4.49
     },
     "DGS2": {
-      "date": "2026-10-14",
-      "value": 4.82
+      "date": "2026-10-15",
+      "value": 4.77
     },
     "DGS3": {
-      "date": "2026-10-14",
-      "value": 4.92
+      "date": "2026-10-15",
+      "value": 4.85
     },
     "SOFR": {
       "date": "2026-10-15",
@@ -212,11 +212,11 @@
     {
       "month": "2026-10",
       "tier": "Prime",
-      "deals": 2,
-      "volumeM": 2265.8,
-      "seniorSpreadBps": 41,
-      "termSpreadBps": 15,
-      "juniorSpreadBps": 66
+      "deals": 4,
+      "volumeM": 5515.8,
+      "seniorSpreadBps": 46,
+      "termSpreadBps": 18,
+      "juniorSpreadBps": 103
     },
     {
       "month": "2026-10",
@@ -1692,6 +1692,54 @@
       "floatingMarginBps": null,
       "ust2": 4.8,
       "sofr": 3.87
+    },
+    {
+      "date": "2026-10-14",
+      "pricingDate": "2026-10-12",
+      "issuer": "Toyota",
+      "dealName": "Toyota Auto Receivables 2026-D Owner Trust",
+      "tier": "Prime",
+      "tierGroup": "Prime",
+      "collateral": "Loan",
+      "amountM": 1900.0,
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2099542/000092963826003906/taot2026-d_424b5.htm",
+      "seniorClass": "A-3",
+      "seniorCoupon": 5.26,
+      "seniorBenchmark": "2-yr UST",
+      "seniorBenchmarkYield": 4.8,
+      "seniorSpreadBps": 46,
+      "termCost": 4.989,
+      "termSpreadBps": 19,
+      "juniorClass": null,
+      "juniorCoupon": null,
+      "juniorSpreadBps": null,
+      "floatingMarginBps": 36,
+      "ust2": 4.8,
+      "sofr": 3.87
+    },
+    {
+      "date": "2026-10-16",
+      "pricingDate": "2026-10-14",
+      "issuer": "CarMax",
+      "dealName": "CarMax Auto Owner Trust 2026-4",
+      "tier": "Prime",
+      "tierGroup": "Prime",
+      "collateral": "Loan",
+      "amountM": 1350.0,
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2150706/000119312526423742/d177261d424b5.htm",
+      "seniorClass": "A-3",
+      "seniorCoupon": 5.38,
+      "seniorBenchmark": "2-yr UST",
+      "seniorBenchmarkYield": 4.82,
+      "seniorSpreadBps": 56,
+      "termCost": 5.15,
+      "termSpreadBps": 33,
+      "juniorClass": "D",
+      "juniorCoupon": 6.32,
+      "juniorSpreadBps": 140,
+      "floatingMarginBps": 50,
+      "ust2": 4.82,
+      "sofr": 3.88
     }
   ]
 }
