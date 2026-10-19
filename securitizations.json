@@ -6928,5 +6928,89 @@
     "filedAmountM": 1333.1,
     "offeredM": 1350.0,
     "retentionNote": null
+  },
+  {
+    "date": "2026-10-19",
+    "issuer": "Mercedes-Benz",
+    "issuerFullName": "Mercedes-Benz Financial Services",
+    "dealName": "Mercedes-Benz Auto Lease Trust 2026-B",
+    "amountM": 1322.4,
+    "amountLabel": "$1.32B",
+    "tier": "Prime",
+    "collateral": "Lease",
+    "offering": "SEC-registered",
+    "sourceName": "SEC EDGAR",
+    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2151670/000114036126039948/ef20083960_424b2.htm",
+    "classes": [
+      {
+        "class": "A-1",
+        "amount_m": 320.0,
+        "rate_type": "fixed",
+        "coupon_pct": 0.0,
+        "floating_index": null,
+        "spread_pct": null,
+        "final_date": "2027-11-15",
+        "price_pct": null,
+        "offered": false,
+        "verified": true,
+        "subordination_pct": 0.0
+      },
+      {
+        "class": "A-2A",
+        "amount_m": 409.0,
+        "rate_type": "fixed",
+        "coupon_pct": 4.84,
+        "floating_index": null,
+        "spread_pct": null,
+        "final_date": "2029-01-16",
+        "price_pct": 99.9974,
+        "offered": true,
+        "verified": true,
+        "subordination_pct": 0.0
+      },
+      {
+        "class": "A-2B",
+        "amount_m": 57.4,
+        "rate_type": "floating",
+        "coupon_pct": null,
+        "floating_index": "SOFR",
+        "spread_pct": 0.39,
+        "final_date": "2029-01-16",
+        "price_pct": 100.0,
+        "offered": true,
+        "verified": true,
+        "subordination_pct": 0.0
+      },
+      {
+        "class": "A-3",
+        "amount_m": 466.4,
+        "rate_type": "fixed",
+        "coupon_pct": 5.21,
+        "floating_index": null,
+        "spread_pct": null,
+        "final_date": "2030-02-15",
+        "price_pct": 99.98285,
+        "offered": true,
+        "verified": true,
+        "subordination_pct": 0.0
+      },
+      {
+        "class": "A-4",
+        "amount_m": 69.6,
+        "rate_type": "fixed",
+        "coupon_pct": 5.35,
+        "floating_index": null,
+        "spread_pct": null,
+        "final_date": "2032-06-15",
+        "price_pct": 99.99786,
+        "offered": true,
+        "verified": true,
+        "subordination_pct": 0.0
+      }
+    ],
+    "classNote": null,
+    "filedAmountM": 1002.4,
+    "offeredM": 1002.4,
+    "retentionNote": null
   }
 ]
