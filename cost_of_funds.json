@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T09:34:34.599074-04:00",
-  "coverage": "63 SEC-registered auto ABS deals with class detail",
+  "generatedAt": "2026-10-19T08:55:51.129653-04:00",
+  "coverage": "64 SEC-registered auto ABS deals with class detail",
   "benchmarks": {
     "DGS1": {
       "date": "2026-10-15",
@@ -15,8 +15,8 @@
       "value": 4.85
     },
     "SOFR": {
-      "date": "2026-10-15",
-      "value": 3.89
+      "date": "2026-10-16",
+      "value": 3.88
     }
   },
   "monthly": [
@@ -212,10 +212,10 @@
     {
       "month": "2026-10",
       "tier": "Prime",
-      "deals": 4,
-      "volumeM": 5451.4,
-      "seniorSpreadBps": 46,
-      "termSpreadBps": 18,
+      "deals": 5,
+      "volumeM": 6773.8,
+      "seniorSpreadBps": 45,
+      "termSpreadBps": 19,
       "juniorSpreadBps": 103
     },
     {
@@ -1740,6 +1740,30 @@
       "floatingMarginBps": 50,
       "ust2": 4.82,
       "sofr": 3.88
+    },
+    {
+      "date": "2026-10-19",
+      "pricingDate": "2026-10-15",
+      "issuer": "Mercedes-Benz",
+      "dealName": "Mercedes-Benz Auto Lease Trust 2026-B",
+      "tier": "Prime",
+      "tierGroup": "Prime",
+      "collateral": "Lease",
+      "amountM": 1322.4,
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2151670/000114036126039948/ef20083960_424b2.htm",
+      "seniorClass": "A-3",
+      "seniorCoupon": 5.21,
+      "seniorBenchmark": "2-yr UST",
+      "seniorBenchmarkYield": 4.77,
+      "seniorSpreadBps": 44,
+      "termCost": 5.015,
+      "termSpreadBps": 25,
+      "juniorClass": null,
+      "juniorCoupon": null,
+      "juniorSpreadBps": null,
+      "floatingMarginBps": 39,
+      "ust2": 4.77,
+      "sofr": 3.89
     }
   ]
 }
