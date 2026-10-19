@@ -6393,6 +6393,19 @@
     "retentionNote": null
   },
   {
+    "date": "2026-09-30",
+    "issuer": "United Auto Credit",
+    "issuerFullName": null,
+    "dealName": "United Auto Credit Securitization Trust 2026-2",
+    "amountM": 234,
+    "amountLabel": "$234M",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "\"\"United Auto Credit Securitization Trust\"\" - Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG1sZ0N1ZlY1R1FmdVlrd2RGTU5mZlhjMndPdEVmUENXTjlwTEtjOEM2YUFrOUduNzNfZHdlSEJZdjRsd2o5QnY1UWtZY1UxNFoyWjE0clV3Y3VGeUFzZ0FfSHZ4MXNEMGhmcmVIbXpPVGk3SWdZQ1ZlVFlhOXBJdmd3UHVhTkU?oc=5"
+  },
+  {
     "date": "2026-10-01",
     "issuer": "Flagship Credit",
     "issuerFullName": null,
