@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T08:55:51.129653-04:00",
+  "generatedAt": "2026-10-19T12:22:29.441731-04:00",
   "coverage": "64 SEC-registered auto ABS deals with class detail",
   "benchmarks": {
     "DGS1": {
@@ -213,7 +213,7 @@
       "month": "2026-10",
       "tier": "Prime",
       "deals": 5,
-      "volumeM": 6773.8,
+      "volumeM": 6453.8,
       "seniorSpreadBps": 45,
       "termSpreadBps": 19,
       "juniorSpreadBps": 103
@@ -1749,7 +1749,7 @@
       "tier": "Prime",
       "tierGroup": "Prime",
       "collateral": "Lease",
-      "amountM": 1322.4,
+      "amountM": 1002.4,
       "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2151670/000114036126039948/ef20083960_424b2.htm",
       "seniorClass": "A-3",
       "seniorCoupon": 5.21,
