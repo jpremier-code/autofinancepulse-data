@@ -6309,6 +6309,19 @@
     "retentionNote": null
   },
   {
+    "date": "2026-09-29",
+    "issuer": "Pagaya",
+    "issuerFullName": null,
+    "dealName": null,
+    "amountM": 650,
+    "amountLabel": "$650M",
+    "tier": "Non-prime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "\"Pagaya auto ABS\" - Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbnlBYmpPQzJ5dHFvXzRDRnBLNWlKdHpGeE5vU3JPaFJCZE5tRDh6Rm1EZ3RSWkpqNkhEdDhsYko0MEJoZDRDZ3MwRENraTkwbXFWZTREWmdscnVYSXdYN2VmNW13d3hvVzhpV19ha3JpZHpSWGo1MmVsTkl2eW56bG85WXk0VXM0R1lrQk5SeWY?oc=5"
+  },
+  {
     "date": "2026-09-30",
     "issuer": "Porsche Financial Services",
     "issuerFullName": null,
