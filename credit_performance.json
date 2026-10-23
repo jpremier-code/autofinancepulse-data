@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T09:33:44.507395-04:00",
+ "generatedAt": "2026-10-23T09:53:27.953567-04:00",
  "coverage": "49 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
@@ -197,10 +197,10 @@
   {
    "month": "2026-09",
    "tier": "Prime",
-   "trusts": 4,
-   "poolBalM": 5020.1,
-   "dq60Pct": 0.23,
-   "anlPct": 0.36
+   "trusts": 5,
+   "poolBalM": 5804.4,
+   "dq60Pct": 0.25,
+   "anlPct": 0.37
   },
   {
    "month": "2026-09",
@@ -997,8 +997,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-173812",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
+     "accession": "0001193125-26-188403",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -1363,6 +1363,18 @@
      "accession": "0002111835-26-000034",
      "url": "https://www.sec.gov/Archives/edgar/data/2111835/000211183526000034/aart2026-1_exx99xaug2026.htm",
      "monthsOn": 5,
+     "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 784290342.19,
+     "dq60Pct": 0.41,
+     "anlPct": 0.44,
+     "cnlPct": 0.15,
+     "origBal": 1121938434.96,
+     "accession": "0002111835-26-000039",
+     "url": "https://www.sec.gov/Archives/edgar/data/2111835/000211183526000039/aart2026-1_exx99xsep2026.htm",
+     "monthsOn": 6,
      "problems": null
     }
    ],
