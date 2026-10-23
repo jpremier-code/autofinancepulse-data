@@ -7038,5 +7038,31 @@
     "filedAmountM": 1002.4,
     "offeredM": 1002.4,
     "retentionNote": null
+  },
+  {
+    "date": "2026-10-21",
+    "issuer": "Consumer Portfolio Services",
+    "issuerFullName": null,
+    "dealName": "CPS Auto Receivables Trust 2026-D",
+    "amountM": 797,
+    "amountLabel": "$797M",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "\"subprime auto ABS million\" - Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVlZ6WmZBcDRXQTZ6cl9JckpOa1JmRFpjYmNXOHNrY1lYYlNRNHJpUHFDTmRtV1dUVFlsdjVKUDh1VnlqeUhuOXluV2pycnpaeXFIdGplTVdFUExzRTZpZXVJYThMcTlkRmlOdG93aGZvYU5Uc2dhZkxxVHdOZWlxTkRaaU56NDZxMFdBUnBBbFFheDY4YmtTSjM1NEZzZ3ljblRobjBiRHh2dVNVdnZYYkpBRHNLbUU0Zzk3WUtTSWNpb2NvVFEySllVdnRaWlBXTHpxMmNn?oc=5"
+  },
+  {
+    "date": "2026-10-22",
+    "issuer": "ALLCU",
+    "issuerFullName": null,
+    "dealName": null,
+    "amountM": 243.7,
+    "amountLabel": "$243.7M",
+    "tier": null,
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "\"auto ABS pricing million\" - Google News",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNzc4X1dKamFhaXV4RkNFUUlMNW1LVkxHVHdlVTRRZVB0S1I0MFZWTmhBTTJveEhTN0wwQ0FwT3NjUWZWRWNXOGQ1Z0Z4X0YxVmlxVEQzMHNqNFp2ZFhtbllYWkdWa0JZM1FueWVjR0oyYTVLWXl5Z0lOMzR5R1NSSExjYWt0R252dDNLWmNR?oc=5"
   }
 ]
