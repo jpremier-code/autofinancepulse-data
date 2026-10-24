@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T09:53:27.953567-04:00",
+ "generatedAt": "2026-10-24T08:55:00.915222-04:00",
  "coverage": "49 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
@@ -197,10 +197,10 @@
   {
    "month": "2026-09",
    "tier": "Prime",
-   "trusts": 5,
-   "poolBalM": 5804.4,
-   "dq60Pct": 0.25,
-   "anlPct": 0.37
+   "trusts": 8,
+   "poolBalM": 11893.2,
+   "dq60Pct": 0.21,
+   "anlPct": 0.42
   },
   {
    "month": "2026-09",
@@ -964,6 +964,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2104134/000110465926110766/tm2625869d25_ex99-1.htm",
      "monthsOn": 6,
      "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 1814705612.02,
+     "dq60Pct": 0.23,
+     "anlPct": 0.5,
+     "cnlPct": 0.31,
+     "origBal": 2392354765.71,
+     "accession": "0001104659-26-118381",
+     "url": "https://www.sec.gov/Archives/edgar/data/2104134/000110465926118381/tm2627830d27_ex99-1.htm",
+     "monthsOn": 7,
+     "problems": null
     }
    ],
    "issuer": "Hyundai",
@@ -997,8 +1009,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-188403",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
+     "accession": "0001193125-26-173812",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -2114,6 +2126,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2135188/000110465926110767/tm2625869d26_ex99-1.htm",
      "monthsOn": 2,
      "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 2076476660.56,
+     "dq60Pct": 0.21,
+     "anlPct": 0.83,
+     "cnlPct": 0.16,
+     "origBal": 2408486358.62,
+     "accession": "0001104659-26-118382",
+     "url": "https://www.sec.gov/Archives/edgar/data/2135188/000110465926118382/tm2627830d28_ex99-1.htm",
+     "monthsOn": 3,
+     "problems": null
     }
    ],
    "issuer": "Hyundai",
@@ -2621,14 +2645,28 @@
   },
   {
    "dealName": "Hyundai Auto Receivables Trust 2026-C",
-   "series": [],
+   "series": [
+    {
+     "period": "2026-09-30",
+     "endBal": 2197595023.31,
+     "dq60Pct": 0.09,
+     "anlPct": 0.09,
+     "cnlPct": 0.01,
+     "origBal": 2306489743.04,
+     "accession": "0001104659-26-118383",
+     "url": "https://www.sec.gov/Archives/edgar/data/2151096/000110465926118383/tm2627830d29_ex99-1.htm",
+     "monthsOn": 0,
+     "problems": null
+    }
+   ],
    "issuer": "Hyundai",
    "tier": "Prime",
    "tierGroup": "Prime",
    "cik": "2151096",
    "closeDate": "2026-09-23",
    "amountM": 2066.16,
-   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2151096/000110465926108507/tm2624221d10_424b5.htm"
+   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2151096/000110465926108507/tm2624221d10_424b5.htm",
+   "origBal": 2306489743.04
   },
   {
    "dealName": "Ford Credit Auto Owner Trust 2026-C",
