@@ -822,6 +822,19 @@
     "retentionNote": null
   },
   {
+    "date": "2026-01-27",
+    "issuer": "CPS",
+    "issuerFullName": null,
+    "dealName": "CPS Auto Receivables Trust 2026-A",
+    "amountM": 345.61,
+    "amountLabel": "$345.61M",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "CPS / SEC EDGAR",
+    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/889609/000168316826000577/cps_ex9901.htm"
+  },
+  {
     "date": "2026-02-02",
     "issuer": "GLS",
     "issuerFullName": null,
@@ -1728,6 +1741,19 @@
     "retentionNote": "5% of each offered class retained by the sponsor (risk retention)"
   },
   {
+    "date": "2026-03-11",
+    "issuer": "Pagaya",
+    "issuerFullName": null,
+    "dealName": "RPM 2026-1",
+    "amountM": 400.0,
+    "amountLabel": "$400M",
+    "tier": "Non-prime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "Pagaya",
+    "sourceUrl": "https://investor.pagaya.com/news-releases/news-release-details/pagaya-closes-400-million-rpm-2026-1-auto-abs-transaction"
+  },
+  {
     "date": "2026-03-12",
     "issuer": "Carvana",
     "issuerFullName": null,
@@ -2265,6 +2291,19 @@
     "retentionNote": null
   },
   {
+    "date": "2026-04-09",
+    "issuer": "First Investors",
+    "issuerFullName": null,
+    "dealName": "First Investors Auto Owner Trust 2026-1",
+    "amountM": 497.5,
+    "amountLabel": "$497.5M",
+    "tier": "Near-prime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "KBRA",
+    "sourceUrl": "https://www.kbra.com/publications/WSMFRhRg/kbra-assigns-ratings-to-first-investors-auto-owner-trust-2026-1"
+  },
+  {
     "date": "2026-04-10",
     "issuer": "GM Financial",
     "issuerFullName": null,
@@ -2705,6 +2744,19 @@
     "retentionNote": null
   },
   {
+    "date": "2026-04-22",
+    "issuer": "CPS",
+    "issuerFullName": null,
+    "dealName": "CPS Auto Receivables Trust 2026-B",
+    "amountM": 514.07,
+    "amountLabel": "$514.07M",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "CPS",
+    "sourceUrl": "https://ir.consumerportfolio.com/news-releases/news-release-details/cps-announces-51407-million-senior-subordinate-asset-backed"
+  },
+  {
     "date": "2026-04-23",
     "issuer": "CarMax",
     "issuerFullName": null,
@@ -2826,6 +2878,19 @@
     "filedAmountM": 1175.0,
     "offeredM": 1175.0,
     "retentionNote": null
+  },
+  {
+    "date": "2026-04-24",
+    "issuer": "Pagaya",
+    "issuerFullName": null,
+    "dealName": "RPM 2026-2",
+    "amountM": 500.0,
+    "amountLabel": "$500M",
+    "tier": "Non-prime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "Pagaya / Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/pagaya-closes-500-million-aaa-123000513.html"
   },
   {
     "date": "2026-04-28",
@@ -3182,6 +3247,19 @@
     "offering": "144A / not registered",
     "sourceName": "Asset Securitization Report",
     "sourceUrl": "https://asreport.americanbanker.com/news/westlake-automobiles-latest-abs-raises-1-4-billion"
+  },
+  {
+    "date": "2026-05-11",
+    "issuer": "Chase",
+    "issuerFullName": null,
+    "dealName": "Chase Auto Owner Trust 2026-1",
+    "amountM": 1700.0,
+    "amountLabel": "$1.70B",
+    "tier": "Prime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "Morningstar DBRS",
+    "sourceUrl": "https://dbrs.morningstar.com/research/481811/chase-auto-owner-trust-2026-1-sensitivity-analysis"
   },
   {
     "date": "2026-05-14",
@@ -3609,6 +3687,19 @@
     "filedAmountM": 1268.5,
     "offeredM": 1268.45,
     "retentionNote": null
+  },
+  {
+    "date": "2026-05-26",
+    "issuer": "Pagaya",
+    "issuerFullName": null,
+    "dealName": "RPM 2026-3",
+    "amountM": 600.0,
+    "amountLabel": "$600M",
+    "tier": "Non-prime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "Pagaya / Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/markets/options/articles/pagaya-closes-aaa-rated-upsized-120000585.html"
   },
   {
     "date": "2026-06-08",
@@ -4203,14 +4294,14 @@
     "date": "2026-07-13",
     "issuer": "CPS",
     "issuerFullName": "Consumer Portfolio Services",
-    "amountM": 716.8,
-    "amountLabel": "$716.8M",
-    "dealName": null,
+    "amountM": 716.88,
+    "amountLabel": "$716.88M",
+    "dealName": "CPS Auto Receivables Trust 2026-C",
     "tier": "Subprime",
     "collateral": "Loan",
     "offering": "144A / not registered",
-    "sourceName": null,
-    "sourceUrl": null
+    "sourceName": "CPS",
+    "sourceUrl": "https://www.nasdaq.com/press-release/cps-announces-71688-million-senior-subordinate-asset-backed-securitization-2026-07-22"
   },
   {
     "date": "2026-07-13",
@@ -5596,19 +5687,6 @@
     "filedAmountM": 1550.3,
     "offeredM": 1550.31,
     "retentionNote": null
-  },
-  {
-    "date": "2026-08-26",
-    "issuer": "CPS",
-    "issuerFullName": "Consumer Portfolio Services",
-    "amountM": 80,
-    "amountLabel": "$80M",
-    "dealName": null,
-    "tier": "Subprime",
-    "collateral": "Loan",
-    "offering": "144A / not registered",
-    "sourceName": null,
-    "sourceUrl": null
   },
   {
     "date": "2026-08-28",
@@ -7262,16 +7340,16 @@
   },
   {
     "date": "2026-10-21",
-    "issuer": "Consumer Portfolio Services",
+    "issuer": "CPS",
     "issuerFullName": null,
     "dealName": "CPS Auto Receivables Trust 2026-D",
-    "amountM": 797,
-    "amountLabel": "$797M",
+    "amountM": 767.85,
+    "amountLabel": "$767.85M",
     "tier": "Subprime",
     "collateral": "Loan",
     "offering": "144A / not registered",
-    "sourceName": "\"subprime auto ABS million\" - Google News",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVlZ6WmZBcDRXQTZ6cl9JckpOa1JmRFpjYmNXOHNrY1lYYlNRNHJpUHFDTmRtV1dUVFlsdjVKUDh1VnlqeUhuOXluV2pycnpaeXFIdGplTVdFUExzRTZpZXVJYThMcTlkRmlOdG93aGZvYU5Uc2dhZkxxVHdOZWlxTkRaaU56NDZxMFdBUnBBbFFheDY4YmtTSjM1NEZzZ3ljblRobjBiRHh2dVNVdnZYYkpBRHNLbUU0Zzk3WUtTSWNpb2NvVFEySllVdnRaWlBXTHpxMmNn?oc=5"
+    "sourceName": "CPS / GlobeNewswire",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/21/3385836/13171/en/cps-announces-767-85-million-senior-subordinate-asset-backed-securitization.html"
   },
   {
     "date": "2026-10-22",
