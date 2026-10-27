@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T09:45:04.114760-04:00",
+ "generatedAt": "2026-10-27T08:39:47.555965-04:00",
  "coverage": "49 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
@@ -197,10 +197,10 @@
   {
    "month": "2026-09",
    "tier": "Prime",
-   "trusts": 8,
-   "poolBalM": 11893.2,
+   "trusts": 11,
+   "poolBalM": 14855.5,
    "dq60Pct": 0.21,
-   "anlPct": 0.42
+   "anlPct": 0.41
   },
   {
    "month": "2026-09",
@@ -309,6 +309,18 @@
      "accession": "0001213900-26-103234",
      "url": "https://www.sec.gov/Archives/edgar/data/2099048/000121390026103234/ea0306125-14_ex991.htm",
      "monthsOn": 7,
+     "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 951009706,
+     "dq60Pct": 0.27,
+     "anlPct": 0.49,
+     "cnlPct": 0.23,
+     "origBal": 1317621313,
+     "accession": "0001213900-26-112704",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099048/000121390026112704/ea0309317-13_ex991.htm",
+     "monthsOn": 8,
      "problems": null
     }
    ],
@@ -1009,8 +1021,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-173812",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
+     "accession": "0001193125-26-188403",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -1567,6 +1579,18 @@
      "accession": "0001213900-26-103235",
      "url": "https://www.sec.gov/Archives/edgar/data/2116462/000121390026103235/ea0306125-15_ex991.htm",
      "monthsOn": 4,
+     "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 1067104850,
+     "dq60Pct": 0.28,
+     "anlPct": 0.27,
+     "cnlPct": 0.15,
+     "origBal": 1334985029,
+     "accession": "0001213900-26-112705",
+     "url": "https://www.sec.gov/Archives/edgar/data/2116462/000121390026112705/ea0309317-14_ex991.htm",
+     "monthsOn": 5,
      "problems": null
     }
    ],
@@ -2296,6 +2320,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2138743/000121390026103236/ea0306125-16_ex991.htm",
      "monthsOn": 1,
      "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 944256358,
+     "dq60Pct": 0.08,
+     "anlPct": 0.33,
+     "cnlPct": 0.04,
+     "origBal": 1044518309,
+     "accession": "0001213900-26-112706",
+     "url": "https://www.sec.gov/Archives/edgar/data/2138743/000121390026112706/ea0309317-15_ex991.htm",
+     "monthsOn": 2,
+     "problems": null
     }
    ],
    "issuer": "GM Financial",
@@ -2305,7 +2341,7 @@
    "closeDate": "2026-07-13",
    "amountM": 1015.79,
    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2138743/000119312526302142/d86477d424b5.htm",
-   "origBal": 1078805028
+   "origBal": 1044518309
   },
   {
    "dealName": "Bridgecrest Lending Auto Securitization Trust 2026-3",
