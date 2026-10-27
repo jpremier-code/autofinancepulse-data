@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-01-05",
+    "issuer": "Westlake",
+    "issuerFullName": null,
+    "dealName": "Westlake Automobile Receivables Trust 2026-1",
+    "amountM": 1950.0,
+    "amountLabel": "$1.95B",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "KBRA",
+    "sourceUrl": "https://www.kbra.com/publications/KsCTCmJH/kbra-assigns-ratings-to-westlake-automobile-receivables-trust-2026-1"
+  },
+  {
+    "date": "2026-01-06",
+    "issuer": "ACA",
+    "issuerFullName": null,
+    "dealName": "American Credit Acceptance Receivables Trust 2026-1",
+    "amountM": null,
+    "amountLabel": null,
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "SEC EDGAR",
+    "sourceUrl": "https://efts.sec.gov/LATEST/search-index?q=%22American%20Credit%20Acceptance%20Receivables%20Trust%202026-1%22&forms=ABS-15G"
+  },
+  {
     "date": "2026-01-12",
     "issuer": "GM Financial",
     "issuerFullName": null,
@@ -108,6 +134,19 @@
     "filedAmountM": 1230.9,
     "offeredM": 1230.87,
     "retentionNote": null
+  },
+  {
+    "date": "2026-01-14",
+    "issuer": "Veros Auto",
+    "issuerFullName": null,
+    "dealName": "Veros Auto Receivables Trust 2026-1",
+    "amountM": 274.68,
+    "amountLabel": "$274.68M",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "KBRA / Business Wire",
+    "sourceUrl": "https://www.businesswire.com/news/home/20260114302603/en/KBRA-Assigns-Preliminary-Ratings-to-Veros-Auto-Receivables-Trust-2026-1"
   },
   {
     "date": "2026-01-15",
@@ -289,6 +328,19 @@
     "filedAmountM": 1852.5,
     "offeredM": 1852.5,
     "retentionNote": null
+  },
+  {
+    "date": "2026-01-15",
+    "issuer": "Lendbuzz",
+    "issuerFullName": null,
+    "dealName": "Lendbuzz Securitization Trust 2026-1",
+    "amountM": 246.1,
+    "amountLabel": "$246.1M",
+    "tier": "Non-prime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "KBRA",
+    "sourceUrl": "https://www.kbra.com/publications/VzvCvwBf"
   },
   {
     "date": "2026-01-23",
@@ -770,6 +822,32 @@
     "retentionNote": null
   },
   {
+    "date": "2026-02-02",
+    "issuer": "GLS",
+    "issuerFullName": null,
+    "dealName": "GLS Auto Receivables Issuer Trust 2026-1",
+    "amountM": 907.72,
+    "amountLabel": "$907.72M",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "KBRA / Business Wire",
+    "sourceUrl": "https://www.businesswire.com/news/home/20260202400781/en/KBRA-Assigns-Preliminary-Ratings-to-GLS-Auto-Receivables-Issuer-Trust-2026-1"
+  },
+  {
+    "date": "2026-02-03",
+    "issuer": "Westlake",
+    "issuerFullName": null,
+    "dealName": "Westlake Automobile Receivables Trust 2026-P1",
+    "amountM": null,
+    "amountLabel": null,
+    "tier": "Prime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "SEC EDGAR",
+    "sourceUrl": "https://efts.sec.gov/LATEST/search-index?q=%22Westlake%20Automobile%20Receivables%20Trust%202026-P1%22&forms=ABS-15G"
+  },
+  {
     "date": "2026-02-05",
     "issuer": "GM Financial",
     "issuerFullName": null,
@@ -865,6 +943,32 @@
     "filedAmountM": 955.1,
     "offeredM": 955.06,
     "retentionNote": null
+  },
+  {
+    "date": "2026-02-05",
+    "issuer": "United Auto Credit",
+    "issuerFullName": null,
+    "dealName": "United Auto Credit Securitization Trust 2026-1",
+    "amountM": 225.0,
+    "amountLabel": "$225M",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "SEC EDGAR (Vroom 8-K)",
+    "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1580864/000119312526040495/vrm-20260205.htm"
+  },
+  {
+    "date": "2026-02-06",
+    "issuer": "Lithia (Driveway Finance)",
+    "issuerFullName": null,
+    "dealName": "LAD Auto Receivables Trust 2026-1",
+    "amountM": null,
+    "amountLabel": null,
+    "tier": "Near-prime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "SEC EDGAR",
+    "sourceUrl": "https://efts.sec.gov/LATEST/search-index?q=%22LAD%20Auto%20Receivables%20Trust%202026-1%22&forms=ABS-15G"
   },
   {
     "date": "2026-02-11",
@@ -2271,6 +2375,32 @@
     "retentionNote": null
   },
   {
+    "date": "2026-04-14",
+    "issuer": "ACA",
+    "issuerFullName": null,
+    "dealName": "American Credit Acceptance Receivables Trust 2026-2",
+    "amountM": 707.2,
+    "amountLabel": "$707.2M",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "KBRA",
+    "sourceUrl": "https://www.kbra.com/publications/wytvmjdC"
+  },
+  {
+    "date": "2026-04-15",
+    "issuer": "First Help Financial",
+    "issuerFullName": null,
+    "dealName": "FHF Issuer Trust 2026-1",
+    "amountM": 326.9,
+    "amountLabel": "$326.9M",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "Morningstar DBRS",
+    "sourceUrl": "https://dbrs.morningstar.com/research/478812/morningstar-dbrs-assigns-provisional-credit-ratings-to-fhf-issuer-trust-2026-1"
+  },
+  {
     "date": "2026-04-16",
     "issuer": "BMW",
     "issuerFullName": "BMW Financial Services",
@@ -2450,6 +2580,19 @@
     "filedAmountM": 1852.5,
     "offeredM": 1852.5,
     "retentionNote": null
+  },
+  {
+    "date": "2026-04-16",
+    "issuer": "Lobel Financial",
+    "issuerFullName": null,
+    "dealName": "Lobel Automobile Receivables Trust 2026-1",
+    "amountM": 223.8,
+    "amountLabel": "$223.8M",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "Asset Securitization Report",
+    "sourceUrl": "https://asreport.americanbanker.com/news/lobels-latest-subprime-auto-abs-pool-raises-223-8-million"
   },
   {
     "date": "2026-04-20",
@@ -2683,6 +2826,45 @@
     "filedAmountM": 1175.0,
     "offeredM": 1175.0,
     "retentionNote": null
+  },
+  {
+    "date": "2026-04-28",
+    "issuer": "GLS",
+    "issuerFullName": null,
+    "dealName": "GLS Auto Receivables Issuer Trust 2026-2",
+    "amountM": 1100.0,
+    "amountLabel": "$1.10B",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "Asset Securitization Report",
+    "sourceUrl": "https://asreport.americanbanker.com/news/gls-raises-1-1-billion-from-subprime-auto-notes"
+  },
+  {
+    "date": "2026-05-01",
+    "issuer": "Lithia (Driveway Finance)",
+    "issuerFullName": null,
+    "dealName": "LAD Auto Receivables Trust 2026-2",
+    "amountM": null,
+    "amountLabel": null,
+    "tier": "Near-prime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "SEC EDGAR",
+    "sourceUrl": "https://efts.sec.gov/LATEST/search-index?q=%22LAD%20Auto%20Receivables%20Trust%202026-2%22&forms=ABS-15G"
+  },
+  {
+    "date": "2026-05-05",
+    "issuer": "Credit Acceptance",
+    "issuerFullName": null,
+    "dealName": "Credit Acceptance Auto Loan Trust (May 2026)",
+    "amountM": 450.0,
+    "amountLabel": "$450M",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "GlobeNewswire",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/05/05/3288204/3872/en/Credit-Acceptance-Announces-Completion-Of-450-0-Million-Asset-Backed-Financing.html"
   },
   {
     "date": "2026-05-07",
@@ -2987,6 +3169,19 @@
     "filedAmountM": 1193.5,
     "offeredM": 1193.48,
     "retentionNote": null
+  },
+  {
+    "date": "2026-05-07",
+    "issuer": "Westlake",
+    "issuerFullName": null,
+    "dealName": "Westlake Automobile Receivables Trust 2026-2",
+    "amountM": 1400.0,
+    "amountLabel": "$1.40B",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "Asset Securitization Report",
+    "sourceUrl": "https://asreport.americanbanker.com/news/westlake-automobiles-latest-abs-raises-1-4-billion"
   },
   {
     "date": "2026-05-14",
@@ -3969,14 +4164,14 @@
     "date": "2026-07-03",
     "issuer": "Westlake",
     "issuerFullName": null,
-    "amountM": null,
-    "amountLabel": null,
-    "dealName": null,
-    "tier": "Subprime",
+    "amountM": 500.0,
+    "amountLabel": "$500M",
+    "dealName": "Westlake Automobile Receivables Trust 2026-P2",
+    "tier": "Prime",
     "collateral": "Loan",
     "offering": "144A / not registered",
-    "sourceName": null,
-    "sourceUrl": null
+    "sourceName": "KBRA",
+    "sourceUrl": "https://www.kbra.com/publications/wmHccsPw"
   },
   {
     "date": "2026-07-03",
@@ -4252,16 +4447,16 @@
   },
   {
     "date": "2026-07-16",
-    "issuer": "LAD Select Auto",
+    "issuer": "Lithia (Driveway Finance)",
     "issuerFullName": null,
     "amountM": 462.5,
     "amountLabel": "$462.5M",
-    "dealName": null,
+    "dealName": "LAD Select Auto Receivables Trust 2026-A",
     "tier": "Near-prime",
     "collateral": "Loan",
     "offering": "144A / not registered",
-    "sourceName": null,
-    "sourceUrl": null
+    "sourceName": "Asset Securitization Report",
+    "sourceUrl": "https://asreport.americanbanker.com/news/used-autos-raise-462-5-million-for-driveway-finance"
   },
   {
     "date": "2026-07-16",
@@ -6542,6 +6737,19 @@
     "retentionNote": null
   },
   {
+    "date": "2026-10-05",
+    "issuer": "ACA",
+    "issuerFullName": null,
+    "dealName": "American Credit Acceptance Receivables Trust 2026-4",
+    "amountM": null,
+    "amountLabel": null,
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "SEC EDGAR",
+    "sourceUrl": "https://efts.sec.gov/LATEST/search-index?q=%22American%20Credit%20Acceptance%20Receivables%20Trust%202026-4%22&forms=ABS-15G"
+  },
+  {
     "date": "2026-10-09",
     "issuer": "BMW",
     "issuerFullName": "BMW Financial Services",
@@ -6624,6 +6832,19 @@
     "filedAmountM": 1250.0,
     "offeredM": 1250.0,
     "retentionNote": null
+  },
+  {
+    "date": "2026-10-09",
+    "issuer": "Santander Consumer",
+    "issuerFullName": null,
+    "dealName": "Santander Drive Auto Receivables Trust 2026-A",
+    "amountM": 1300.0,
+    "amountLabel": "$1.30B",
+    "tier": "Subprime",
+    "collateral": "Loan",
+    "offering": "144A / not registered",
+    "sourceName": "Asset Securitization Report",
+    "sourceUrl": "https://asreport.americanbanker.com/news/santander-raises-1-3-billion-in-abs-auto-amid-corporate-abs-shifts"
   },
   {
     "date": "2026-10-13",
