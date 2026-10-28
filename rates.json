@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T08:30:30.718312-04:00",
+  "generatedAt": "2026-10-28T08:12:34.825323-04:00",
   "fedFunds": {
     "label": "Fed Funds Rate",
     "value": 3.75,
@@ -112,15 +112,15 @@
   },
   "treasury2yr": {
     "label": "2-Yr Treasury Yield",
-    "value": 4.69,
-    "asOfDate": "2026-10-23",
+    "value": 4.68,
+    "asOfDate": "2026-10-26",
     "datePrecision": "day",
-    "change": -0.08,
+    "change": -0.09,
     "changeLabel": "vs prior week",
     "sourceLabel": "FRED · DGS2",
     "sourceUrl": "https://fred.stlouisfed.org/series/DGS2",
     "cadence": "daily (sampled weekly)",
-    "nextUpdateLabel": "Expected Oct 26, 2026",
+    "nextUpdateLabel": "Expected Oct 27, 2026",
     "history": [
       {
         "date": "2025-09-02",
@@ -287,8 +287,8 @@
         "value": 4.77
       },
       {
-        "date": "2026-10-23",
-        "value": 4.69
+        "date": "2026-10-26",
+        "value": 4.68
       }
     ]
   },
