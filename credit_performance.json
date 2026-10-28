@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T08:39:47.555965-04:00",
+ "generatedAt": "2026-10-28T08:19:52.211516-04:00",
  "coverage": "49 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
@@ -197,10 +197,10 @@
   {
    "month": "2026-09",
    "tier": "Prime",
-   "trusts": 11,
-   "poolBalM": 14855.5,
-   "dq60Pct": 0.21,
-   "anlPct": 0.41
+   "trusts": 13,
+   "poolBalM": 17434.6,
+   "dq60Pct": 0.18,
+   "anlPct": 0.38
   },
   {
    "month": "2026-09",
@@ -1021,8 +1021,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-188403",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
+     "accession": "0001193125-26-173812",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -2101,6 +2101,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2130293/000119312526402311/d167926dex991.htm",
      "monthsOn": 3,
      "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 1181166566.03,
+     "dq60Pct": 0.05,
+     "anlPct": 0.22,
+     "cnlPct": 0.1,
+     "origBal": 1394765218.37,
+     "accession": "0001193125-26-433449",
+     "url": "https://www.sec.gov/Archives/edgar/data/2130293/000119312526433449/d200879dex991.htm",
+     "monthsOn": 4,
+     "problems": null
     }
    ],
    "issuer": "Nissan",
@@ -2717,14 +2729,28 @@
   },
   {
    "dealName": "Nissan Auto Receivables 2026-B Owner Trust",
-   "series": [],
+   "series": [
+    {
+     "period": "2026-09-30",
+     "endBal": 1397957504.58,
+     "dq60Pct": 0.0,
+     "anlPct": 0.22,
+     "cnlPct": 0.02,
+     "origBal": 1439976830.21,
+     "accession": "0001193125-26-433343",
+     "url": "https://www.sec.gov/Archives/edgar/data/2153094/000119312526433343/d105430dex991.htm",
+     "monthsOn": 0,
+     "problems": null
+    }
+   ],
    "issuer": "Nissan",
    "tier": "Prime",
    "tierGroup": "Prime",
    "cik": "2153094",
    "closeDate": "2026-09-24",
    "amountM": 1285.67,
-   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2153094/000119312526401058/d153597d424b5.htm"
+   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2153094/000119312526401058/d153597d424b5.htm",
+   "origBal": 1439976830.21
   },
   {
    "dealName": "Exeter Select Automobile Receivables Trust 2026-2",
