@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T08:19:52.211516-04:00",
+ "generatedAt": "2026-10-29T08:32:46.621913-04:00",
  "coverage": "49 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
@@ -197,10 +197,10 @@
   {
    "month": "2026-09",
    "tier": "Prime",
-   "trusts": 13,
-   "poolBalM": 17434.6,
-   "dq60Pct": 0.18,
-   "anlPct": 0.38
+   "trusts": 19,
+   "poolBalM": 27525.3,
+   "dq60Pct": 0.2,
+   "anlPct": 0.34
   },
   {
    "month": "2026-09",
@@ -430,6 +430,18 @@
      "accession": "0001193125-26-404079",
      "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526404079/d28858dex991.htm",
      "monthsOn": 7,
+     "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 1383625230.25,
+     "dq60Pct": 0.34,
+     "anlPct": 0.24,
+     "cnlPct": 0.22,
+     "origBal": 1995353675.63,
+     "accession": "0001193125-26-435584",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526435584/d45803dex991.htm",
+     "monthsOn": 8,
      "problems": null
     }
    ],
@@ -1021,8 +1033,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-173812",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
+     "accession": "0001193125-26-188403",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -1084,6 +1096,18 @@
      "accession": "0001185185-26-004348",
      "url": "https://www.sec.gov/Archives/edgar/data/2100818/000118518526004348/harot20261ex99-1.htm",
      "monthsOn": 6,
+     "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 1746510072.87,
+     "dq60Pct": 0.18,
+     "anlPct": 0.33,
+     "cnlPct": 0.11,
+     "origBal": 2483131904.21,
+     "accession": "0001193125-26-436401",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526436401/na-ex99_1.htm",
+     "monthsOn": 7,
      "problems": null
     }
    ],
@@ -1665,6 +1689,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2099540/000119312526404080/d246130dex991.htm",
      "monthsOn": 4,
      "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 1549134577.12,
+     "dq60Pct": 0.29,
+     "anlPct": 0.37,
+     "cnlPct": 0.14,
+     "origBal": 2000550710.04,
+     "accession": "0001193125-26-435585",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099540/000119312526435585/d124392dex991.htm",
+     "monthsOn": 5,
+     "problems": null
     }
    ],
    "issuer": "Toyota",
@@ -1956,6 +1992,18 @@
      "accession": "0001185185-26-004349",
      "url": "https://www.sec.gov/Archives/edgar/data/2123682/000118518526004349/harot20262ex99-1.htm",
      "monthsOn": 3,
+     "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 1709875597.68,
+     "dq60Pct": 0.21,
+     "anlPct": 0.16,
+     "cnlPct": 0.06,
+     "origBal": 2159251775.35,
+     "accession": "0001193125-26-436403",
+     "url": "https://www.sec.gov/Archives/edgar/data/2123682/000119312526436403/na-ex99_1.htm",
+     "monthsOn": 4,
      "problems": null
     }
    ],
@@ -2479,6 +2527,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2099541/000119312526404081/d25105dex991.htm",
      "monthsOn": 1,
      "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 1764463655.66,
+     "dq60Pct": 0.19,
+     "anlPct": 0.45,
+     "cnlPct": 0.05,
+     "origBal": 2023086017.89,
+     "accession": "0001193125-26-435586",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099541/000119312526435586/d43224dex991.htm",
+     "monthsOn": 2,
+     "problems": null
     }
    ],
    "issuer": "Toyota",
@@ -2540,6 +2600,18 @@
      "accession": "0001185185-26-004350",
      "url": "https://www.sec.gov/Archives/edgar/data/2143476/000118518526004350/harot20263ex99-1.htm",
      "monthsOn": 0,
+     "problems": null
+    },
+    {
+     "period": "2026-09-30",
+     "endBal": 1937078576.88,
+     "dq60Pct": 0.14,
+     "anlPct": 0.05,
+     "cnlPct": 0.01,
+     "origBal": 2159251282.38,
+     "accession": "0001193125-26-436404",
+     "url": "https://www.sec.gov/Archives/edgar/data/2143476/000119312526436404/na-ex99_1.htm",
+     "monthsOn": 1,
      "problems": null
     }
    ],
