@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T10:45:20.699622-05:00",
+  "generatedAt": "2026-11-02T08:43:29.981013-05:00",
   "coverage": "64 SEC-registered auto ABS deals with class detail",
   "benchmarks": {
     "DGS1": {
@@ -15,8 +15,8 @@
       "value": 4.73
     },
     "SOFR": {
-      "date": "2026-10-29",
-      "value": 3.94
+      "date": "2026-10-30",
+      "value": 3.95
     }
   },
   "monthly": [
