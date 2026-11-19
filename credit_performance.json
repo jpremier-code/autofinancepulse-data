@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T07:12:00.649438-05:00",
+ "generatedAt": "2026-11-19T09:40:10.843899-05:00",
  "coverage": "49 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
@@ -221,10 +221,10 @@
   {
    "month": "2026-10",
    "tier": "Prime",
-   "trusts": 5,
-   "poolBalM": 6150.9,
-   "dq60Pct": 0.17,
-   "anlPct": 0.42
+   "trusts": 9,
+   "poolBalM": 12799.5,
+   "dq60Pct": 0.2,
+   "anlPct": 0.47
   },
   {
    "month": "2026-10",
@@ -1072,6 +1072,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2104134/000110465926118381/tm2627830d27_ex99-1.htm",
      "monthsOn": 7,
      "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 1754594954.51,
+     "dq60Pct": 0.24,
+     "anlPct": 0.76,
+     "cnlPct": 0.36,
+     "origBal": 2392354765.71,
+     "accession": "0001104659-26-129491",
+     "url": "https://www.sec.gov/Archives/edgar/data/2104134/000110465926129491/tm2629789d27_ex99-1.htm",
+     "monthsOn": 8,
+     "problems": null
     }
    ],
    "issuer": "Hyundai",
@@ -1105,8 +1117,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-188403",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
+     "accession": "0001193125-26-173812",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -1519,6 +1531,18 @@
      "accession": "0002111835-26-000039",
      "url": "https://www.sec.gov/Archives/edgar/data/2111835/000211183526000039/aart2026-1_exx99xsep2026.htm",
      "monthsOn": 6,
+     "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 749823717.62,
+     "dq60Pct": 0.49,
+     "anlPct": 0.56,
+     "cnlPct": 0.18,
+     "origBal": 1121938434.96,
+     "accession": "0002111835-26-000046",
+     "url": "https://www.sec.gov/Archives/edgar/data/2111835/000211183526000046/aart2026-1_exx99xoct2026.htm",
+     "monthsOn": 7,
      "problems": null
     }
    ],
@@ -2378,6 +2402,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2135188/000110465926118382/tm2627830d28_ex99-1.htm",
      "monthsOn": 3,
      "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 2010057023.81,
+     "dq60Pct": 0.19,
+     "anlPct": 0.82,
+     "cnlPct": 0.22,
+     "origBal": 2408486358.62,
+     "accession": "0001104659-26-129492",
+     "url": "https://www.sec.gov/Archives/edgar/data/2135188/000110465926129492/tm2629789d28_ex99-1.htm",
+     "monthsOn": 4,
+     "problems": null
     }
    ],
    "issuer": "Hyundai",
@@ -3055,6 +3091,18 @@
      "accession": "0001104659-26-118383",
      "url": "https://www.sec.gov/Archives/edgar/data/2151096/000110465926118383/tm2627830d29_ex99-1.htm",
      "monthsOn": 0,
+     "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 2134114230.94,
+     "dq60Pct": 0.15,
+     "anlPct": 0.04,
+     "cnlPct": 0.01,
+     "origBal": 2306489743.04,
+     "accession": "0001104659-26-129493",
+     "url": "https://www.sec.gov/Archives/edgar/data/2151096/000110465926129493/tm2629789d29_ex99-1.htm",
+     "monthsOn": 1,
      "problems": null
     }
    ],
