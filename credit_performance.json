@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T09:14:08.345231-05:00",
+ "generatedAt": "2026-11-24T09:35:13.792044-05:00",
  "coverage": "49 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
@@ -221,10 +221,10 @@
   {
    "month": "2026-10",
    "tier": "Prime",
-   "trusts": 13,
-   "poolBalM": 16665.7,
-   "dq60Pct": 0.19,
-   "anlPct": 0.46
+   "trusts": 15,
+   "poolBalM": 19164.4,
+   "dq60Pct": 0.18,
+   "anlPct": 0.41
   },
   {
    "month": "2026-10",
@@ -2365,6 +2365,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2130293/000119312526433449/d200879dex991.htm",
      "monthsOn": 4,
      "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 1142593816.51,
+     "dq60Pct": 0.08,
+     "anlPct": 0.15,
+     "cnlPct": 0.11,
+     "origBal": 1394765218.37,
+     "accession": "0001193125-26-471849",
+     "url": "https://www.sec.gov/Archives/edgar/data/2130293/000119312526471849/d188986dex991.htm",
+     "monthsOn": 5,
+     "problems": null
     }
    ],
    "issuer": "Nissan",
@@ -3175,6 +3187,18 @@
      "accession": "0001193125-26-433343",
      "url": "https://www.sec.gov/Archives/edgar/data/2153094/000119312526433343/d105430dex991.htm",
      "monthsOn": 0,
+     "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 1356035795.87,
+     "dq60Pct": 0.02,
+     "anlPct": 0.05,
+     "cnlPct": 0.02,
+     "origBal": 1439976830.21,
+     "accession": "0001193125-26-471795",
+     "url": "https://www.sec.gov/Archives/edgar/data/2153094/000119312526471795/d184171dex991.htm",
+     "monthsOn": 1,
      "problems": null
     }
    ],
