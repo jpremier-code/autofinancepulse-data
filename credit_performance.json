@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T09:35:13.792044-05:00",
+ "generatedAt": "2026-11-25T09:47:30.228906-05:00",
  "coverage": "49 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
@@ -221,8 +221,8 @@
   {
    "month": "2026-10",
    "tier": "Prime",
-   "trusts": 15,
-   "poolBalM": 19164.4,
+   "trusts": 19,
+   "poolBalM": 25610.2,
    "dq60Pct": 0.18,
    "anlPct": 0.41
   },
@@ -478,6 +478,18 @@
      "accession": "0001193125-26-435584",
      "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526435584/d45803dex991.htm",
      "monthsOn": 8,
+     "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 1331126122.21,
+     "dq60Pct": 0.33,
+     "anlPct": 0.56,
+     "cnlPct": 0.26,
+     "origBal": 1995353675.63,
+     "accession": "0001193125-26-474159",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099539/000119312526474159/d134566dex991.htm",
+     "monthsOn": 9,
      "problems": null
     }
    ],
@@ -1129,8 +1141,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-173812",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
+     "accession": "0001193125-26-188403",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -1856,6 +1868,18 @@
      "accession": "0001193125-26-435585",
      "url": "https://www.sec.gov/Archives/edgar/data/2099540/000119312526435585/d124392dex991.htm",
      "monthsOn": 5,
+     "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 1493252346.19,
+     "dq60Pct": 0.28,
+     "anlPct": 0.71,
+     "cnlPct": 0.18,
+     "origBal": 2000550710.04,
+     "accession": "0001193125-26-474160",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099540/000119312526474160/d128996dex991.htm",
+     "monthsOn": 6,
      "problems": null
     }
    ],
@@ -2827,6 +2851,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2099541/000119312526435586/d43224dex991.htm",
      "monthsOn": 2,
      "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 1702224196.19,
+     "dq60Pct": 0.2,
+     "anlPct": 0.45,
+     "cnlPct": 0.08,
+     "origBal": 2023086017.89,
+     "accession": "0001193125-26-474161",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099541/000119312526474161/d528618dex991.htm",
+     "monthsOn": 3,
+     "problems": null
     }
    ],
    "issuer": "Toyota",
@@ -3299,14 +3335,28 @@
   },
   {
    "dealName": "Toyota Auto Receivables 2026-D Owner Trust",
-   "series": [],
+   "series": [
+    {
+     "period": "2026-10-31",
+     "endBal": 1919287295.91,
+     "dq60Pct": 0.08,
+     "anlPct": 0.01,
+     "cnlPct": 0.0,
+     "origBal": 2049158253.18,
+     "accession": "0001193125-26-474162",
+     "url": "https://www.sec.gov/Archives/edgar/data/2099542/000119312526474162/d176301dex991.htm",
+     "monthsOn": 0,
+     "problems": null
+    }
+   ],
    "issuer": "Toyota",
    "tier": "Prime",
    "tierGroup": "Prime",
    "cik": "2099542",
    "closeDate": "2026-10-14",
    "amountM": 1852.5,
-   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2099542/000092963826003906/taot2026-d_424b5.htm"
+   "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2099542/000092963826003906/taot2026-d_424b5.htm",
+   "origBal": 2049158253.18
   },
   {
    "dealName": "CarMax Auto Owner Trust 2026-4",
