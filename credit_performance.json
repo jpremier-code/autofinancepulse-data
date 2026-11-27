@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T09:47:30.228906-05:00",
+ "generatedAt": "2026-11-27T10:43:29.421193-05:00",
  "coverage": "49 SEC-registered auto loan trusts",
  "tierMonthly": [
   {
@@ -213,18 +213,18 @@
   {
    "month": "2026-10",
    "tier": "Near-prime",
-   "trusts": 3,
-   "poolBalM": 1696.4,
-   "dq60Pct": 2.6,
-   "anlPct": 3.43
+   "trusts": 4,
+   "poolBalM": 2310.0,
+   "dq60Pct": 2.41,
+   "anlPct": 3.48
   },
   {
    "month": "2026-10",
    "tier": "Prime",
-   "trusts": 19,
-   "poolBalM": 25610.2,
-   "dq60Pct": 0.18,
-   "anlPct": 0.41
+   "trusts": 25,
+   "poolBalM": 33569.7,
+   "dq60Pct": 0.22,
+   "anlPct": 0.46
   },
   {
    "month": "2026-10",
@@ -987,6 +987,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2104367/000110465926119995/tm2628005d37_ex99-1.htm",
      "monthsOn": 7,
      "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 854703131.38,
+     "dq60Pct": 0.63,
+     "anlPct": 1.41,
+     "cnlPct": null,
+     "origBal": 1308658050.62,
+     "accession": "0001104659-26-132320",
+     "url": "https://www.sec.gov/Archives/edgar/data/2104367/000110465926132320/tm2630187d35_ex99-1.htm",
+     "monthsOn": 8,
+     "problems": null
     }
    ],
    "issuer": "World Omni",
@@ -1141,8 +1153,8 @@
      "anlPct": 0.04,
      "cnlPct": 0.0,
      "origBal": 2483131904.21,
-     "accession": "0001193125-26-188403",
-     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526188403/na-ex99_1.htm",
+     "accession": "0001193125-26-173812",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526173812/na-ex99_1.htm",
      "monthsOn": 1,
      "problems": null
     },
@@ -1216,6 +1228,18 @@
      "accession": "0001193125-26-436401",
      "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526436401/na-ex99_1.htm",
      "monthsOn": 7,
+     "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 1674570978.23,
+     "dq60Pct": 0.19,
+     "anlPct": 0.29,
+     "cnlPct": 0.13,
+     "origBal": 2483131904.21,
+     "accession": "0001193125-26-478617",
+     "url": "https://www.sec.gov/Archives/edgar/data/2100818/000119312526478617/na-ex99_1.htm",
+     "monthsOn": 8,
      "problems": null
     }
    ],
@@ -2148,6 +2172,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2128465/000110465926119996/tm2628005d38_ex99-1.htm",
      "monthsOn": 4,
      "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 1026992122.13,
+     "dq60Pct": 0.6,
+     "anlPct": 1.31,
+     "cnlPct": null,
+     "origBal": 1406046144.06,
+     "accession": "0001104659-26-132323",
+     "url": "https://www.sec.gov/Archives/edgar/data/2128465/000110465926132323/tm2630187d36_ex99-1.htm",
+     "monthsOn": 5,
+     "problems": null
     }
    ],
    "issuer": "World Omni",
@@ -2220,6 +2256,18 @@
      "accession": "0001193125-26-436403",
      "url": "https://www.sec.gov/Archives/edgar/data/2123682/000119312526436403/na-ex99_1.htm",
      "monthsOn": 4,
+     "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 1641934772.74,
+     "dq60Pct": 0.2,
+     "anlPct": 0.24,
+     "cnlPct": 0.07,
+     "origBal": 2159251775.35,
+     "accession": "0001193125-26-478618",
+     "url": "https://www.sec.gov/Archives/edgar/data/2123682/000119312526478618/na-ex99_1.htm",
+     "monthsOn": 5,
      "problems": null
     }
    ],
@@ -2912,6 +2960,18 @@
      "url": "https://www.sec.gov/Archives/edgar/data/2140699/000110465926120002/tm2628005d43_ex99-1.htm",
      "monthsOn": 2,
      "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 613579380.7,
+     "dq60Pct": 1.91,
+     "anlPct": 3.6,
+     "cnlPct": null,
+     "origBal": 688498417.3,
+     "accession": "0001104659-26-132338",
+     "url": "https://www.sec.gov/Archives/edgar/data/2140699/000110465926132338/tm2630187d41_ex99-1.htm",
+     "monthsOn": 3,
+     "problems": null
     }
    ],
    "issuer": "World Omni",
@@ -2948,6 +3008,18 @@
      "accession": "0001193125-26-436404",
      "url": "https://www.sec.gov/Archives/edgar/data/2143476/000119312526436404/na-ex99_1.htm",
      "monthsOn": 1,
+     "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 1866974703.15,
+     "dq60Pct": 0.14,
+     "anlPct": 0.34,
+     "cnlPct": 0.03,
+     "origBal": 2159251282.38,
+     "accession": "0001193125-26-478621",
+     "url": "https://www.sec.gov/Archives/edgar/data/2143476/000119312526478621/na-ex99_1.htm",
+     "monthsOn": 2,
      "problems": null
     }
    ],
@@ -3028,6 +3100,18 @@
      "accession": "0001104659-26-119997",
      "url": "https://www.sec.gov/Archives/edgar/data/2146760/000110465926119997/tm2628005d39_ex99-1.htm",
      "monthsOn": 1,
+     "problems": null
+    },
+    {
+     "period": "2026-10-31",
+     "endBal": 894257158.24,
+     "dq60Pct": 0.51,
+     "anlPct": 0.83,
+     "cnlPct": null,
+     "origBal": 1084440413.63,
+     "accession": "0001104659-26-132326",
+     "url": "https://www.sec.gov/Archives/edgar/data/2146760/000110465926132326/tm2630187d37_ex99-1.htm",
+     "monthsOn": 2,
      "problems": null
     }
    ],
