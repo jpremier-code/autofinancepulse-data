@@ -1,43 +1,247 @@
 {
-  "date": "Wednesday, November 25, 2026",
-  "generatedAt": "2026-11-25T09:42:25.572295-05:00",
-  "total_stories": 114,
+  "date": "Friday, November 27, 2026",
+  "generatedAt": "2026-11-27T10:38:38.764769-05:00",
+  "total_stories": 126,
   "stories": [
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Cox Automotive forecasts November sales at 15.8 million SAAR",
-      "summary": "On the Dash: Cox Automotive expects November new-vehicle sales to reach 1.20 million, down 10.3% from October and 7.3% year\nThe post Cox Automotive forecasts November sales at 15.8 million SAAR appeared first on CBT News.",
-      "source": "CBT News",
-      "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T12:14:00",
-      "link": "https://www.cbtnews.com/cox-automotive-15-8-million-saar/",
+      "title": "Automakers push dealers for more off-lease vehicles to drive CPO sales - Auto Finance News",
+      "summary": "Automakers push dealers for more off-lease vehicles to drive CPO sales&nbsp;&nbsp;Auto Finance News",
+      "source": "Auto Finance News",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T15:05:51",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWTloTGdtRFU0TzNPSDM0dzhiTTZQS1lIbjBZdmpVTFpDVXdwVkY4RGF6VnJGSTVEQVhmeGdUSTA5YTRNQWRTVXNFVTNBOGFILUltTDV1RmRYVVdQaGFzTEpHaEpOVXUxYUdmOWlJRXVKUVh0cGFMNUQ0UFd0bFM0aDB1bkQtc3VrQnAwZzJ0dEtJcEdJejg1UTZNbWtJSE5oSUljMlQtQVFXS0NnY2NyNzROb2FBODJSdzNUNjRQQWZWUE1RYjNUdExfNm8?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Car Dealers Stocking Up on Used EVs Amid High Gas Prices - Kelley Blue Book",
+      "summary": "Car Dealers Stocking Up on Used EVs Amid High Gas Prices&nbsp;&nbsp;Kelley Blue Book",
+      "source": "Kelley Blue Book",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T14:09:06",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUXR2MXQxbmVDNUs4X3BVTjhHdGk3eFRpN3F6WkZhNFdHdWg0Wmw0eG5lbURfcFVXR1lFMnNITlpCdVJvZVE0WkNpaHRpNkRmZ2t3VFFFTXQzVXkxS2pwdHV4Qm9CamtsTXhSbUpMTnVsVHRIQ2hRLS1hdmExWS1UOGdNa1Q1bWhPVTBPb2x5Zw?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "New car prices are at a record high. Here's where to look for deals - CNBC",
+      "summary": "New car prices are at a record high. Here's where to look for deals&nbsp;&nbsp;CNBC",
+      "source": "CNBC",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T13:15:01",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11cWx1TDNOU09JS25TcGtOZm9GYTFSSm1TTldHajN6RnUtN0xUNWMzaFlUWmNvbE4xYnhQb1VDRkF3aXlQWkpmbXZtRlRyUE1pWGhWeTVTQmZBU1ZTNDdkMTd4eUNVcVliMFFuV3JIMnhuZzRuOUgzNdIBfkFVX3lxTFBQZ01pQkh4TTlWMFBlVERFSDRJM0dCRUNmQ0xmcWlfbzFYSGdaeDVzQk9seHNKdElDZGwxTUk0SVo4cGhVc1UtYVhtVkUtRlpJa2hyd2ZKdmxTU2FsalJTcElUT0d1NXJ5U29vODBkUHdvN3hzSTNJeU8za2d5Zw?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Colorado Dealership Holds Car Over Unposted Down Payment - Wisevoter",
+      "summary": "Colorado Dealership Holds Car Over Unposted Down Payment&nbsp;&nbsp;Wisevoter",
+      "source": "Wisevoter",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T13:08:11",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGNpZ0FNZmp0SGRaemNkOG1pSmxIWTlycWpQU0FmTmNuRmpWdEd5UWRWNWRzS0MwSmJLcWdLWUxsZFNCc1FSb1ZrZDZvMXFVTVBrWmlqTC1uSzQ2SWZfZTZrei1sX1NRVmdhSjBVOGF6MmZzVWlHRnl2OVN5bjFZeU1aWWpsVThQTmJkQno0bXBmc01FSV9qRmU2bms?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Dealership Promised a Used Toyota RAV4 Prime Buyer an $858 Charging Cable in Writing—Then Ghosted Them for 16 Months - MotorBiscuit",
+      "summary": "Dealership Promised a Used Toyota RAV4 Prime Buyer an $858 Charging Cable in Writing—Then Ghosted Them for 16 Months&nbsp;&nbsp;MotorBiscuit",
+      "source": "MotorBiscuit",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T12:01:10",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRXU1aFZYMGZYRHJuTndMYS1tTXlOeFh6ZzBsN2VobUNhLUFFU1FuZ2s0OFNIcUdlQkZmMm1KWDI2M21raFlGVFROWnB1UmVOM2R3WUNjN3R3T3VLeDRJZnRZU09abHAtdlNYdHlUalZJOTQyRWFpVkdONXZONFh4TnB5dXh1NzBmZDVBblNCLW1vNGw1WFNCVGNjVVZuV2JWN0gyVzJfZzFZQThfTDJUZWxubEYyOTZuakNRQnZQZ2ZOVFBFWXNyQ18wZ09GdThheWgzbFZyNHZ5STNucEE?oc=5",
       "coverage": 2,
       "also": [
         {
-          "source": "TradingView",
-          "title": "Cox Automotive Says US November New-Vehicle Sales Is Expected To Finish Near 15.8 Mln - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPci1xTnhtcGtzS0FOcVczWTkzcGVKWWQtb054V3djY1RwbXdNdVFYakYwU1FNNE9zR3BFZ3NiTkM3Q2F2WU01Sy1Ca25reTNKZGc2Qi1HbloyWjZlb21RcG5DMjJHckg4aXhRNERXSEdHdUNfVHY5bDhHZUJ2cUJvNHE2YVFOSUxHYzB2TTVJVDlpZW10TGIwSDlpcUVvcFVVWnB6Z09PZ2NCc05VQ1ExUDhwLXZzZ2pXTXRCOXFEOGo4ZlVvWlZtdnRwcHJsZ1JJd3VCaWN3VFBBWEhEZTVBT3dUcFFTVmxwcWRr?oc=5",
-          "published_iso": "2026-11-24T18:30:18"
+          "source": "inkl",
+          "title": "The $4 Million Car Dealership Settlement That Every Used-Car Buyer Should Understand - inkl",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkJnaWtpcWpxVHJRVTlfZmhzQzFVSzEwX2VMSjhJTGtuY3VpdDl2VXdQVGp3cnpKanJHbmdjNVpkLVhMMlQ1TVAtazY4c01QQkFhMkxLa2NNSElOTEtzS1hkTmxqaS0wZ1gtN05fR2V4a1VhTjZ5ZkRIV3ZpMWxnS0tDRTlxbmtlbzBmSHVKaUQwTzFhWjB3dndsdnFFV0pSbTVxcWlSZUdmYlQ0LUE?oc=5",
+          "published_iso": "2026-11-26T13:37:38"
         }
       ]
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Used-EV sales surge at auctions amid off-lease wave and pain at the pump",
-      "summary": "Used EVs made up a record 4.9 percent of Manheim sales in the third quarter, up 45 percent year over year, as off-lease supply grows and high gas prices push buyers toward battery-powered vehicles.",
+      "title": "GM expands charging access, CPO Programs available, 2026 Land Rover Defender 110 V8",
+      "summary": "Top Stories  GM Energy Pass users can now charge at Electrify America stations. Read More CPO programs expand eligibility, creating\nThe post GM expands charging access, CPO Programs available, 2026 Land Rover Defender 110 V8 appeared first on CBT News.",
+      "source": "CBT News",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T10:05:30",
+      "link": "https://www.cbtnews.com/cbt-automotive-newscast-november-27-2026/",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "CPO programs expand eligibility, creating more options & coverage",
+      "summary": "On the Dash: Several automakers have expanded CPO programs to include vehicles up to 10 years old, with some tiers\nThe post CPO programs expand eligibility, creating more options &#038; coverage  appeared first on CBT News.",
+      "source": "CBT News",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T09:59:46",
+      "link": "https://www.cbtnews.com/cars-com-cpo-programs/",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Used-car export ads in Korea draw warnings over price cuts and legal risks - Chosunbiz",
+      "summary": "Used-car export ads in Korea draw warnings over price cuts and legal risks&nbsp;&nbsp;Chosunbiz",
+      "source": "Chosunbiz",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T02:14:00",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUHJXN29mSFFqakdTVXQyYmdQYUU4dlpQSjRMb3FaNE1Ea1R5OTJGWDB0TzByeUJPUmI1LVo0cTZuVm1McnlRUEJGbDhVU1pBajA2S1pXM2R3OEtmTUJuQ1hMRW4yV1NjU2djUmdJQU5wVkNwUFN3OTY1MHZadUhUNNIBlAFBVV95cUxQRjQ4SVBnWVZKUTBSOHRWRHZJT213TmR6UHp1SHQyRnZ4aWxuTWY5YTdZZHZBYzdMYzVjbGxqWU1LTUZ3bDM4b3NLem9IZEI5Q1liOWxiaG1vQmJyQWFJVjFnV1JWdzlCVUFIQUtucHRmbkh5bldOZEpvbENkMWxZOGdVMDB5OURxOEJTbS14WnZwUU5S?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Dealerships Are 'Terrified' Direct Sales Might Be The Future - InsideEVs",
+      "summary": "Dealerships Are 'Terrified' Direct Sales Might Be The Future&nbsp;&nbsp;InsideEVs",
+      "source": "InsideEVs",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T00:18:43",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MUnVzN1lRNUJUeG1qaUxiYWJrNGVueVNVMFQ5TTFvWWJiOWVxbHlUakpsUTRzanloU0JUYTNfY0lacno0UHFILWM1N3BfOUp3LVhIelJyVVI1YlpPUlBGN3lwaTgzRVNxaGpPcmZzU0gxMzNWb1NVTzc5NTU?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "A Monroe Township, N.J., Driver Tried to Change a Flat, Then Drove a Stolen Dealership Car on 3 Wheels, Police Say. Pa. Wants Him First - Yahoo",
+      "summary": "A Monroe Township, N.J., Driver Tried to Change a Flat, Then Drove a Stolen Dealership Car on 3 Wheels, Police Say. Pa. Wants Him First&nbsp;&nbsp;Yahoo",
+      "source": "Yahoo",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T22:00:00",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ25kQ0hpNmxfbEJ2b3pHdGZhV3ZGM1o3LVBuelNnMThoUDY5VW15Zjc4elBmVHZhYUdJaWdLOGxSUUhCZTF5RkhiU1l4dkwyWHdFeVI3Y3Q1QzhxWUY3amstcWRXTGtfSnRodTVkNTVDNjJaVks0azAtUDhEbWdiU3VhNG9Hd0E?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Yokohama US$500M, Nissan Carbon-Free, Dealerships: Automotive - Mexico Business News",
+      "summary": "Yokohama US$500M, Nissan Carbon-Free, Dealerships: Automotive&nbsp;&nbsp;Mexico Business News",
+      "source": "Mexico Business News",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T21:51:17",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkhpSUpBUjJ4bTR1UFg0cWlDLWFWQndTTUlqMHdGbzF3c2JMakZKelNYWW1rcF9hNEtURTdoTlg5eVBDWkZJTllXalQ1UWFlbWZ3ZHowbkN2ODgyNmhIMktBNEE5RUdELWNyMWRQYl8zRnFLNDRZcXJucld6cTRHZTBfOGZkVk14REVZenVQSXFUNHZfT0Q2Vm16ak81UW9ZVWdn?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "New Car Prices Just Topped $51,000 for the First Time, Explaining Why Drivers Are Keeping Older Cars Longer - Road Ethos",
+      "summary": "New Car Prices Just Topped $51,000 for the First Time, Explaining Why Drivers Are Keeping Older Cars Longer&nbsp;&nbsp;Road Ethos",
+      "source": "Road Ethos",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T17:45:00",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUDlCcm8xZl9PZTVpNno2MzhyRTYwMzl5eTZfcmhlcHhPYmw0OU1sVFViczlHMmRSV2pPTDc3ZTNMWG9EWmZUd0FiUlJIMGVaWnZsU0RtVWktUy1xdFNaWF9ENzRMMXhuSDluRV94aEhmc2lHQkxhcmpvTmRVZTF6VjN3T3VPSHVaWl9uanVxU2UtWmc4WVlZekRxMWx0Nzh0blNnSmJHNW1fRGV4dHUwOUpSNUt6XzJkUUl4ZFdVODdtZm9YNXhPdlo2dmU5WV80eDE0?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Half of used-car buyers have loans of 84 months or more, nearly double 2019 rate",
+      "summary": "Nearly half of used-vehicle buyers in the third quarter had loans whose terms were seven years or more — a steep rise from 27 per cent in 2019, before the pandemic, according to Equifax Canada.",
       "source": "Automotive News",
-      "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T12:00:00",
-      "link": "https://www.autonews.com/retail/an-manheim-evs-gas-price-1125/",
-      "coverage": 2,
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T16:28:29",
+      "link": "https://www.autonews.com/retail/anc-auto-loan-terms-84-months-used-1125/",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Driftrock & Loop link dealer lead data in auto deal - ChannelLife UK",
+      "summary": "Driftrock & Loop link dealer lead data in auto deal&nbsp;&nbsp;ChannelLife UK",
+      "source": "ChannelLife UK",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T16:20:00",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRG9SbW45QlNudXNCTlVPNHdtQkxIWFNjZzRGVlpzZUE4WTE0WW9uejY3QjYxM1BlbTRqbjl0QU54WGpzb2ZzU1psN3VPaE9Rb2FCRjZKQjR4eF85UTE1M2g2cWJYQ3NwUjhFWjVPaDF1NzVrc2kyWWlCWnZGbGp4Tlk5SnlJQVE0?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Israel Kills Senior Hamas Operative Khaled Abu Nada In Gaza As IDF Intensifies Gaza Operations - Dynamite News",
+      "summary": "Israel Kills Senior Hamas Operative Khaled Abu Nada In Gaza As IDF Intensifies Gaza Operations&nbsp;&nbsp;Dynamite News",
+      "source": "Dynamite News",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T08:13:53",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSzNIcHVSZ1pCLUprM0QyOVMwVDZUVXdjSXVGV2N1X3pwZ1RQcTN3cjZEdlhmek5kdkV6b2Y3dHFGOHJJT2U4N0NRZlZ5SThfeVlKUjlTYW1kUUpXUnJyR2RFMTFFOWw0YzY4SmliV1NFSXRpbGZhd1NHWVpROU5vU19QRllxSHJKeGJXU3FPdVB0RW9UbFNKR1I5UkdONFk2a0l4eUFmQjA2QXE1NUYySVRDY1cwbXhiYU9DTHRoS2M3dnlEN2Y4bE9tYWJyVEV1T1Uw0gHYAUFVX3lxTE9DMUlpZk9DenBLc2JMZ01KWlBXQmtmT1k0Vmhha2ZsV3lvS0RWWm0zLWg3bjdqNGdRWGF0SjRhUmlkd2VSWDJ4OWpCNmtMUHNXbjlINjBmU0Vpc282NFNQdzVVVlNRMWlQa1o2OEZmekpiZWRybzVFUmpLV2xjTmtrZmpwRTRDNXVQTUI4WEs1UU14aUEtcDlIdGVzMC1aQ1pLVURNc1lHc0lLSWNlcVN0NkVWRlNzcUVIN1pBRGloaTl0ejdQeFZDU183V2xOV0taTXNFal9FdA?oc=5",
+      "coverage": 3,
       "also": [
         {
-          "source": "The New York Times",
-          "title": "Used Car Prices Are Soaring. This Auction Is a Reason. - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN3lEaXdtNXp4NHJNdFR2WFJDTEVTV1BYU2dLZVl3TzVnbnlZZ0Z0XzlQSjhaLUlyY0Etbzk3bFBmbl84MmRhaWhOaVVac2RSaGNoNTRiOGJVUGVFSEhyY1d3aUVpWlZzRVNNdWRhdmJpZDlJUGR5NV9sQWE4dWtncGJ5MXJXZk13?oc=5",
-          "published_iso": "2026-11-21T10:01:54"
+          "source": "Firstpost",
+          "title": "Israel kills Hamas' finance chief Khaled Abu Nada in Gaza airstrike - Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRy0ySzYweFA0N2dYR1lPcXhZT1liaWw3VW1Scmlld1lGd2d0UDctdUlZbHFuVFRLOG1odWN2MkZoY1N5aF9ZOTFUUHZtV3JfWGE0dElhNW1CbmVIUjdXZ29qNGR0TGtpVHRkVlJoZEo2ZWhheWtuSWtaOW16ZUIwVGlCTkJDZ2RpclcwSHkwcVRsZklXRUl6b2xXcTc2R0xOTUpHeHRsYVQzN3lQNGNWZ2xR?oc=5",
+          "published_iso": "2026-11-26T09:24:59"
+        },
+        {
+          "source": "One America News Network",
+          "title": "IDF eliminates senior Hamas official Khaled Abu Nada in Central Gaza airstrike - One America News Network",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMUVVLUJKRm9QUkc2QWhHR0dMMjZ2ZHd2M2FrSmNoR3ZLYS1iT25XWjhWMUNKRmxVSnNLMWh5UzhMblFXS3BYNjhtbWRVOXMwUU12aEg1cVgzV25lcDItZFY1TTB6a1pUcS1RSDY0OXZiSVVIRUpxTXl3aHhFei1DQklHVWE3VGJuX2RSaFJ5QWNxTk9tb0xwX3VKNUFKeHlId0J4QWtuZmp1Qmd1ckE?oc=5",
+          "published_iso": "2026-11-26T22:08:12"
         }
       ]
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Changan Australia Launch: Deepal S05, Nevo and 60 Dealers - Zecar",
+      "summary": "Changan Australia Launch: Deepal S05, Nevo and 60 Dealers&nbsp;&nbsp;Zecar",
+      "source": "Zecar",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T04:00:00",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oSU1ROXFvYkJGQUtWWFQ5c0NLLWwySDdTQ0o2cFRjUFdzdUI5Z3ZWOHd2VW85NEswQU04MzFRWXhMbTBwdllMdlFPRWdtV243VzFWUC1YS0VoNGN1d0s4Um9xVnk4UlRRRl9qcWVzZnVlUm1fb0FsQzBNNUN4Z2M?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Behind the Hennessy family's decision to sell its 62-year-old Atlanta dealership group - Car Dealership Guy News",
+      "summary": "Behind the Hennessy family's decision to sell its 62-year-old Atlanta dealership group&nbsp;&nbsp;Car Dealership Guy News",
+      "source": "Car Dealership Guy News",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T23:58:10",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzQ4Y3JBNVVVNkpTYnUxbllrSE1QSWRDdW55eE5sYmE0MlZxei1rcU94ZEZKTUdMcWlFRlpMeDZPbVNkMUw2eUo5OVg0WHRfRDMzTmtlUGdJb2w5QldSS1ZDdElUemNtRFpSVUJ5QmJ4SkF2WFYtT3dIV3M1RUJuRVBHWjlxZHpDTHRsSTU5c0JTWDIwV2lPSlhPcW5hQm5SeUlrNnA4TTNxanpOQUlXbEY0V2tSWldVdTA4?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "New research highlights the keys to successful dealership AI implementation",
+      "summary": "Adding AI to a dealership doesn’t automatically improve performance. In fact, two stores within the same dealer group using the\nThe post New research highlights the keys to successful dealership AI implementation appeared first on CBT News.",
+      "source": "CBT News",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T19:47:51",
+      "link": "https://www.cbtnews.com/dealership-ai-implementation/",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "AutoNation invests in Miami luxury automotive marketplace - The Business Journals",
+      "summary": "AutoNation invests in Miami luxury automotive marketplace&nbsp;&nbsp;The Business Journals",
+      "source": "The Business Journals",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T19:46:00",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlNXSHhudE1pbGNvcGctNmlpRmlsNlN6SVFFZTJnQjU2a2hYajZyUXQyYi1zczZYeW9UQWN5MHZJWkNKNm5SNUFzbC11ei1qQktiVkJ4M0tmQVV3OHVCTTFfWXJ6TGg1cGVPM1RYTDRYZUUtb09pd05TdXRuZHc0V2pWRGpwZFZVYUFEM3BjTE82SUNlY0E0SmViLXZ3QjRNdGpab3c3THloMy1Bdm9j?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "Amazon Autos UK Going Live in 2027, but Dealers Still Get the Last Word - autoevolution",
+      "summary": "Amazon Autos UK Going Live in 2027, but Dealers Still Get the Last Word&nbsp;&nbsp;autoevolution",
+      "source": "autoevolution",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T17:09:45",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRll2RzlKUTVBSzc4SzdCZm02VU5fTGFtaUlNOThwT2dRb0llY3pIQ3l6bmNVcDlBMGNGZ0NoWWNHUXpkV1lfNDNPSjNPd29mQkJXNnlkOGE3c2t1R2RReGwxN2hSWDVGMlRTQmxxQWJOTHlSNnBkUi1iM2FCTlBIWko2SWZkQUdKZ1NSU2xseXM2dXhaSmlVNnQ0cjV4bjJRU3JpaEVqeUoyT2kyTGFHdGdZbGxvQWpW?oc=5",
+      "coverage": 1,
+      "also": []
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
@@ -52,45 +256,56 @@
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "How reliable transportation drives economic mobility, dealership growth",
-      "summary": "For millions of households, owning a reliable vehicle means far more than getting from point A to point B; it’s\nThe post How reliable transportation drives economic mobility, dealership growth appeared first on CBT News.",
-      "source": "CBT News",
+      "title": "Ola Electric Offers Up To 9% Dealer Margin To Expand Franchise Network Amid Sales Slump - Free Press Journal",
+      "summary": "Ola Electric Offers Up To 9% Dealer Margin To Expand Franchise Network Amid Sales Slump&nbsp;&nbsp;Free Press Journal",
+      "source": "Free Press Journal",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T10:04:08",
-      "link": "https://www.cbtnews.com/reliable-2026-mobility-access-study/",
+      "published_iso": "2026-11-25T11:39:00",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkp0MTk3WGRpeXl1Skh6c0hsdWE4U3l0VGwwOTdIQkU3MEJrd3hXZ2lyWWJpZC1TQzAyOW5DV01zMGZJYkRHd19kX05hcVFVOEdQQXdmT2c4N1BxRHpveVV6N0QyY2JIVURDOExGOWRLZVBiN2RqSmJ2V25FVWhtNVFvellHUWN4TEQ0OEV1a3ZLdW1fR2RQWmpCN1ZPanB1M3RPSVV5ejVKMXdqWjBWcWpwTVVSTnNvcVdsd0tIYjEwdUx6REHSAcsBQVVfeXFMTmJpeXNoanVCV3BnS1lEWlR5SGtVUUZUNUJIN1F6aWNDQzh3Sk11U010WnlyWlpld1Rxem9LNENfb3AtWEd5aDFVWEg3cHN6RVBQeEgxNjVJMU1wX015MXRWUk41Y1lVSklfMzdRaDZ2NDJKYVQ1RlFuZFRGRVRlU1d2enFOcHFMOXBMbkZucGRqNVdHTHlCTlJaNDc0RlZJNjNSZFBmVGppMlozakN2dU5hbGY2YjIteEFUOVRLWWkxY3A5bGQzeTJ0LW8?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Dealers should ditch the old playbook to stay competitive",
-      "summary": "Dealers that stick with long-held benchmarks could fall behind competitors willing to change how they run used cars, pay salespeople\nThe post Dealers should ditch the old playbook to stay competitive appeared first on CBT News.",
-      "source": "CBT News",
+      "title": "Auto Retail Sales Rise 13.3 Pc In November Two-Wheeler Sales Jump 19 Pc - Menafn",
+      "summary": "Auto Retail Sales Rise 13.3 Pc In November Two-Wheeler Sales Jump 19 Pc&nbsp;&nbsp;Menafn",
+      "source": "Menafn",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T10:03:04",
-      "link": "https://www.cbtnews.com/dealers-should-ditch-the-old-playbook/",
+      "published_iso": "2026-11-25T11:15:22",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckxTdEoxcXZBSXJBS09rVDIzY1VrRFRuN0xrUGhJQlhqRl9ZNkNLLUdtSGswLXVsZC1VOUZVOXdpVzBxbTZwTzlPWUV1ckdWZlBhNFkxa2laSlJOQmVwODRGQTFSNzhtZnFDcUxvZ2VGeHdHdnp6YVd6eFVYU0lMb0RSSzRfWW9vNnpVbFNLck0wQm9ZcmJJZlpiYVZBZ1dNNkE?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Xiaomi hints at UK plans as EV newcomer readies for Europe entry",
-      "summary": "Xiaomi is recruiting dealers in right-hand drive markets, hinting at U.K. plans, as it prepares to enter Germany in 2027 and faces slumping demand in China and EU import limits.",
-      "source": "Automotive News",
+      "title": "Ford’s CEO Says Ford Is Now the No. 1 Certified Pre-Owned Brand. So What? - Money Talks News",
+      "summary": "Ford’s CEO Says Ford Is Now the No. 1 Certified Pre-Owned Brand. So What?&nbsp;&nbsp;Money Talks News",
+      "source": "Money Talks News",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T09:26:18",
-      "link": "https://www.autonews.com/xiaomi/ane-xiaomi-uk-plans-europe-entry-1125/",
+      "published_iso": "2026-11-25T10:00:48",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEtIX0dVQmp5OVJnWWNsd21rTHpUSWhUWmQ4VjR0QWU3dlpPSlJ6cldSUmJIcmx2N1ZHanVMT2FOU3NlcVVWbk9VT2tmMk5hbFJ3UzFLdzBJenVDbkhyb2NYaU1EQXpLaWZ2ZFlTRF9UR2VtbkdidjU0NFdRd25QRzVKM2l3aVFwS3hTZ1RrSlQwRGdfZ2R3ZS1fNmdEMW1G?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Auto Dealer Grouwp Operates over 80 franchise over 25 locations under Peter Warren Automotive - DSF.my",
-      "summary": "Auto Dealer Grouwp Operates over 80 franchise over 25 locations under Peter Warren Automotive&nbsp;&nbsp;DSF.my",
-      "source": "DSF.my",
+      "title": "Dealership Buy/Sell Market Soars as Auto Dealership Groups Scale Up - The National Law Review",
+      "summary": "Dealership Buy/Sell Market Soars as Auto Dealership Groups Scale Up&nbsp;&nbsp;The National Law Review",
+      "source": "The National Law Review",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T02:24:38",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1lYTEYwaFg2QjloV0NxNTVLNmRIVl9DT2VoTXRSWmU3M3UxeGh0ZWdhV24waE9aM2JURDljSE9fVm4zb0lBLXVjTnJHWWZGenBYUlVkUzVnbEpNaU9EZWs4TkU5Y2lKdU1wTW04R0FGMVR6cmFaekNnOVo4Qm02bXJVTmR2ODhwc1dKSVNHRFpkQlowYkFFMkJabVplcGk3Wi12Nl9qY29kdw?oc=5",
+      "published_iso": "2026-11-25T00:25:42",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWURndmNrczVsTWdKTnJFcFVjT0xjeFdfLW9IclJkcWR2ekI4cEpqMGp2dDE5MVZ6N2JlRFJWYnYtVVQ0dlFSdGM4ZGk5WFV5ZUxQSmJEMjBFM0xIYUx2WkZQdlBkTkxEYWhocGpZdzJuZGpzLXV3UHZfcm9oV08tSFAyQVZ0Y1RIZERCVjYzYVRncEZpekwwOFk0YjllNFdTWkE?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🏢 Dealerships & Retail Auto",
+      "title": "CarMax Announces Third Quarter Conference Call - Business Wire",
+      "summary": "CarMax Announces Third Quarter Conference Call&nbsp;&nbsp;Business Wire",
+      "source": "Business Wire",
+      "published": "Tue, 24 Nov 2026",
+      "published_iso": "2026-11-24T22:00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTl9hZ3p3WGFobTc4YjNsYkgybFdybVl3Wjh6Y1NURUhtVkdIckQ1RGVNaDFpNU8xWkRLbVBWYVZhcFM4bkgtTVg4OVRnRXlKWVgwRHc4ZFhiVTN4SGNVcWdqRHFFU2U4N0tFYkJTbEJIUmRuWFJLVnlhcVdfWHZPMlRJNUFfUzJTS3F0Rm5pY2JTM3NKNUtXNTJNbGk3X2NaWWpEM0RB?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -107,41 +322,19 @@
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "November vibe check: What 67 rooftops are telling us about traffic, sales - Car Dealership Guy News",
-      "summary": "November vibe check: What 67 rooftops are telling us about traffic, sales&nbsp;&nbsp;Car Dealership Guy News",
-      "source": "Car Dealership Guy News",
+      "title": "AG Sunday’s Bureau of Narcotics Investigation Rounds Up 13 Charged Drug Dealers in Huntingdon County-Based Takedown - Tri-State Alert",
+      "summary": "AG Sunday’s Bureau of Narcotics Investigation Rounds Up 13 Charged Drug Dealers in Huntingdon County-Based Takedown&nbsp;&nbsp;Tri-State Alert",
+      "source": "Tri-State Alert",
       "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T21:02:15",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3ZSR1dZcG5nQnJHcU9YLVpLTENfN20wQ0d4SkJ3WWNNb09pNXcwYXVDQ0dNVy1ZWFlYWllPM0k4VkRHRm1aZnplV2dzeVBJNWdBT3JnMGs1d3JHU1ctZHlMV3Q4QTlUNDgwQ1NLa25LWEtSOHMwWEkxRVMzSUhBZjlSRGctaGNOLUNaSHA3a3VDUHN2b0d5Z3ROZUs5TG9KbTJIQnNxaw?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Conversica’s Ignite uses AI to find revenue across the ownership life cycle",
-      "summary": "Dealerships often treat sales, service and F&#38;I as separate departments, even though the same customer moves through all three over\nThe post Conversica&#8217;s Ignite uses AI to find revenue across the ownership life cycle appeared first on CBT News.",
-      "source": "CBT News",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T18:25:49",
-      "link": "https://www.cbtnews.com/conversica-ignite-ai-finds-revenue/",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "NADA’s Mike Stanton outlines top priorities for dealers heading into 2027",
-      "summary": "Dealer advocacy is taking center stage as NADA works to advance legislation it considers critical to the future of the\nThe post NADA&#8217;s Mike Stanton outlines top priorities for dealers heading into 2027 appeared first on CBT News.",
-      "source": "CBT News",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T18:22:28",
-      "link": "https://www.cbtnews.com/nadas-mike-stanton-2027-priorities/",
-      "coverage": 1,
+      "published_iso": "2026-11-24T20:25:54",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPei1PcE81Q0huNk9WejNWUEdsa3Y3OHlFVUVONVZoTndIa3U0U1BYdERUTjRjQTdObTlralNzb1E4RWtEb1dwY0RocUtWMV9ZSThjWC1yVlRtdjlJYVVCMHI3QlhmYnU5Nnd3bnNlMDVfZ0cxNWt0bkZqYWx6RlFsZlk2aVBpdFh1NVVXSVBzblY4R3BjTnhsN3c1bHNGQUpicnVyNTRSSjA0Y2xBbmJKRjlFUlJjY05MWWJJSW56aGJ3NlVzRGRuZll6MDllUkdrS1JCRUdYbnhLdEli?oc=5",
+      "coverage": 2,
       "also": [
         {
-          "source": "CBT News",
-          "title": "NADA’s Mike Stanton outlines top priorities for dealers heading into 2027 - CBT News",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5peG8tZWdLUm9YNDlXcDU3THpDT0pCUGFYenA4NWdmMV9WWmVtWGhfQWJkSGhHc25YUGh1bDRaa05iSFlOQ0NLekIzUVBCQm5fbHdtOGJXTzY2MVJwNHEtbmMyRndfY0NoWVlF?oc=5",
-          "published_iso": "2026-11-24T18:22:28"
+          "source": "CBS News",
+          "title": "13 drug dealers charged during sweep in Pennsylvania, AG says - CBS News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVJkb2dDRlRzc2g0RnVKT1Roai0yWHBJNXl2Wm5zSVRGUXotcG5KeUh5NWUyaTdQZnRvRFdqbFpHT0hScllfSW5TdkxjNDFVZk10WGxJX1hwWUdBV0dzY1lJMGl3RXl3aGZUS09CalRTNWFmZmlTWGYtVG1rSGlnLW5hczNBdw?oc=5",
+          "published_iso": "2026-11-25T02:36:08"
         }
       ]
     },
@@ -158,12 +351,12 @@
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Amazon Autos’ Fan Jin talks faster dealer onboarding; Barrett-Jackson’s Craig Jackson",
-      "summary": "Amazon Autos’ Fan Jin explains how the platform cut dealer onboarding time by more than 85 percent. Plus, Barrett-Jackson’s Craig Jackson on rebuilding the family business.",
-      "source": "Automotive News",
+      "title": "Cox Automotive Forecast: November New-Vehicle Sales Pace Steadies as Fewer Selling Days Pull Volume Lower - Cox Automotive Inc.",
+      "summary": "Cox Automotive Forecast: November New-Vehicle Sales Pace Steadies as Fewer Selling Days Pull Volume Lower&nbsp;&nbsp;Cox Automotive Inc.",
+      "source": "Cox Automotive Inc.",
       "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T18:13:06",
-      "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-amazon-autos-fan-jin-dealer-onboarding-1124/",
+      "published_iso": "2026-11-24T16:21:13",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEVLUm01a2NGWHlJZXZqMWUwR0hQM01ncDkxZDFuSzBEbjlTaTZsRFh0bTFZSjNWc2t1dlRIWHJWVEhQUTVUN3JJWVBmRk5YVEEtelVaLTVpNmM2YURDU2E2VGRhbEp6RTRWcTdIaEY1UzlGSWNyTURTTk85aWlPOGdpUTRqSUJoakI5VmJsUkgtVnpnX1NfYnlUTG5xQQ?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -175,11 +368,11 @@
       "published": "Tue, 24 Nov 2026",
       "published_iso": "2026-11-24T16:08:29",
       "link": "https://www.autoremarketing.com/bhph/car-mart-files-for-chapter-11-bankruptcy-sells-to-well-capitalized-ownership-group-thats-also-a-stalking-horse/",
-      "coverage": 10,
+      "coverage": 11,
       "also": [
         {
-          "source": "Bloomberg",
-          "title": "Subprime Auto Dealer America’s Car-Mart Files for Chapter 11 - Bloomberg",
+          "source": "Bloomberg.com",
+          "title": "Subprime Auto Dealer America’s Car-Mart Files for Chapter 11 - Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZW9oRzVHLVByd2lVSU03d2xSYlYwanczN3FjY040TkNxTlk0eGprQjRHQVVQcTJzUFRzbXpRb2JzVkpUSjN0bEVFZGRjODdvQWlKRk9ab012UFFSa3BwV3ZzSVc5Z3I1c0kxcGQtamluaFAyODQ4LVBLM0ZXYll5aWtISEFFM2tsbmVkYmtGMzdLYzRFbnlOWEthdHZOcy1wZ3JLd3pzUVR4MVo0aGdQMw?oc=5",
           "published_iso": "2026-11-24T10:03:25"
         },
@@ -188,12 +381,6 @@
           "title": "Subprime used-car dealer America's Car-Mart is filing for Chapter 11 bankruptcy - Quartz",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGQ4Ui1sNmZwVWUzUkxVNlpuS1dXZm12cG5yS2hZb1Rzbm40MzlFNzBNWkE4NlVtdUM3OU4yQmJXZ0xTazRYNEw4QjdHeWtYUUw2ZC1xQzFTcHZvYUJHQ2JNdnVfTDNjTlJ2OGlJbkR6WWRhZkdaZjktc19WeVpjVg?oc=5",
           "published_iso": "2026-11-24T13:10:17"
-        },
-        {
-          "source": "Stock Titan",
-          "title": "Dealerships will stay open as America’s Car-Mart files for Chapter 11 - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWkVsMEVsNU1tc0NUTFdZSUVkZlhJa2ZlaFR1M0tma0M0YXZ3ZGdpVWs4M2w2a3B0VWVEdVg4LXVwS3hIemptdjBWeUhENmJlSzVnTDdhSDBuNE5zSndLVTJ5VVczSEt2ZkszLUcxU0R5c21QS1A4VFJvblA4d2ljQ2pQa1dJWHRhdTg3blUtTlVzcVRMdEdGUnF4bTU5d3RiVEhRTy1Za0lEWEpEOFlDa1RfclRrVkhfUldnblFB?oc=5",
-          "published_iso": "2026-11-24T13:18:00"
         },
         {
           "source": "Reuters",
@@ -216,7 +403,7 @@
         {
           "source": "Yahoo Finance",
           "title": "Used-car dealer America’s Car-Mart files for Chapter 11 bankruptcy, shares plummet - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzVYOEdMYVQwdnpjNjZiLUlvQVlUdkVDSmJtUkExd2hFaE9lN0VCTEVsMVo4RmdSbDl4SVR5am40aUdrbTM0NlB2VnNhWEJEaTV0WEFlT1NSNEVyZjYwVnVvLU9xWmNpWEQ2cW1mQ0t0aS1GcmFzazI1bmMyT3Znd1ZQaVZvcFRBc3ptd3J4b09oTlktWkJF?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUTJfOEZJckZtVERhemdneTRxdFdiVFFqWGFaM3BwT2xfUGpOUkhheGRWTElqaXB0QzdzNGk1SDhoeGNHaTlzTjV0R2ZSQmp5b0ZZUGxqenNSZDdVUWkxdmNPY3hrVmFLNFltQTNaeEFmQ3JnTmhFZTZMU0I4RmNYcDhQUzFxdUVwMldSOVlURTRpZ3N3dTZZ?oc=5",
           "published_iso": "2026-11-24T17:36:17"
         },
         {
@@ -229,7 +416,25 @@
           "source": "WSJ",
           "title": "Subprime Auto Lender America’s Car-Mart Files for Bankruptcy to Pursue Sale - WSJ",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmpSWU1iX1JKTk5HUTFJT2h0Q0RaT29wRFlqcUh1b3B5T1NkX19ENXVRZjgwZEJhR3ZvVzRtTDBtQmo2bXRZNTlXMVRBVXZLbktsVlF5aUJTTVhtMGtGQzNMZTVOQVpyMlhuOEFhMDM5WWZJaktkeGtHQkFSOHl6bTlWU0E4b3ozQ3VKcXN3ODRuZjh4VzNmbXp5VUF0SXZZUTh5RTlsMVRJNDE0UF9aQUJBNm9SMGN5SUE?oc=5",
-          "published_iso": "2026-11-24T19:44:53"
+          "published_iso": "2026-11-24T19:17:00"
+        },
+        {
+          "source": "NTD News",
+          "title": "Used-Car Dealer America’s Car-Mart Files for Chapter 11 Bankruptcy - NTD News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0xYUWtVR1NXakFqeEJwUXlMTGhiS3Rob0FmbExVeWdhdEZ5Nmdpa2x4MHdBMTJmWGlPaUVHbzV2T2tvUlllMS1jSWNQcmlXZUlWelhkNElsLXJlNUFVQ1FwTTNrSVdlUjRaZkE1RVFocEhDbDQ1bE5sWkc2bFNEbUl2dXBOYlJxZFBfWjZaUFJkVFdhcWFOUmN1U1FTcDQ?oc=5",
+          "published_iso": "2026-11-24T22:42:31"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "Used-Car Dealer America’s Car-Mart Files for Bankruptcy, Plans to Sell Business - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVZPcmZwSm44RTItRnlzMklOM3c5ellXNkJRV2cwOEJIWXIzb3JtUnhBenl0bUd1b2JlNHhyQUd3dUp6QmhiSUpBOHNXd0tMX2VvMDRaNlRJV040ZHZrSlo3YmR5OGQ4ZzI3VmQtS3NOZFVuNTMtNC1pRUZpckhQNWJ5VEJSWDRGRnFwNU9VRlhHMjNOYjJj?oc=5",
+          "published_iso": "2026-11-25T19:33:04"
+        },
+        {
+          "source": "Wide Open Country",
+          "title": "Major Used-Car Dealer Files for Chapter 11 Bankruptcy - Wide Open Country",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdDhzUzBFOTE5LXNOTnJZREJCTFo4clRpQ1FjRGJOY3BJM3hfMFR4b1h0MHpVekxxcjZoWk9ZVDlYQ0tYbG9BaVBxYlF3SHNHN1dpNGs1NkJCOFkybEFybkVYUmZ6czF6bUxnZkw0bTlYNHVISGhVTzJKcWY2eVFoWWwwcDRVV1ZwdXZJVEE5aw?oc=5",
+          "published_iso": "2026-11-25T19:41:12"
         }
       ]
     },
@@ -246,23 +451,23 @@
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "Chery’s iCAUR signs first UK franchised dealers, targets 40 sites - L’Express Franchise",
-      "summary": "Chery’s iCAUR signs first UK franchised dealers, targets 40 sites&nbsp;&nbsp;L’Express Franchise",
-      "source": "L’Express Franchise",
+      "title": "The best deals to be found on used cars over the Thanksgiving holiday - Belleville News-Democrat",
+      "summary": "The best deals to be found on used cars over the Thanksgiving holiday&nbsp;&nbsp;Belleville News-Democrat",
+      "source": "Belleville News-Democrat",
       "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T15:23:58",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KN1VaN3B1WEVDX0FJdHB3NER2cnhnaUNxY0VtOHhwYmpnN2ozbGRGUG5hRTd1d0NHOW52MEJSaVp0cjF5Q01kY2d4cm1DTHFYWGIyYWJEZy1jY1ZhclVvTmJRUE9TZU9wbko4?oc=5",
+      "published_iso": "2026-11-24T12:01:00",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SdXVnZUctb1hpUmhWVEozTFpxd2k2blVKRENlM21FaW9idGk5RFJWbWs0bUJMRkF4MlpkdVlnU0JUa1ZTNG55NHg3RmxVRmRiVjdpZGQ1SFV4TGk1SXpBV01GSmJTaTVrUEdVaV9GRzdOUDNLT2Rv?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🏢 Dealerships & Retail Auto",
-      "title": "From First Stop to Final Sale: Six Ways Dealers Can Turn AI Into Results - Cox Automotive Inc.",
-      "summary": "From First Stop to Final Sale: Six Ways Dealers Can Turn AI Into Results&nbsp;&nbsp;Cox Automotive Inc.",
-      "source": "Cox Automotive Inc.",
+      "title": "Service-first dealership adds 21 bays and powerful AI tools - CBT News",
+      "summary": "Service-first dealership adds 21 bays and powerful AI tools&nbsp;&nbsp;CBT News",
+      "source": "CBT News",
       "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T14:51:13",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmJSQjhpa2VBME5SZF9MeG1nZFp3NWpOR3NybS0yemdGeVRkV0FzOGZOLTExaXB4VDNQYTBqa0NtclEtcGowT0d6cy1DTVlCeE8tOThHVlZ6Tmd6dWdHcGFFc1FweG1EUUhyUlF5SzdfRVZaVlByM1dGZlZnUUl0VXpIY1RTSlRyLWRiNTB1OVlfNGVHRWg1NVBXNDdudkJrVGxfQ1kwY2hBOXN3?oc=5",
+      "published_iso": "2026-11-24T10:03:33",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xaGtscERteHdIdER1YmJpLVlxUzFNcVRTWFNrNUdGYmk4UGEwOVp1NkFxQjk2RENHOVpITGdEWEhkQll6ai1TTWJiR3dHQ0gxR25hQkxXS2FfZ1ktVkhBSzM1NzVwbmxSUXRhMg?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -278,200 +483,31 @@
       "also": []
     },
     {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Leesport auto dealer charged for hiding Jeep’s mechanical issues in Facebook Marketplace sale - WFMZ.com",
-      "summary": "Leesport auto dealer charged for hiding Jeep’s mechanical issues in Facebook Marketplace sale&nbsp;&nbsp;WFMZ.com",
-      "source": "WFMZ.com",
-      "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T19:51:34",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdC1aY25HTnJjUklRUGd0WjBFOTVQWkJkT0ZzQWJydjNBX2ZwZ3hnRXRPUk5EMGJQUTBCM2pxVE9DcU5LZmVqelBWUWlDQnNpeHdfNzFGc0NZZmMwN3E1TUlzdl9wc19PODIyS2VvY2ZUVi1iUEpRR1Y0aXBIMGkwOEloeTF6ZEt3UFV0dFBER2FRc3BaQzBpX2ZjMGVmZlJWU2ZJSk12VTVEMEJMUExSc0IyeFF0RE4tbnVTbWpSRm1tZjRZME5NSlJIdFBmVjRUZkxlVWxPVWNaLWxpUkZWXzF3LWNDTDdCbmswVGVXWnlkSFNxUFQtMDg5SnB1MV9zampTb0ItWE9vY2VHRGxUQnUwNFdDQUN5QVJremtB?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Dealer group news: Lithia makes waves in Charleston, plus Five Star recruits in Indiana",
-      "summary": "Lithia Motors has expanded to Charleston, S.C. The publicly traded auto retailer said last week it has acquired Hyundai of Charleston, Hyundai of North Charleston and Genesis of Charleston from Krause Auto Group, according to The Presidio Group, which advised Lithia. “Charleston is an attractive market, and these dealerships provide Lithia with an excellent opportunity [&#8230;]\nThe post Dealer gr...",
-      "source": "Auto Remarketing",
-      "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T19:23:02",
-      "link": "https://www.autoremarketing.com/ar/retail/dealer-group-news-lithia-makes-waves-in-charleston-plus-five-star-recruits-in-indiana/",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "US new-vehicle sales forecast to reach 1.2 mn in November 2026 - Beinsure",
-      "summary": "US new-vehicle sales forecast to reach 1.2 mn in November 2026&nbsp;&nbsp;Beinsure",
-      "source": "Beinsure",
-      "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T19:13:20",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSl9IR21xd3JMcVZnZ2FwN2VKcHlQa2xscDdVMW5RVmRneS1xUHZyUWdzTk5xcUNRS1NxaUV0QmlrTG5kWlJBOU9ReFZDRkVZaFd0ckxjX2hmYmtKcEcxTXF5eDhvQVR1WkI1bmtPeHlwNk11emhDcUZSY05ZUTBJTXo4Z2dQSTY5ajY4?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "eLEND/700Credit survey: 93% of dealers see risk in gap between initial dealer payment quotes and final lender terms",
-      "summary": "Two of the service providers who appeared at Used Car Week in San Diego — 700Credit and eLEND Solutions — released findings from a survey about Federal Trade Commission mandates for dealerships, lenders and allied industry professionals across the U.S. The survey showed there is a significant potential FTC risk in the gap between initial [&#8230;]\nThe post eLEND/700Credit survey: 93% of dealers se...",
-      "source": "Auto Remarketing",
-      "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T17:35:04",
-      "link": "https://www.autoremarketing.com/autofinjournal/elend-700credit-survey-93-of-dealers-see-risk-in-gap-between-initial-dealer-payment-quotes-and-final-lender-terms/",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Jim Ellis explains reasons for upcoming deployment of NETSOL tool at Genesis dealership",
-      "summary": "NETSOL Technologies said last week that Jim Ellis Automotive Group’s Genesis of Atlanta has signed on to implement Transcend Retail with intentions of deploying it live soon. According to a news release, the decision to go with Transcend Retail will bring a connected buying experience to its customers once the platform goes live. Transcend Retail [&#8230;]\nThe post Jim Ellis explains reasons for u...",
-      "source": "Auto Remarketing",
-      "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T17:28:07",
-      "link": "https://www.autoremarketing.com/autofinjournal/jim-ellis-explains-reasons-for-upcoming-deployment-of-netsol-tool-at-genesis-dealership/",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Car dealerships are low on EV models - Transport Topics",
-      "summary": "Car dealerships are low on EV models&nbsp;&nbsp;Transport Topics",
-      "source": "Transport Topics",
-      "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T14:09:56",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ySzBxR09OSC1ldEFGamNNdVBZNGJ1eFFiTW0yQTNXWElHdXZkck4xRy03ejQ4WUcwclNMSms2Q21YRHNlX1k4ejY4NXVEa1E1TjVrZDQydEZxNjFGcHR3eXVhOGo?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Nebraska Supreme Court upholds dealer protection in GM franchise termination dispute - CBT News",
-      "summary": "Nebraska Supreme Court upholds dealer protection in GM franchise termination dispute&nbsp;&nbsp;CBT News",
-      "source": "CBT News",
-      "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T11:10:22",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1acl9uYVlYd3g5UjZkRW1LTkRGY2FtZFh2Ylc4Q1RRdmFmVFIyYldVQWI0Sk1IZldLZkpvTG5mMmluTjJkRDB4bFFMR0RKbm1qMkZ0VXZtWUNvMms4UzJNc0psX0FELVFFYlhxRkZYMWhtaUtZQV80?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Dealership Buy/Sell Market Soars as Auto Dealership Groups Scale Up - The National Law Review",
-      "summary": "Dealership Buy/Sell Market Soars as Auto Dealership Groups Scale Up&nbsp;&nbsp;The National Law Review",
-      "source": "The National Law Review",
-      "published": "Sun, 22 Nov 2026",
-      "published_iso": "2026-11-22T09:59:06",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWURndmNrczVsTWdKTnJFcFVjT0xjeFdfLW9IclJkcWR2ekI4cEpqMGp2dDE5MVZ6N2JlRFJWYnYtVVQ0dlFSdGM4ZGk5WFV5ZUxQSmJEMjBFM0xIYUx2WkZQdlBkTkxEYWhocGpZdzJuZGpzLXV3UHZfcm9oV08tSFAyQVZ0Y1RIZERCVjYzYVRncEZpekwwOFk0YjllNFdTWkE?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Car dealer with 20 years in the business explains why he bought three Teslas in five months using totally different deals - supercarblondie.com",
-      "summary": "Car dealer with 20 years in the business explains why he bought three Teslas in five months using totally different deals&nbsp;&nbsp;supercarblondie.com",
-      "source": "supercarblondie.com",
-      "published": "Sun, 22 Nov 2026",
-      "published_iso": "2026-11-22T01:46:00",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aRzFaNzZpZUdQWW0tTjdweDFYRkFsaExhTWg5YmNkQ0M1dHJpRTdvdVVJS3hKNjRUME5aRkN0cmhBMXl3SHV1Mjh5M0VVOVl1SEd4bzZ4YUwxLU1CSTNCSmthcVhia3M5MHdmeGxhQ3VjWVNHdzVBdG9Bdzg?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Spyne Report: 82% of Dealers Use AI, but Only 22% of Users See Sales Growth - Traction News",
-      "summary": "Spyne Report: 82% of Dealers Use AI, but Only 22% of Users See Sales Growth&nbsp;&nbsp;Traction News",
-      "source": "Traction News",
-      "published": "Sat, 21 Nov 2026",
-      "published_iso": "2026-11-21T22:43:37",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yT0RYRE9qVEZkSE5wOTFLY09DQzEtYlM0OXFZREFVSnZScFRHd3ZpdG04R0YxT0NHRm1tNlh3V0poMHZXVUlERDdQQVB6Wi1rLVRpTmMxY0d2dUFLR09VcFA1R1VIZkM5TmstMU5Ua3pNeURQZm9YZHFDaw?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Nation’s largest car dealer zooms into SC via Charleston - Post and Courier",
-      "summary": "Nation’s largest car dealer zooms into SC via Charleston&nbsp;&nbsp;Post and Courier",
-      "source": "Post and Courier",
-      "published": "Sat, 21 Nov 2026",
-      "published_iso": "2026-11-21T10:00:00",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb1REMFpZZmh6UFhLWkxJSmtWMUREZXUybkJBaWtVeTItUU1lYXQ4YTQtOWU5YzB3eEZ5aWdXR1A2REVvNk1xU2Y4bXVTYXhtUVozWjVkQ1E0UDV4T2NhQzkwWkRDclRnLTRFSXYwLU9JVkFIWDhqQ0hjLTVjMEg0ZlJYUENjQnh5RzdmX05yTFIzWG5Bak1Ob2lhX3JaOUFYZW1zdGNsdjdSanJCZWNzX0xPTjZ6RjUtYnhyaGlfWllpUHZhZ1VoQ0xMcmkzLXByeElB?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Ford’s Canadian Plant Running Again as First Trucks Ship to Dealers Ahead of Schedule - AutoTrader.ca",
-      "summary": "Ford’s Canadian Plant Running Again as First Trucks Ship to Dealers Ahead of Schedule&nbsp;&nbsp;AutoTrader.ca",
-      "source": "AutoTrader.ca",
-      "published": "Sat, 21 Nov 2026",
-      "published_iso": "2026-11-21T03:34:59",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2RWdUxuTzRmS3lyb2FqRlZHcTB1WndOM2FCR0t3eXdrN2dBNUxOMHFCUFpFaXlDNW56bl9NbEFSUEZ5WUZzN2lhSl9DUTBkdTNuY3NJTTQzOERhUHRVV1VMQm56dWFCWndjOXpaR3VDalJjaGNEeWJJcFROMU9DbmRzNDNEZw?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Nissan’s finance arm reminds dealers brokered deals won’t stand - Car Dealership Guy News",
-      "summary": "Nissan’s finance arm reminds dealers brokered deals won’t stand&nbsp;&nbsp;Car Dealership Guy News",
-      "source": "Car Dealership Guy News",
-      "published": "Fri, 20 Nov 2026",
-      "published_iso": "2026-11-20T23:36:42",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONGs1NnJSR0hzUFNuV3RDS0F2UGZDLU5vdmlBTEQtV2hrbVZMMFI3dXlCU1V4b3J6bWhXTTNFSk9QdW91TnVmR0Z6T1pSelhnaHMwMGhndng4QmRDeENTRGliZEd5amQxbXBHQXdnOW9RcEpOc1dOLS11UnQybmR4MW9sa016ZjdDbjB5OXRlUzR5b25wU1MyS1FpRGM?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Edmunds: US New Car Prices Top $50,000 For The First Time - Brand Spur",
-      "summary": "Edmunds: US New Car Prices Top $50,000 For The First Time&nbsp;&nbsp;Brand Spur",
-      "source": "Brand Spur",
-      "published": "Fri, 20 Nov 2026",
-      "published_iso": "2026-11-20T17:16:36",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45eXhGaHVkVHZIb012YmlmampWLW9BTlY2b19BRGxyelJ4elg1ZjF1TU9QX3d5V0hxYkptbzFUNjVHVEVaalFPLXJpOGZNTko5VXdnTHRnMmZrQ1JGNzBGa21DT3dlQ1pqV1NQYjZCZmJxc0wxRWZz0gF8QVVfeXFMUEhtMXBqWTZQYmJscHlJdGRkU2toRzdla0dUdUt4V09oV2NPbzZjWDNod1gzNDB2cDA0Z2FDbnFjbzlyVEt6SUx2bWhNdUpJRURITF9EMnl0LXJpTWEyZWoyejlGRWV0Mld2MFBnT05WdWRKLUJaUXZPTVZaZg?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "AM Best Downgrades Credit Outlook for Courtesy Insurance, part of JM Family - Insurance Journal",
-      "summary": "AM Best Downgrades Credit Outlook for Courtesy Insurance, part of JM Family&nbsp;&nbsp;Insurance Journal",
-      "source": "Insurance Journal",
-      "published": "Fri, 20 Nov 2026",
-      "published_iso": "2026-11-20T16:21:08",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UczhCZ3NBbTR1S0FVZE10bmlILWNtaFJSbEJWTjZaNV9zZm9ZYW9aVE8wTDBteXZ0ay16X0tWeHpRbXlmWlI2TS1KdXI2T2Y0d0dtdGVPVVlMdzZBMDVrcGhVTmJDalREVVZoQ0JvSWVNc2M3aDkyXw?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "Ken Garff Automotive Announces Conference Call for Noteholders to Discuss Q3 2026 Financial Results - EIN Presswire",
-      "summary": "Ken Garff Automotive Announces Conference Call for Noteholders to Discuss Q3 2026 Financial Results&nbsp;&nbsp;EIN Presswire",
-      "source": "EIN Presswire",
-      "published": "Fri, 20 Nov 2026",
-      "published_iso": "2026-11-20T15:20:00",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRld3WmNqeWVVREczdVcyODdqb2lQSjJzX0RCQjhkYngzcHJxX2RqSGdneGhkU3Y0Y0dmLV95ZTJTN2hRY0ZvYU5GdU1Uemx0RHFfeFlpb1Z5eWszazRFRXZGNHZRSzhVNWtoZXE3dmRHUXFnQWZLcWE5Z0w2NnFDNWRsTWhVUUo3QUdJT3ZPNXlEZEN5YTdzSlRQVktNT3dUdUdrdlpfQjRQLUFkaFo3SlFkSjVHOC1BS1pMSUEyY3VScmxEOVpOdDBiTm9LYmJKZVJ0SHB4YUltc0hSN2Zz?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏢 Dealerships & Retail Auto",
-      "title": "NIADA Backed FCRA Reform Bill Introduced in Senate – Dashboard by NIADA - National Independent Automobile Dealers Association",
-      "summary": "NIADA Backed FCRA Reform Bill Introduced in Senate – Dashboard by NIADA&nbsp;&nbsp;National Independent Automobile Dealers Association",
-      "source": "National Independent Automobile Dealers Association",
-      "published": "Fri, 20 Nov 2026",
-      "published_iso": "2026-11-20T15:14:45",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaEhwOGozT3p3TUk5dkdEV2JzQ2xReXRsMXpxUUkwcWNNYXh3R1dtUk95RGVHalQ5MTJWaUFJZVhpaF83a1FKZFlRWVUxNU42dVA1Vm53amh1Z21rc0dVd0F5VlNySExGb0tCX3pVS0puSnBkM25LWHRxQ1JmdHZNVVl4WWlqdw?oc=5",
-      "coverage": 1,
-      "also": []
+      "category": "🔨 Auctions & Remarketing",
+      "title": "Manheim Index Holds Flat in Mid-November as Year-Over-Year Gain Narrows to 0.7% - Autobody News",
+      "summary": "Manheim Index Holds Flat in Mid-November as Year-Over-Year Gain Narrows to 0.7%&nbsp;&nbsp;Autobody News",
+      "source": "Autobody News",
+      "published": "Tue, 24 Nov 2026",
+      "published_iso": "2026-11-24T22:57:55",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTZ3WDNyWWxjTTF2ekw1bE9lR0ZHSXhnRFMzU1ZkeUZOVE5yMFpvYVZiTjZuRGZsWXQ3S3paWFVNTU1VTUcwMUhid0oyS1RWdEF0eW9hQXlVNlNZMU5tUnZnTi11d29zZGpldkVqZzRsTnkwZjczUjA4cDYtbzRVX0tLajhldEw1Q0Z2UnpYRko2eUhUcGtTVFdIZnM1cHRKNTR5UzBEMUVBX0hUYnU4cnZR?oc=5",
+      "coverage": 2,
+      "also": [
+        {
+          "source": "https://streamlinefeed.co.ke/",
+          "title": "Manheim used-car index holds as new prices hit record - https://streamlinefeed.co.ke/",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnE5LUc3RDhVS0xQd19VTGIyQ3djNWlXUDgwSFdLdzVQMTNsbzUtM09xSjU0NU9iT19UWlFRWW9zRUdVRm1BbnE4TUtCSk12X0pqY2l1bXVUd3llLV9HRWNFclE4YWRhLS13MzNxNG14MGFERVNYYkRNQzVhWk9yS2RRb3hPTjNkb19BM1VrOW0?oc=5",
+          "published_iso": "2026-11-21T12:54:34"
+        }
+      ]
     },
     {
       "category": "🔨 Auctions & Remarketing",
-      "title": "Saratoga Springs Car Detailing Shop Upstate Auto Detailing Logs Ceramic Coating Work to CARFAX Vehicle History - The Des Moines Register",
-      "summary": "Saratoga Springs Car Detailing Shop Upstate Auto Detailing Logs Ceramic Coating Work to CARFAX Vehicle History&nbsp;&nbsp;The Des Moines Register",
-      "source": "The Des Moines Register",
-      "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T13:46:04",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNT0RZM3VXY21Id0RockI3VHY4Ty1rUVF4ajFYNklFeHBUdm5EUG1qWkFtalNuQWlfN2lkVWh3Zmx6UEs4bXNoc3piWkJ0ODJ1aHNyS09QVnU4QTRXM2FuZFNSWkk4cVJvLWI4V2lwaEZaU2RZWnVhZmR1VUo2ZkR3ZHl1aXl4UnozaHJuc24zdDBIMTA2MTdmNUk3VDFQeDc4UVk5R0RyYjEyY2RhWndZNFAxUDNhNHdka1RoTXVjNmFPNlBUZl9fcDdnSExET1hfMlM4eTRoeTJhd1RydWRUdzRvcTFHSEJlTzhSekFBWUVVUmN2WEktLUQ0VWgtajBkTEE?oc=5",
+      "title": "More Than an Auction: A Look Inside Manheim New Jersey - Automotive Fleet",
+      "summary": "More Than an Auction: A Look Inside Manheim New Jersey&nbsp;&nbsp;Automotive Fleet",
+      "source": "Automotive Fleet",
+      "published": "Tue, 24 Nov 2026",
+      "published_iso": "2026-11-24T21:03:01",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmY2enV2TjJUcElPQ2UyWG1VYmZOT1pXYVdlWW80VXJBQ3lPbWhEb2pnNEJOa21zT0hxZHA5UGx4eU9wTjdkcmNjTmxuSFFKNFR6OFZCeHJ3QVJya3dLUERxbnhOZFFEcUs3eG9PNW9XeE1lUzNXcGFTeFdIUU9yb2dkeFVDTjZPN3ZjME1QaWZWTUZ0Qlp6NDFCc0tEYVFxcFVxLQ?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -505,27 +541,8 @@
       "published": "Tue, 24 Nov 2026",
       "published_iso": "2026-11-24T10:00:02",
       "link": "https://www.autoremarketing.com/ar/wholesale/americas-group-expansion-continues-with-purchase-of-cny-auto-auction/",
-      "coverage": 4,
-      "also": [
-        {
-          "source": "PR Newswire",
-          "title": "America's Group Enters Equipment Remarketing with Acquisitions of J. Stout Auctions and Sales Auction Company - PR Newswire",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcXNqU0JIZUhNWlNLQnk1NUc2TFBqUlFwMVk3b2VqdWxROGhvajFzTENGSmpfTDBKYlJJcENlRWF3clE0ZWZ6dzVOb0NMLWZQc21iaXg0QXBXMjRCajJNU2VkQ05LWW1qMjZlX3ZCYjduN0I4Y29rUjV4bUhkX21GXzhIdzlsMmxjanJzX3pmRmVrbDZFZUhWMDczS3FsemRURnpKYkNoMDYzVkdrcUk4QmlWWVJ4WURkTGNpckFYNEtFMEN2RmhoZmFZdDZ0QnNEYWFjQ2s2TXVxX3BSM3lvN2JWd0x0dVh4UkhlNm9hV0tJa29Dd3c?oc=5",
-          "published_iso": "2026-11-19T15:00:00"
-        },
-        {
-          "source": "Dealroom",
-          "title": "America's Group buys two auction firms to enter equipment remarketing - Dealroom",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTWY0MGRkWDZlaXplQ2ZNY3pxLVJsUHdHWnotOWdjMFFLYnoySnJwRGtiSTZnREZGMDNQSl9YZGpoTml3ZzAxd1hTMkduTmJpQVVKTjFFbDktV0owX0FvT2lqTU9hUnRNbG5CaHJ1MTBHUXFjenNBMW9xcmR0NjZlMnZEWU5OdG5vTy1rRW5IazVZV05vcHNQUHQyOXJyQ2RTVF9IN1F3?oc=5",
-          "published_iso": "2026-11-19T18:52:48"
-        },
-        {
-          "source": "Equipment Finance News",
-          "title": "America’s Group establishes equipment auction division with 2 acquisitions - Equipment Finance News",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmxJTFBxWmRFeDU3MEthQ2N3REdmbGxNMWY0UkEtWnJldzhXRnc3Q1FKY01BT3JyN0xqcnNtR0ZsVElxQUhiaFVZVWxzMC1DNDBJNnZXMHIxZnFKakN1YVk4bTdqWHltcWt5eldxMDRwWVROSDdGNFBqRlJmQVpGLTA4OEFMWkRNMDVMSE53SHhxMFI2eE1xM1VBTXFzNzl0UmxidkJ4Wkd3MUVneVN3Z0kwVWRkM2xuZkFYUlNwX1F3d09Ia09kai1R?oc=5",
-          "published_iso": "2026-11-19T23:49:46"
-        }
-      ]
+      "coverage": 1,
+      "also": []
     },
     {
       "category": "🔨 Auctions & Remarketing",
@@ -551,81 +568,14 @@
     },
     {
       "category": "🔨 Auctions & Remarketing",
-      "title": "Wholesale Used-Vehicle Values Rise 2% Year Over Year in October – Dashboard by NIADA - National Independent Automobile Dealers Association",
-      "summary": "Wholesale Used-Vehicle Values Rise 2% Year Over Year in October – Dashboard by NIADA&nbsp;&nbsp;National Independent Automobile Dealers Association",
-      "source": "National Independent Automobile Dealers Association",
-      "published": "Wed, 18 Nov 2026",
-      "published_iso": "2026-11-18T18:16:12",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTXJ2Vm9KN2xqeWx6c0w3V0tkNFg4TGtaNVViazJZWGk2dmtfcTltc1dwQXduZWE5SXlTMGhkMVdyMWFncDFwS1FUbTdHbXJsNDVpYjZiYS14dXRJVEkyVkJNaVlOYUthTnEzbExWV19QWmlLS0Q1TDJER2dMXzNFT1pkQm4yeW5vNm55RkpiZnJpVy1SaHc?oc=5",
-      "coverage": 6,
-      "also": [
-        {
-          "source": "Cox Automotive Inc.",
-          "title": "Manheim Used Vehicle Value Index: Mid-November 2026 Trends - Cox Automotive Inc.",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSk5kWUFtdndGMFFzdHdmZFN4Ri1sX3ZuejF5bzJwY3FxZkxyZ2NySkdwWmI2cFNfaHhfNV9TS2FQZHRXZGVCZ1F5UkR3NFlxZ0RDSGRheDlaVTZKMkFBNy1CYktJand0dHlVYlFRek5EamdqZUJyR2R0TWZ1cndMUHMxRnFrYlRxcTBBN1lOeHY5dWxKZHhYQ0l3?oc=5",
-          "published_iso": "2026-11-18T14:03:42"
-        },
-        {
-          "source": "CBT News",
-          "title": "Wholesale used vehicle prices hold steady mid-November - CBT News",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IaVVzdklvamJJZDlpcHNjNEduU0k0NDVDMzhRb05remFBZzdYNzVuRkdMZ1BieW9HYVlhV3N0cENTN05lLXdLamN6TlpYM0w5MkNKTlZpdGo0bTFvZmZGcUtvbmR6bVZjQ3pfdnVrZjdFdHhnRGVGWGJSeV9mM1E?oc=5",
-          "published_iso": "2026-11-19T11:00:04"
-        },
-        {
-          "source": "Canadian Auto Dealer",
-          "title": "U.S. wholesale prices hold steady in November - Canadian Auto Dealer",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2JJaVBXYXRTUE5zWTkxOHE0YUtIa1pUak9vZ0g5cGtGWVU4dVc3UGxvRDFMLXBrb3oxWU5saFJ3OTJaZndyMjdQZ0pHb3AwclhvVzZSQ1oyX1YwMW5za1dFR2hMcjJBTkN3MnNEWjNHMEszdlYydC1ESmJoc1N3Vi13SV9pTnN6MHJJ?oc=5",
-          "published_iso": "2026-11-20T14:15:28"
-        },
-        {
-          "source": "https://streamlinefeed.co.ke/",
-          "title": "Manheim used-car index holds as new prices hit record - https://streamlinefeed.co.ke/",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnE5LUc3RDhVS0xQd19VTGIyQ3djNWlXUDgwSFdLdzVQMTNsbzUtM09xSjU0NU9iT19UWlFRWW9zRUdVRm1BbnE4TUtCSk12X0pqY2l1bXVUd3llLV9HRWNFclE4YWRhLS13MzNxNG14MGFERVNYYkRNQzVhWk9yS2RRb3hPTjNkb19BM1VrOW0?oc=5",
-          "published_iso": "2026-11-21T12:54:34"
-        },
-        {
-          "source": "Autobody News",
-          "title": "Manheim Index Holds Flat in Mid-November as Year-Over-Year Gain Narrows to 0.7% - Autobody News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTZ3WDNyWWxjTTF2ekw1bE9lR0ZHSXhnRFMzU1ZkeUZOVE5yMFpvYVZiTjZuRGZsWXQ3S3paWFVNTU1VTUcwMUhid0oyS1RWdEF0eW9hQXlVNlNZMU5tUnZnTi11d29zZGpldkVqZzRsTnkwZjczUjA4cDYtbzRVX0tLajhldEw1Q0Z2UnpYRko2eUhUcGtTVFdIZnM1cHRKNTR5UzBEMUVBX0hUYnU4cnZR?oc=5",
-          "published_iso": "2026-11-24T22:57:55"
-        }
-      ]
-    },
-    {
-      "category": "🏦 Lenders & Credit",
-      "title": "After exercising options at $2.47 a share, Noel Jackson sold 2,500 Consumer Portfolio Services (CPSS) shares. - Stock Titan",
-      "summary": "After exercising options at $2.47 a share, Noel Jackson sold 2,500 Consumer Portfolio Services (CPSS) shares.&nbsp;&nbsp;Stock Titan",
-      "source": "Stock Titan",
-      "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T02:06:00",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTFBscXBaemhEQjNUenVjZUJDOFFCWUdLc0JzRnpDaTJSY2VtSVpqVGpoUHAyd092WnBXckhVYkJ3VlE0VEpmRUJNbERScG1zSk8zMUVvZElqNlNXRTBDYy1PcjdaN1BDUTM5MFVmT3pqZ0NYSl9BNF8wSGZjZW9QTmRyaGJxX0tndHRBc0gyT0N5b28wblN6eDc2M3VhX3l3TW05dE5LbkdDT1VwR1NnXzB4dndOWjFZb1YzeS1jR0xnTkE?oc=5",
+      "title": "U.S. wholesale prices hold steady in November - Canadian Auto Dealer",
+      "summary": "U.S. wholesale prices hold steady in November&nbsp;&nbsp;Canadian Auto Dealer",
+      "source": "Canadian Auto Dealer",
+      "published": "Fri, 20 Nov 2026",
+      "published_iso": "2026-11-20T14:15:28",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY2JJaVBXYXRTUE5zWTkxOHE0YUtIa1pUak9vZ0g5cGtGWVU4dVc3UGxvRDFMLXBrb3oxWU5saFJ3OTJaZndyMjdQZ0pHb3AwclhvVzZSQ1oyX1YwMW5za1dFR2hMcjJBTkN3MnNEWjNHMEszdlYydC1ESmJoc1N3Vi13SV9pTnN6MHJJ?oc=5",
       "coverage": 1,
-      "also": [
-        {
-          "source": "Stock Titan",
-          "title": "Daniel S. Wood sold 3,973 Consumer Portfolio Services (CPSS) shares in nine trades. - Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbi1tYXhhakNpYU9OSDBDcjN5VVh5VlNsdzBjdFN5dnA5cmZRbmRnelRSS2RxRkphbld4S3VMUExsYlNfYUtLZEJOUnhUblQyazdqMU03bURRamdXZ3RDa3IxTXp2cTZ4VHpSUzZaRHpPZzlLTlpsTE00Ml9BT0R4Z1MzYnlLaG50czM2RWdkT25peE9uMnQ5QzBlTmJZMmtDRW1JTXpKRnRSV21FT19nTlJGVFZjNW9iNC1PTVA2TE92ZTQ?oc=5",
-          "published_iso": "2026-11-20T00:44:00"
-        }
-      ]
-    },
-    {
-      "category": "🏦 Lenders & Credit",
-      "title": "Ford Credit Auto Lease Trust 2026-C wins Fitch final ratings on auto lease-backed notes - Traders Union",
-      "summary": "Ford Credit Auto Lease Trust 2026-C wins Fitch final ratings on auto lease-backed notes&nbsp;&nbsp;Traders Union",
-      "source": "Traders Union",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T22:25:46",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU1JVnI5eklmNHdxMFYtQnpfVm1LZzNiZlRaU3pwT3ZLbEFfWThUVHFCMDl4QU4tT1VmSV9tYnZQZlFBWHlxUDVIcHpJTVgzR1hpVG40SU9VQlRiYkRaeXZxRnJQX2xfNVNZWHFwc291Um9zTEdrZVVKSDRDMC1YU0haSkVWU1JLSG9Sci1jTldUZw?oc=5",
-      "coverage": 2,
-      "also": [
-        {
-          "source": "Investing.com Canada",
-          "title": "Form 8K Ford Credit Auto Lease Trust 2026-C For: 24 November - Investing.com Canada",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeDJ3QUcxSmdpUVpsTUE1dW5qdHAtTEd0VlVtdXBENGMwcUVrUk5mV245NEpXRVlOM19QcWpZYlFBV1dwUVgzTHlVdWY4QzFKOVRFUXZTZmFrcXJmenJSQkFDSXhnX0p6aVJiSnZGdTVJWGloX0d3cXJLa2YyY2s4MlF6bTZtN0o0RGJrRzdMWmtqOWpIazNNSlFITlFEUThXNlhmQ1VUYTQ3Yzc1cmdiaEtjWm1mUkh6NE5R?oc=5",
-          "published_iso": "2026-11-24T16:27:21"
-        }
-      ]
+      "also": []
     },
     {
       "category": "🏦 Lenders & Credit",
@@ -638,45 +588,12 @@
       "coverage": 2,
       "also": [
         {
-          "source": "GlobeNewswire",
-          "title": "Credit Acceptance Announces Completion of $800.0 Million Asset-Backed Financing - GlobeNewswire",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTjRMdUs3WWdJTnVrY0t4b0pqUjZVY2RqQmt5dDJwdm5JZzVRWjExWnRpZ2dId010alVXSTVrb2hVUC1zZHlrYU95TllQd2RvZTk4WURKbnpkaFU3Yjh3S3cxdDNfVy1fd1VKWU1HT3BzcmNjU3ZTOU15UkxPM1ZST0dYSXZzZU9DY1RHbzkwX2I4Qm03QnF1Q29vMXVqZklGVWVUVjNlRl9MWi1tNU1qeHpsRUpCcnhrNjhUVlM0ZlAyZHJ2WXNaaW1QT1RMRVRka1I4RUppTGlid05tbVFwWjhJYkJQX3pm?oc=5",
+          "source": "Yahoo Finance",
+          "title": "Credit Acceptance Announces Completion of $800.0 Million Asset-Backed Financing - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX1ZlOXJPUktUbzBmQVJHaFlnaEZsV2J2MmxxUmNvOXRDSEc5WUNuNWdpVFdnRTRQR1JWd3A1eWkwYk5DMWZ5RDhQa25nenVaSU4wdDBvMlhOdU1udG82NEpqcXZmcXhIaFpmX3IxUG1SVTd2Y2xsb3hJd0JzMU9FWmtjYlI4R3d5dmEzakJZMG1YYjRSWnpnc3h1X1MzNWxNc3ZzaHpqc2NLOWM?oc=5",
           "published_iso": "2026-11-24T21:02:00"
         }
       ]
-    },
-    {
-      "category": "🏦 Lenders & Credit",
-      "title": "Repayment capacity must guide vehicle financing - The Daily Star",
-      "summary": "Repayment capacity must guide vehicle financing&nbsp;&nbsp;The Daily Star",
-      "source": "The Daily Star",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T18:17:58",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGs2T2U2MUF5WFpVbFRHeEVLbEw0cGtCZGhSUTJsWVl6X0Q3RzExcmhRZktrZVJsdkxncmttUVF3UTluNHpzWm9NelVBOFVDcHRUOUlKU1NGUXJobFNSbGwyQVNfVVI1cFZuc2VhQnh1UWF0TWdRUjJ5VjJnelpILWpMb3VIckJ5OHRYNklGVmZJQ3VJMjgwQ2k2NlBDTnZXa1hPaFBYOFFMa1d6ck1QbmxJVkE3dk5jaWc?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏦 Lenders & Credit",
-      "title": "Ally Financial to present at the Goldman Sachs US Financials Conference - PR Newswire",
-      "summary": "Ally Financial to present at the Goldman Sachs US Financials Conference&nbsp;&nbsp;PR Newswire",
-      "source": "PR Newswire",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T15:00:00",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemdjVUdvMzk3eDhXMHRXWnJqTVZBZjlhZDRwcmswbG1oSEN1cndXcHZfT3RkZ1pGM1FfLWhtejZLT2VsWHIyMEl3TlRrRndkR2czbFU4SDNwTHBYM2laaVJnNHhwZUdvU2pEMERySENtVERMak40WTVicFlyU1JvaXJHd3JwbVRNNmJ5QWs5WnpDRXdkOTlfYldYVkYycGN4UU5HZkJwa3dab2dtd3Brb1lfSmljQTBKRUFpcjRUMldCUkZFU3c?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "🏦 Lenders & Credit",
-      "title": "Mercedes-Benz Financial Performance 2026: Profitability Under Pressure Despite Strong EV Growth - Autopunditz",
-      "summary": "Mercedes-Benz Financial Performance 2026: Profitability Under Pressure Despite Strong EV Growth&nbsp;&nbsp;Autopunditz",
-      "source": "Autopunditz",
-      "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T21:50:34",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wXzV5Y2JnUlAteWY0SlhzZms3dTQ5X1h6SXRsRmFYczk3cW5VWWk2TkdHTnBPUHBwOHNFTDBQdTh5ZzBRNGZzdzA3cFVWemtsd3RaZi0tR3U4TEVsWmc5T1BONkpsMjM3VVZYMjJjZ1V0UGVScllZMGxvNlk?oc=5",
-      "coverage": 1,
-      "also": []
     },
     {
       "category": "🏦 Lenders & Credit",
@@ -691,34 +608,34 @@
     },
     {
       "category": "🏦 Lenders & Credit",
-      "title": "US auto loan customer satisfaction declines among financially healthy borrowers, JD Power finds - Beinsure",
-      "summary": "US auto loan customer satisfaction declines among financially healthy borrowers, JD Power finds&nbsp;&nbsp;Beinsure",
-      "source": "Beinsure",
-      "published": "Sat, 21 Nov 2026",
-      "published_iso": "2026-11-21T12:48:34",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjcxbzhYWG95S3RSN3ROd2l2bG1MZWR1QXNCTG9YRllfWDRIOGU2RjhKNVdieXlGZk9mX290WDR5eW1ZWTBDSXhmUzlsZ2Q1N0g5UEdZeFk0ekcxd0hGTVNHVWdVd1h1aEJ0T3BNbU1fSzRDOEhGQUpCdXFESThiTklBMU85T1Uxa05KRXI3LTJ3Y0N5RWRMNzdfNVhhemRhcy1LR2VZeVBDSHRubmgxOEN5dFR0NVJ6X1poazB3?oc=5",
+      "title": "Thanksgiving car buying tips with Navy Federal Credit Union - Task & Purpose",
+      "summary": "Thanksgiving car buying tips with Navy Federal Credit Union&nbsp;&nbsp;Task & Purpose",
+      "source": "Task & Purpose",
+      "published": "Mon, 23 Nov 2026",
+      "published_iso": "2026-11-23T19:46:51",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWhkejBMai1CMl9zM1hkTWdDVkpRRVhtWV9TVDF0R3plc2loeTdQMkVKZmZaMXRMRnV4b1pvY1cySWNYNTRkZ3NGNEZrQUs1V19WXzRrQ1VhXzhDT0JJMnkyVkVHWjM0Vnd1aUctWGo3RkhGWGFrZ3JnUjR2YU1KOVJIMUM4djJYUjJ5a1pWSlZYSkV0MWV2RkJXYTYyVjhYQTVLNDQ0SmU?oc=5",
       "coverage": 1,
       "also": []
     },
     {
-      "category": "🏦 Lenders & Credit",
-      "title": "Ally Financial Bets on Loan Growth to Boost Returns as Lease Losses Mount - TradingView",
-      "summary": "Ally Financial Bets on Loan Growth to Boost Returns as Lease Losses Mount&nbsp;&nbsp;TradingView",
-      "source": "TradingView",
-      "published": "Fri, 20 Nov 2026",
-      "published_iso": "2026-11-20T11:12:12",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVTkzd1pBelkxTFVOYTJmT2pwMDlhMERmRlhKMG1QTm1xUEVya1JLZEk5U0RsMkxTajJIZlBIVFU4WnAtdnBIX1g5a2pvSHhLbHdLSWd3RFA5bEZYYXBmX2NCNkxyazJVdmlTdHc2djQyUnRwdEVoM3hsczdNX0didVhYRUlCbzFBUVBqRDNTNGljZE9EeHlMMUVsZGxxeFpjeDFaZnhDN1NRSmtlZGZOVEZDZEVSUk95WnFRR0EwMnVGdDBqbVM4RUJzVEljdVE?oc=5",
+      "category": "🏛️ Fed Data & Economic Releases",
+      "title": "New Fed Data Reveals the Typical Net Worth of Americans Ages 65 to 74. How Do You Compare? - Investopedia",
+      "summary": "New Fed Data Reveals the Typical Net Worth of Americans Ages 65 to 74. How Do You Compare?&nbsp;&nbsp;Investopedia",
+      "source": "Investopedia",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T14:41:35",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa2dFVmd4LXBYZW5GajRqZVNBRFloWHdsTURENWRFRXlGQ0dlaXk0TlFIbS1pclZwVXY5aVFyWXh1VmlLRXF6emgwR05jQTh6aHk2Nzd3eHNNUkd0SjBpZ1lOMUs2M3ZHc1JreGZTZm9PeEc1LVVJaVNvYmhSZWdfdG1vbDd5aVpUUUJrcHNVa3Z2d1pHenhSSGRTNjJzT0JaSHVOdjNYRXEyYVg1enRIRDZhYXp2dXpkR1JsTGVXX2NaLVZN?oc=5",
       "coverage": 1,
       "also": []
     },
     {
-      "category": "🏦 Lenders & Credit",
-      "title": "Edmunds warns car buyers about record-high auto loan costs - WOWO",
-      "summary": "Edmunds warns car buyers about record-high auto loan costs&nbsp;&nbsp;WOWO",
-      "source": "WOWO",
-      "published": "Wed, 18 Nov 2026",
-      "published_iso": "2026-11-18T17:57:16",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbHYyelZKUVA5UDRxajVWQWJKSEhWdFg4QldSamdSMm83VjJqZWpLWjBpcUVkU1lqVXZyTno0YS1XS0ZTaFJ0Q3MzYVE3dW9QVll4LTF5VzVaRUdmYmxIU0tOLXJISi1WX19FOEpkUDBCRklnTlpNbkxLeVdXMENFRHBn?oc=5",
+      "category": "🏛️ Fed Data & Economic Releases",
+      "title": "China household debt contraction deepens as consumer borrowing joins mortgage decline - Traders Union",
+      "summary": "China household debt contraction deepens as consumer borrowing joins mortgage decline&nbsp;&nbsp;Traders Union",
+      "source": "Traders Union",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T05:10:27",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODdnN0s2RWp0c1pveTE0cEVyLW5XOGNfU1JmUXVyZFNUcmhsQ0lhMkNMWjFiYXMxY0ttXzFsbFg1SkdUT2VaNVNZWWxCX2Y3emdHaHJQb0d1c2dSdGxnT29IUjNHdnN6SWVTVEY0XzVhQi12UEhDYThCaFJySEc3dWJIbGdkaDlVQjQxWEFJUmJLU0lDc1RpWllLX25vc2dub3JIUmNRT2Q?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -735,34 +652,45 @@
     },
     {
       "category": "🏛️ Fed Data & Economic Releases",
-      "title": "Mortgage delinquency rate up 31% in third quarter: Equifax report - CBC",
-      "summary": "Mortgage delinquency rate up 31% in third quarter: Equifax report&nbsp;&nbsp;CBC",
-      "source": "CBC",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T14:13:47",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwbS1ySlNmSFZsNkllVHEtR1ppcnBfUmpVWnZiaUUxbUhwekl4LWJfZUtqY1pGTlBIaVNQcDVkLVhyaFAtbjhLNDk4WUx4NWdTdFpSN2VXbU5FcmliUDhHS2QxUDNZQ2E5NXVIM2VleW4?oc=5",
+      "title": "Gold Trades Near 15-Month Low as Federal Reserve Rate Hike Expectations Weigh on Prices - Yahoo Finance",
+      "summary": "Gold Trades Near 15-Month Low as Federal Reserve Rate Hike Expectations Weigh on Prices&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T09:58:15",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHdZdzk1ek1WVXB1SDBtU0NhS3JsT3prcVdiTTRaWnh5NmRNSXQydHZfQkpXT0dVWDFXSmV5RGRNQ0VoZGhIaEozeHFacDlYNDBtem5pLWY1R29tMDNhV3JibE9VSlFLUUI2UUp5VExkYm1UM0FDM1BIbjRuNUdOZ1hHbWxoSFR6aVRGbEFIQXZWMXVSQktyUnlqNA?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🏛️ Fed Data & Economic Releases",
-      "title": "CFA Co-Leads Letter to Federal Reserve Regarding Chime Financial's Application to Buy Central Services Corporation - Consumer Federation of America",
-      "summary": "CFA Co-Leads Letter to Federal Reserve Regarding Chime Financial's Application to Buy Central Services Corporation&nbsp;&nbsp;Consumer Federation of America",
-      "source": "Consumer Federation of America",
-      "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T15:51:17",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVktmZThTOUlCcGxXY3dZbDExNnZ0VVZRaXJtc01Pb0g1RFMzODRxVk5BbnpTN2VvWUNtYWhGWGZPZGh6Y3hoM0JwT052VXhaSTJDcG1hZndpT0QxclhSaFRHX0hhQzFGcm1DcnFia1JUZjctRndwS3VkNDVvdk8wcXNBZ1NmSFlVcGxxNXRjNzBDYlpNbGl6dm5IdnVhbmEtZm5HOWFNTF9DUWlNZktVbWZFM0tPa0U4REZwWC1oc1BGdzNTbHEtZHh4clpyUUtSZEprcGtERVhuS3dMZHZBQ05jY0FsQzdNdFJlY245RzR6Njh2?oc=5",
+      "title": "The Federal Reserve Will Raise Rates. The Data Say It Shouldn't - RealClearMarkets",
+      "summary": "The Federal Reserve Will Raise Rates. The Data Say It Shouldn't&nbsp;&nbsp;RealClearMarkets",
+      "source": "RealClearMarkets",
+      "published": "Tue, 24 Nov 2026",
+      "published_iso": "2026-11-24T06:33:02",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcjZTOHFxV0oyQTFxblJpWGdiZjA4aldVbkFudnZZcFJXcThBZC0yWUlFdlYtYzRKS2dOMmJZWnVya2haNkE2aTRtTk5CYXBCa0ZUZUc5NlRuMXZTNVpCR2R6X3JVM2xkQVRWa1cycEZrUlBWV3JnY2RYS25YSGE4Y01KSDNINmtjMVNOXzZmXzVzeDlDQXVITnNfeEctOVNXVS1jcW82dkV4RjJsclJmYnhTTTJ0TVBTQjlmQ2xKVXJGUXN1V3c?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "📈 Investors, M&A & Lead Gen",
-      "title": "Longview Capital Acquires Two Midland States Branches - Wisevoter",
-      "summary": "Longview Capital Acquires Two Midland States Branches&nbsp;&nbsp;Wisevoter",
-      "source": "Wisevoter",
+      "title": "What Is Qualcomm (QCOM) Worth Watching In Automotive AI Right Now? - Yahoo Finance",
+      "summary": "What Is Qualcomm (QCOM) Worth Watching In Automotive AI Right Now?&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T17:10:07",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRWNvTkpWM2VtNktFeTg3RFBiUmpfYjZSVFZ6aW05bkdIZVRyTlQyZnB4ZlpUTGh3ZGRTVW1ZeEJPbFg4UVRlYmdDMDJpTnhJb04zSXNzTmVSNGRYNFlJb1NvSXM1UzQ0cjVRdXVRaXljVVRaZzhPUXhKNmsweFE3WkFGai0zUDFNZWZKaU5sUFZ5SWJzZjlYV0xVTWNiSFRfZXpVVDFR?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "📈 Investors, M&A & Lead Gen",
+      "title": "Six Years Off the IPO Track, Ant Group Became a Fintech Infrastructure Vendor - TechBullion",
+      "summary": "Six Years Off the IPO Track, Ant Group Became a Fintech Infrastructure Vendor&nbsp;&nbsp;TechBullion",
+      "source": "TechBullion",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T13:18:04",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFdXOW5KM1BEeF9NZUxvNXptejJyT3FhdENRSjFhODVELTFIOVEySXJpdmx5MHZfZXBDeV9rVENqWDBmNi1vSzUwaVZ0Q1ZsdlRDSWxCWkRSakZxdlEwaVVXc05pbzlNQ083Z2xPVC1ISmVLTnc1Q05wVjl5eFF0ZnVoRTFBUXc0bzFOdmpMNHdSR1Z0aWRRSmF5TG9aUjJQc0xaVkRB?oc=5",
+      "published_iso": "2026-11-25T14:58:28",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ244UXJ1a3ExRGJpZGJSU3dab2pHc2MtQ0FTbU1adTNxeU44VWcxdWhhYkhFaWhSZV91VGN3OGNXdU43ZEJsNmRkR3VNU0labEI0WTJqc19WY1pKc3c4SzRpcDZHS0VwRWR4cVdEWnNTSFhHUkZBbmdlbkdCTFp4eUF1dlhsZHcwOHVmZU1wMTZ2dTgtZkRPZElCYVRRT3pkTDFN?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -801,6 +729,17 @@
     },
     {
       "category": "📈 Investors, M&A & Lead Gen",
+      "title": "Lilly’s Buyout Spree Sees A New Huntington’s Disease Bet – Here’s Why Lilly Is Acquiring LoQus23 - Yahoo Finance",
+      "summary": "Lilly’s Buyout Spree Sees A New Huntington’s Disease Bet – Here’s Why Lilly Is Acquiring LoQus23&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published": "Mon, 23 Nov 2026",
+      "published_iso": "2026-11-23T12:52:03",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHRaWnpBYzdOMC10MU95TWpOQTJwWDh5Qk5XTVFiUVFJS2xwT1U0QVVicks3ZVloUzY4c0RFeDdOTUVMSVd2d29WdkktUXVYU19rc1JUcEJBOFF0QzdiTTQ4N0NfMnNqbzdHMHN0N25QLU1NRUo5Uy1TUkJuXzB4TUZybW5SZnBSb0J0UWN2UWRMUk8ydEdOblVCNA?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "📈 Investors, M&A & Lead Gen",
       "title": "Indian Startup IPO Tracker 2026 - Inc42",
       "summary": "Indian Startup IPO Tracker 2026&nbsp;&nbsp;Inc42",
       "source": "Inc42",
@@ -811,24 +750,24 @@
       "also": []
     },
     {
-      "category": "📈 Investors, M&A & Lead Gen",
-      "title": "Anthropic Raises US$81 Billion in Record AI IPO - Mexico Business News",
-      "summary": "Anthropic Raises US$81 Billion in Record AI IPO&nbsp;&nbsp;Mexico Business News",
-      "source": "Mexico Business News",
-      "published": "Thu, 19 Nov 2026",
-      "published_iso": "2026-11-19T22:04:02",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGVkQ1QxMEdtOGhJUXhzMmZtUERJTE0tRTVrLVlrTmVkX0I0LURHSkdQeS1TVnZLb3ZJazhIOUJCTGV3bkFaQ1FyUXloSmhSQ0tKeEpGaEJZZ0hudjVITEhoalFteWI0Skx0cDBfdkV3bllHSXVuVURjUENsZkVXeGk5M2VxM2hva1ZraV9yUTNfYW8?oc=5",
+      "category": "📣 Digital Marketing & Consumer Platforms",
+      "title": "Company Behind Property24 and AutoTrader Makes R9.8 Billion as AI Push Pays Off - Business explainer",
+      "summary": "Company Behind Property24 and AutoTrader Makes R9.8 Billion as AI Push Pays Off&nbsp;&nbsp;Business explainer",
+      "source": "Business explainer",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T21:13:51",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX2NoX3pOQ3c4UTdhUEJOSGRKbHFDWHVkaEJTcHVldzl6aUtQNmhFX19CNGlpNW14RVEzX0w3RXNoeUhaLWc0eThfZ0JXd3JtLXpPSW8yUldTZVg3YVdramw5ZGlyRXVlX2JhSEdWMkNENU9kbUtjU2RBTURGakUwX05fR2VSUDBBMHU0RWR4MzV6dC1ZeDYwaHZGM3JiT0dCc3ZPaC1Ub2FBQUJnNlBlSURSVFBiazRRQnRnc09ZSzhCUzB6UXVfcnVfenhDdw?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "Amazon Autos to launch in UK in 2027 with Hyundai in first expansion beyond U.S.",
-      "summary": "Amazon will bring its online car-buying marketplace to the U.K. in early 2027, its first expansion beyond the U.S., with Hyundai among the first partners.",
-      "source": "Automotive News",
+      "title": "Cox Automotive forecasts November sales at 15.8 million SAAR - CBT News",
+      "summary": "Cox Automotive forecasts November sales at 15.8 million SAAR&nbsp;&nbsp;CBT News",
+      "source": "CBT News",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T07:48:17",
-      "link": "https://www.autonews.com/retail/ane-amazon-car-sales-uk-1125/",
+      "published_iso": "2026-11-25T12:14:00",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LOFVFU0RnVUY2Vmh2M0JBUGduSTBubjdMU3BvUUFUZVdaenMwbWl1VzNXNHFzUkJOemVBQXlqcmVvNE9OQlMyTU5CNGVKZ21OeF9jenM0YW5FQnFjak5RdDR5YXA4TjVL?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -840,28 +779,6 @@
       "published": "Tue, 24 Nov 2026",
       "published_iso": "2026-11-24T22:32:17",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3NZdzZQZFdvMmZHVzVPUV94SV92bDQyLUwwcDQzWElFUXpZTEU1ODZmVV9EWjVFdWFrOU04ZVhZV0NKRzZXQUwtU3hJcjM0QkZZY3pqWkNSaFBoN3FSckJHMThsZG9DNEYzRXBHWVQ0dmxHMlo1ZmEwNFAzS0M3RHVTNEl1bzd1UDl0WjBhY0Q4ZGdraml0a0RlV3IzRTBIUW9BUUZNNUJhMGhCRWRkdk8yUHE?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "AutoTrader’s Latest AI Tools And New Car Expansion Will Change How Cars Are Sold - The Bulrushes",
-      "summary": "AutoTrader’s Latest AI Tools And New Car Expansion Will Change How Cars Are Sold&nbsp;&nbsp;The Bulrushes",
-      "source": "The Bulrushes",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T17:21:28",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVlo3cHJjVWFfUW1UdzZOSHdSSlg4czhwVnFidGpEOGxkaWwzOHE4TTZ4cEROMlRUc1ZPekNCRGlGWldvbzBQMks3bzRJTzdmZlNBZFpWVGxBMXdSMllIM3BGd2R1eVFoWGR3SmZHcUctWXdaU2ktbFNnZkdyUzloUVBfamx4bmNyLTJzdjRENmkwZ2tvMVJoVHRYVGRUaWZ6V2tWZWtNYlV4cDRmREozRnFDMG5ZWHM?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "📣 Digital Marketing & Consumer Platforms",
-      "title": "“People buy from people”: AutoTrader CEO on trust and AI in car buying - Briefly News",
-      "summary": "“People buy from people”: AutoTrader CEO on trust and AI in car buying&nbsp;&nbsp;Briefly News",
-      "source": "Briefly News",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T15:25:23",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbDV4SGYxZ2QtbnJmRHo5V2RWWjAybzV5NTlPdXRYTENwR3lNdDZoRHlwdE5raXI5bUFhNUp5UmxHT2VubEE5S1I2VlVQdFJPUGRWUEtJcUpWaFc5bEN4WjhjY0EwazBHZkE2NnFLd0VrSGJRUzUzckNRVXlkcC1sY2NaSS1DSVIxbHFDYzJpazBxWC10?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -895,15 +812,8 @@
       "published": "Mon, 23 Nov 2026",
       "published_iso": "2026-11-23T17:41:24",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kMElRY2J3NWM2X09MRkZrcDJDMUFJT2pENEwweTY2UUhwcUllOUF3U1VvRm8wSlNFbUt2WG8yUmRmeDE0NUtScnlCclhZV0xWa3pGa2l4Ml9vajk0QVVGSlN2M1RaQQ?oc=5",
-      "coverage": 2,
-      "also": [
-        {
-          "source": "Powersports Business",
-          "title": "Ekho launches AI-powered website platform for dealers - Powersports Business",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWDM4TGdJSUlIUWlkcVRRQUxNX2V5aGo1S2M0RHBXY2xQaElSOVRXVnQwVnotQW9UVE1DU3N4NW9uQ2tFWG8zYmxOaFZWcjRUd1J0NkhWVE5ubXRkVjRva2YyZ2k2bFFmbkxWU2xCSjI1RkxjQ0Ytb2NvQ29YdWVtMXZSVlhNX3VxcUFxaERXb1hJaDFSSU9YcndHckRSWUZkQU96amN0MXpJempxVjgzaDYxWHVwdHc5ZnpaUQ?oc=5",
-          "published_iso": "2026-11-25T14:28:19"
-        }
-      ]
+      "coverage": 1,
+      "also": []
     },
     {
       "category": "⚖️ Regulation, Legal & Government",
@@ -913,6 +823,28 @@
       "published": "Wed, 25 Nov 2026",
       "published_iso": "2026-11-25T13:58:51",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzRhWEtPa2ZyUjRDSWtrV0hVVVowQkVHTFZrVDZfUTNXQ011Ylg0djdXRE02S29LMXVUOGIzT2FmdjY2ejlNbWMwNTd1OEJUVGV0aXltZk1GVVYxZWdaaVZ0OV9SRjI1dTd0NDZXd2ZQa2ZFa2lNU2d4bU00YWJtQUhlNUdPRTFRTGd4VkdTUEFqYlR6cHg4RWxyblpwXzRzY20zV1Fka0N6RHhqODVSZmp1X1JyZldC?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "⚖️ Regulation, Legal & Government",
+      "title": "Agencies Announce Dollar Thresholds for Smaller Loan Exemption from Appraisal Requirements for Higher-priced Mortgage Loans",
+      "summary": "The CFPB, FRB, and OCC are announcing that the 2027 threshold for higher-priced mortgage loans that are subject to special appraisal requirements will increase from $34,200 to $35,500.",
+      "source": "Newsroom | Consumer Financial Protection Bureau",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T05:00:00",
+      "link": "https://www.consumerfinance.gov/about-us/newsroom/agencies-announce-dollar-thresholds-for-smaller-loan-exemption-from-appraisal-requirements-for-higher-priced-mortgage-loans/",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "⚖️ Regulation, Legal & Government",
+      "title": "Agencies Announce Dollar Thresholds for Applicability of Truth in Lending and Consumer Leasing Rules for Consumer Credit and Lease Transactions",
+      "summary": "Click to read full story.",
+      "source": "Newsroom | Consumer Financial Protection Bureau",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T05:00:00",
+      "link": "https://www.consumerfinance.gov/about-us/newsroom/agencies-announce-dollar-thresholds-for-applicability-of-truth-in-lending-and-consumer-leasing-rules-for-consumer-credit-and-lease-transactions/",
       "coverage": 1,
       "also": []
     },
@@ -929,36 +861,32 @@
     },
     {
       "category": "⚖️ Regulation, Legal & Government",
-      "title": "Hill, Waters Schedule December Hearings on Regulators and the CFPB - ACA International",
-      "summary": "Hill, Waters Schedule December Hearings on Regulators and the CFPB&nbsp;&nbsp;ACA International",
-      "source": "ACA International",
+      "title": "Consumer Financial Protection Bureau: Federal Lobbying Agency Profile - OpenSecrets",
+      "summary": "Consumer Financial Protection Bureau: Federal Lobbying Agency Profile&nbsp;&nbsp;OpenSecrets",
+      "source": "OpenSecrets",
       "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T16:13:19",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQjJNRmliN0g2VEpwUmVoOGhXNG5Nd1pVSGxXLWVRQU1Ua29LS3cyV2hzNlcyUXFWMWNKYkJMbFlXbzhlcERsemstMmNEOEhVUkFURTRoT3RQS3FzMDlUcnNTZWJpQ1Rvbm1ramY3RF93X3A1cV9hcWZURXlnM0VCSUQ4cW4zeGE0TEF6X21HMF9Hc0tWeDV6UTY5SW9qZWNHNWhzTldIWkh2WmN2aTRsclpn?oc=5",
+      "published_iso": "2026-11-24T14:18:42",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnh5M1lHTDR6MnNCR3Y1S01iYzZlQVFndU9aQjEyNmJlT1gxWWxMY1B4THV4S09kcVBpeUVVWWtadTE2OExGelNNNXJaR1JqOUtSNE90empOQ2hCU2dDSG85SWdRNlhyREVUODdWenBXTmJyM2lEMXQ1VlpZcmpCbXc5R2VXcUhNNjdmNTFIUFRORGN2d2dmQjVYZEV3QWRvTExXWFpSUG13Zw?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "⚖️ Regulation, Legal & Government",
-      "title": "Trump’s CFPB Closed 86% of Its Open Supervisory Actions. 8 Ways to Get a Financial Error Fixed Anyway - Money Talks News",
-      "summary": "Trump’s CFPB Closed 86% of Its Open Supervisory Actions. 8 Ways to Get a Financial Error Fixed Anyway&nbsp;&nbsp;Money Talks News",
-      "source": "Money Talks News",
+      "title": "December 1st @ 2 PM : Ranking Member Maxine Waters and Committee Democrats, Hold First Hearing Following Historic Democratic Blue Tsunami to Examine Trump’s Assault on CFPB Amid Affordability Crisis - House Financial Services Committee Democrats (.gov)",
+      "summary": "December 1st @ 2 PM : Ranking Member Maxine Waters and Committee Democrats, Hold First Hearing Following Historic Democratic Blue Tsunami to Examine Trump’s Assault on CFPB Amid Affordability Crisis&nbsp;&nbsp;House Financial Services Committee Democrats (.gov)",
+      "source": "House Financial Services Committee Democrats (.gov)",
       "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T15:00:24",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTERGN09ubko0czBoWXQ4TTNSVWZvTFRhTElfVjZDd09HOGpEejVMXzlBNXJDSEhaejM5aDlBOGRfS24tUk9Yd05NcHVITmVMQUw3ZlhwcS03RUd5bnh5UjJzX3BEZld2WTUwZnFtVHBQdTc1cjFWMzVYQ2kxWEhKUXFDa1pta1U0d1VsdHlPVkFDRXhsU0NnbjFhWUlCT3lQV3FiSjNiOXBlZUFqS1NQSzJRMDl6eE5haHZlcWxac2VsYTQ?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "⚖️ Regulation, Legal & Government",
-      "title": "CFPB's Consumer Advisory Board to Hold Online Meetings on Online Scams Targeting Military & Older Americans, Affordable Mortgage Credit - Credit Union Daily",
-      "summary": "CFPB's Consumer Advisory Board to Hold Online Meetings on Online Scams Targeting Military & Older Americans, Affordable Mortgage Credit&nbsp;&nbsp;Credit Union Daily",
-      "source": "Credit Union Daily",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T10:51:05",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMHNvLVBqcG12OGhscmpzTHVFTVZSODNCRjhrMTVReW45S1lFenZKM3hnTUw1ZER3U3NFNS1nODFzandWOHRReXRpM3RISnRfSTg4SGVSeGxRWTNNNS00TnNlT0dqTUxzZ1locUtZS0Y4SjZUU0FseTh5dGxZUTI4X1RseGpFWnMyNzNYU0RscThaMXhrV2FVRzZVUklKd3VTbTFtSUVXcm5GUUpXNGpYUWFxTTgxTHVJTXprVXRYT1BzTjdOVVZtWWpaWlNmLXRsMENFTVVKRWE0bEg5Z0tkbGVxelhQTUl6R0pj?oc=5",
-      "coverage": 1,
-      "also": []
+      "published_iso": "2026-11-24T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNl9IYWZ6RThqUFZyMFdvUS1XaTRTZmp5SWJTUG9QZnJoVFAyQmVzeHZnU3AwOURvdnFqY0JfMDFVSFBTNUNXY0JnbGl0bmo0ZWpRNlp3NGY0ejdsT0Y4MlRGZElzUmZkblI4ZlprQ284RGtGYnE3a3ZUUnowX2UzYS1oZXc3Mm5WUUlxUFpXZ3dJdw?oc=5",
+      "coverage": 2,
+      "also": [
+        {
+          "source": "CUTimes",
+          "title": "CFPB to Examine Mortgage Affordability, Financial Fraud in December Meetings - CUTimes",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc0UxY0plUVlWakVqaHNSWXZhelNiZlk5UUlYLVNZNnVnSE9ZOC1yUjhZRXFvRWN6WWFBZjlmRWhZM1NxMGg1ckFocUJKQjR5RlZNXzZKYmdkaklCM2ttT1o2a04xdWd0cVJXeWFacjdHZEZHUDcyUFFKc3c1Mm8xSy1nVGphOVE2NFB4Zk92M2ZwRW00ZDAwVlN0RjgzVWdMbDB0U2dzeGRLaTA?oc=5",
+          "published_iso": "2026-11-23T20:01:43"
+        }
+      ]
     },
     {
       "category": "⚖️ Regulation, Legal & Government",
@@ -968,15 +896,19 @@
       "published": "Tue, 24 Nov 2026",
       "published_iso": "2026-11-24T05:00:00",
       "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-joins-department-of-justice-and-other-federal-partners-in-anti-scam-efforts/",
-      "coverage": 2,
-      "also": [
-        {
-          "source": "Wisevoter",
-          "title": "CFPB Joins Federal Push Against Impersonation Scams - Wisevoter",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2tacndYWEdTUC1EaDRUQW1WRVphenpNY0dyOTlxZlZPZzNhUE4xR25vbVpGY0V2eDRQSHF5ZjRuOEYwMkR3akpsMVBnVDBiNlBTUkZZY2o5ZFhac3F0WC1KU0M2RVF3bjBzemtFOEZVLWN3Z2xUeGZxOWIzZ0NBMTNib2VPUGV3amRaSm5TVU10MDU1ZkFGczEwcw?oc=5",
-          "published_iso": "2026-11-24T18:22:33"
-        }
-      ]
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "⚖️ Regulation, Legal & Government",
+      "title": "Eleventh Circuit affirms summary judgment upholding CFPB’s PACE rule - JD Supra",
+      "summary": "Eleventh Circuit affirms summary judgment upholding CFPB’s PACE rule&nbsp;&nbsp;JD Supra",
+      "source": "JD Supra",
+      "published": "Mon, 23 Nov 2026",
+      "published_iso": "2026-11-23T20:05:48",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPREUwMl9KX0kyc0RlUWJxbWlfLVVoNDI4dE1UcUxiQm83Yk5MOXVicXU4SG81N0RjX1dCbXFZN0h1RVRNMlB4RWJtelRtU0NBTTRCQnk4LTNoN1dZaWx2YWVPS3hLeUJXTWl6ZkZsQjFYZkJWWUo2d1Vzcm9sMEdzOQ?oc=5",
+      "coverage": 1,
+      "also": []
     },
     {
       "category": "⚖️ Regulation, Legal & Government",
@@ -1002,21 +934,14 @@
     },
     {
       "category": "⚖️ Regulation, Legal & Government",
-      "title": "Debt collectors that sue or threaten to sue over a debt past its state time limit violate the CFPB’s Regulation F, yet in some states a partial payment can give them back the right to sue - NewsBreak: Local News & Alerts",
-      "summary": "Debt collectors that sue or threaten to sue over a debt past its state time limit violate the CFPB’s Regulation F, yet in some states a partial payment can give them back the right to sue&nbsp;&nbsp;NewsBreak: Local News & Alerts",
-      "source": "NewsBreak: Local News & Alerts",
-      "published": "Sun, 22 Nov 2026",
-      "published_iso": "2026-11-22T18:23:40",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQSThIek5MalhfeTRtaTdndmQza2lDa0pfVTd4N0R2MHlNYXhPbUU0NWRGNktLTUlydExJME90TTVLcERKZS1ra0R0WDlnWlc5Vy01Y3RLazQzQzFkV1N1UVNLdGpJSWoxdmtHb0RsTnlYWFJiWEJHM21fVl9ZY19RR2FOd0EwUlg4MmlBX3NEaGNpY2xkTzlsVDQ1WUVBQTNUcktSVmxoTFF6VjEwZ09CZDhMY3hOOEtBbC03YUdxYkY2N1pKd3YyQTl5aXpZS2hINkpXSjFrRkhrTkRTYl9Oa1pTa3ZMQlRnQ3E0WjhkRWdzZEo4MF9KMmF5ejFNeDN4ZDhhNUdUNmk1VXV5X2V4YzBObWRMTnVDV1drc1dlMFNzVTJBR2FDTnB2X1N4Nk1wZXdGdmlUMWNHaUd1QU11VWlYSDhXa1lXVHVXaHduZ0Zac3NlbUhaSU5ldWRtSzZLTjJwUkdld2Q5bEh4LUMyRA?oc=5",
-      "coverage": 2,
-      "also": [
-        {
-          "source": "Newswire",
-          "title": "Majority of U.S. Households Carry Some Form of Debt, Federal Reserve Data Shows, One Payment Plan Notes - Newswire",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUml6V0NyVVJpaFlYdlN6Qk0zaHA1d2xBQl9SNG1ZbE5jNDJtUlhqdHlFZVpxVi1zV19iYWxsUWJDZ1hZOFhhUTRhYTFFWE1FOWJNV2paZ1o4Sk9nTGJWMW9LSmRvYWNmX1p0RER2bG44d1NxTTBsM3hFZl9xSFU3QTNNR2JhSzFnaF92WTBzQ0dma1VBaVY2bWk3YzVfRVI3YVMyVWRBeldUd28?oc=5",
-          "published_iso": "2026-11-24T16:00:00"
-        }
-      ]
+      "title": "Consumer Financial Protection Bureau: Lobbyists - OpenSecrets",
+      "summary": "Consumer Financial Protection Bureau: Lobbyists&nbsp;&nbsp;OpenSecrets",
+      "source": "OpenSecrets",
+      "published": "Mon, 23 Nov 2026",
+      "published_iso": "2026-11-23T13:05:36",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUZOcHZXVXUtU0ViYXhLT04wWHJUcjE1UlRNZUFOTk11ekFvb05qdVFyUjRPWVNNMllmNFRuU2JjRmpIRjd6XzJZUGdMVHNkZVhzX0pRdWNZbWtXbE9PYjV4aUFCZmdTQ001SGpFX1ptWVduYkNHY0x2SDA3a2lYYi03b1ZiQ3VCLXVCVC03OHJFLXNfS0VoNDNZNFNhWlpOZmd2WHRDMEF0ZEJMb0ZzYi16Y1hTbnZieHBOd2FkcmxjdnRq?oc=5",
+      "coverage": 1,
+      "also": []
     },
     {
       "category": "⚖️ Regulation, Legal & Government",
@@ -1037,24 +962,189 @@
       ]
     },
     {
-      "category": "⚖️ Regulation, Legal & Government",
-      "title": "SmartBuyerAI Gives Car Buyers an Itemized Check of Dealer Offers as FTC Steps Up Price Transparency Enforcement - Carroll County Mirror-Democrat",
-      "summary": "SmartBuyerAI Gives Car Buyers an Itemized Check of Dealer Offers as FTC Steps Up Price Transparency Enforcement&nbsp;&nbsp;Carroll County Mirror-Democrat",
-      "source": "Carroll County Mirror-Democrat",
-      "published": "Wed, 18 Nov 2026",
-      "published_iso": "2026-11-18T10:00:00",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMXZ1N2ZsT3VFWUZMNV8wMnBqZ0lJQmUtQldIVF9JQjU2TWIxUG9fbGQyU1JYOFNqZVpnZllIOG9PUU9UaGVKX25jYWN4UzA3RXZNZmJqd3hnYmw3YnRGVzF1ZHVkYS1aVWpqc2tyblBERl82YTBZY2dkR29OOTE3YVZNWE1Ra1RNdUxVVnFNNU16Y282NkRaaWN0SElmcmxCR1hmdzcyMWJDODN1YXJQWkxMYVNnQ1U?oc=5",
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Rivian Accessory Black Friday Deals 2026: Up to 30% Off Wheels, Racks and More - RivianTrackr",
+      "summary": "Rivian Accessory Black Friday Deals 2026: Up to 30% Off Wheels, Racks and More&nbsp;&nbsp;RivianTrackr",
+      "source": "RivianTrackr",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T13:00:00",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZZHN3VDYwUkJwaUVhY0UxcmQ1VG5jY3pfMkl2a1VTaml4UU5JMmo5Z29oMXd5WjBiaFhrZ1BJOENqVGZnNmtWb1ZWa2hwY1pkNm4yY2NlNkg3TEt2Nmc1ajY0TDNBSVJkcGV3Y2U0SlFHMGdxemdQeDY3TQ?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "💻 Auto Tech, EV & Innovation",
-      "title": "BYD launches first production car with foldaway steering wheel",
-      "summary": "BYD's Fangchengbao Titanium 9 plug-in hybrid features a steer-by-wire wheel that folds flat when parked, part of a push to revive sluggish domestic demand.",
+      "title": "BYD reshapes Europe strategy with move for ex-Smart factory",
+      "summary": "BYD's move to acquire a former Smart plant in France departs from its build-new approach in Europe, as EU duties and proposed hybrid quotas make local production urgent.",
+      "source": "Automotive News",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T09:49:39",
+      "link": "https://www.autonews.com/byd/ane-byd-reshaped-europe-plans-french-smart-plant-1127/",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Stellantis to pause more Europe plants as Chinese rivals advance",
+      "summary": "Stellantis will halt production at plants in France as mounting Chinese competition, high costs and weak demand weigh on CEO Antonio Filosa's turnaround efforts.",
+      "source": "Automotive News",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T07:51:27",
+      "link": "https://www.autonews.com/stellantis/ane-stellantis-further-europe-production-stoppages-1127/",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "How BYD’s Vertical Integration Is Reshaping Global Auto Operations - EIN News",
+      "summary": "How BYD’s Vertical Integration Is Reshaping Global Auto Operations&nbsp;&nbsp;EIN News",
+      "source": "EIN News",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T05:50:00",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmRZek9taXVwRHRXeGdZbE5WbUN4ZlJTWVhtTXBRT2l4SmlmWXJPU1FocXo3M0ZLYmZzcmh2cnlocTczNllTVVdYcHo5T1htck52TGJTd1k1SHE1QUthUWRBaTdWNHoxTWE4VjY3aXM3TFVVeHcxQUhDenVCRzZEdldfdGNtVWlIVXprVUh2QVEwZ0VFdmUwY2xrZnhZSUU2Wmk1MzdXcWFxR2V6?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "New Rivian R2 Specs: How a Standard Heat Pump Pushed Range to 335 Miles - InsideEVs",
+      "summary": "New Rivian R2 Specs: How a Standard Heat Pump Pushed Range to 335 Miles&nbsp;&nbsp;InsideEVs",
+      "source": "InsideEVs",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T02:31:04",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMZVdFV2JXaE5IWEg3dGxScVE3STNVUWRwOHUzejJBbFJYVmluNzRrNXBiRWpGNXNvOG1qamlCTTB2SVJMamhnbjNTOVdTdjVyXzVxQmk3SFZxOG1BcHRaTklJZWRCbU1aT2s1dHJFYlRULTQ?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Dongfeng eπ EP7 debuts at Guangzhou Auto Show with plans for 1,010 km solid-state battery model - CarNewsChina.com",
+      "summary": "Dongfeng eπ EP7 debuts at Guangzhou Auto Show with plans for 1,010 km solid-state battery model&nbsp;&nbsp;CarNewsChina.com",
+      "source": "CarNewsChina.com",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T02:12:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWTZXdkNSeGR2NEFjQkwzNDVMLVZab0Zob0htU3Y2OGtGbXBpWkNmVFVlWXBGVldhQy1ZLURyRkFnRmVxUnhSSFo5aEx2UVNhQ3M1WWNLR2N3a0FRcEpLS2N4OGJoRXpLSnhxbmlyWkk4RWEyY25DdnZBTUR5RVd2UXUyQjd0eHhienRZNjBxeG45UmdLanZfTlRSbllyaERNWFJ4RWxyM2dtTjRMRl9TaHl6a3FrcFczNGVXN1hRaW9pMThXc0x5em03dHZKOEgxRkE?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Rivian Gear Shop Black Friday Deals: What’s on Sale and What’s Worth Buying - RivianTrackr",
+      "summary": "Rivian Gear Shop Black Friday Deals: What’s on Sale and What’s Worth Buying&nbsp;&nbsp;RivianTrackr",
+      "source": "RivianTrackr",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T17:47:23",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MTFpXUkoxVjh4V3JscWZzWjJockFBN01pMzdiN0VpVXBtemFzMC1HZktwMFJBTTZqRFllXzN6ejFnMmlmOWNoYWFueEQ2ZFo1c0JkSFZxMmwtVjdhS1VGVFZJa1NPRHdVNEZ0RGhLZFY2RUlCdmZGRUVDWQ?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "EV Financing And Resale Value: Addressing The Missing Links In India's Commercial EV Ecosystem - BW Auto World",
+      "summary": "EV Financing And Resale Value: Addressing The Missing Links In India's Commercial EV Ecosystem&nbsp;&nbsp;BW Auto World",
+      "source": "BW Auto World",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T15:45:37",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSWM3Z3h4ZTlzeEpPQVVvcDRXampZbGttZnhLdzNNX1ZSSl96eHItYUgydHB1Zk50YzBsSTF6Wi1obDVaaXBubUhxOS1tbEZSQ0NOTDhDRmRWVVcxUmtOSHBpUTREaXhrY2hwbE40SWhEQUE3aENpWmZaMzZVTWVXVng1Um5kejgzSGZMQk5wYVNhbm9CdFMwWWU1T01BQWJhZy1Welh2U0RpMkZZUXYxVW41cWp2WHpqZ0hqMXYtQjdSU2ZJYm5DcTVqeC0?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "China's price war in 2026: BYD, Tesla and Xiaomi offered seven-year loans - Autohled.cz",
+      "summary": "China's price war in 2026: BYD, Tesla and Xiaomi offered seven-year loans&nbsp;&nbsp;Autohled.cz",
+      "source": "Autohled.cz",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T11:34:30",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVlOYWdCVGMtQzdySXRzQ1ZMVkh6X2VwOHUyY0FOV25NMnRrVk9RR0JwNVlIanFCOXFOZy1hcktLVGJHSHhXaVRkN1RuWS1DM1lZTXpqVHNTU0lnbUVTVjNWXzZQT1E4dWpTdGNUVHFyNzZkOXgxR0h3cU9CdlJ1ci1BcEFoa1Z0Z0loQVJqaUJOaVpic2tjN3ZsbGl2c0VYeVNKWG94cVBlaVdnbEZmWXZiYnNJdw?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Xpeng says its humanoid robot will cost the same as an EV",
+      "summary": "The automaker plans to sell Iron humanoid robots at EV-like prices from next year, targeting tens of thousands of sales as it expands beyond cars into AI-driven mobility.",
+      "source": "Automotive News",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T10:52:59",
+      "link": "https://www.autonews.com/technology/ane-xpeng-humanoid-robots-cost-ev-equivalent-1126/",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "5 Takeaways From Q1's EV Sales In The U.S. - InsideEVs",
+      "summary": "5 Takeaways From Q1's EV Sales In The U.S.&nbsp;&nbsp;InsideEVs",
+      "source": "InsideEVs",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T09:30:59",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55N3pYR1Y2Z2FubFJ2X1RDaW00T2pmM3BHd2xUUldNN2Fkb0xzTXVldmdRWFRJbnAzTk1FZmp2SlEyRFdhUFB4b2NYRTNvSGozTDJMeWptZmtXem50NnNiRlZCMjRiOHBrdWRWWGlB?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Solid-State Battery Market to Reach USD 15.4 Billion by 2033 as - openPR.com",
+      "summary": "Solid-State Battery Market to Reach USD 15.4 Billion by 2033 as&nbsp;&nbsp;openPR.com",
+      "source": "openPR.com",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T09:19:33",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWZLa3dHY3ZyRFgwN1ZzZDBTclp2TUxlRHlnbnJ0NGNLS05YUGVlTVBiRUc3WWcydGFyUExLUk1wLVdwUXdra3NiaUlEU0szS01rNjRTNERKUWxXYWVpcXJXbGRaTUJQV1RxUUhSWDZibERXRnFFQi03enF0VEY3VXhGUWk1anVyenNjeGt1Zm42d1Vuc1l4RzJwVDlpSVJf?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "China E-Mobility Weekly Digest: Chinese EV Truck Surge Offers Opportunity and Realities for Global South Countries - The China-Global South Project",
+      "summary": "China E-Mobility Weekly Digest: Chinese EV Truck Surge Offers Opportunity and Realities for Global South Countries&nbsp;&nbsp;The China-Global South Project",
+      "source": "The China-Global South Project",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T08:33:37",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkNjTHNnd19Xd2locUtYQXVoUl9aMm9kX0tLVmJWeVVhcVJzME1JWXVySk9xU2JvR0VCX0ZjQWt3LU12S2RwcVE0bWIwT3BfN2dsSEFMQ21jX2VJdTNIemNMWW51TWl1M1hmZm9oZ0tFMXpZS1c0N0hKbDdrVXdFNDhBcjBZbzdkRzM5aVFyZE93UkctZzltSXhsbnA4ckhzR1BRRXFQMlo?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "EU hybrid quotas favor UK, Turkey, Japan, South Korea while cutting China’s import allowance",
+      "summary": "New EU quotas on hybrid and plug-in hybrid imports could slow the rise of Chinese automakers while preserving imports of hybrid vehicles from allied and neighboring countries.",
       "source": "Automotive News",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T13:16:17",
-      "link": "https://www.autonews.com/byd/an-byd-first-foldaway-steering-wheel-china-1125/",
+      "published_iso": "2026-11-25T20:48:11",
+      "link": "https://www.autonews.com/regulation-safety/ane-eu-hybrid-quotas-cut-china-cap-1125/",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Stellantis sues Unifor over Brampton plant; Bowman Chevrolet’s Katie Bowman Coleman",
+      "summary": "Stellantis sues Unifor, alleging the union is blocking environmental work needed to sell its Brampton plant. Used-electric vehicle sales surge at auctions. Plus, Bowman Chevrolet’s Katie Bowman Coleman talks EV sales.",
+      "source": "Automotive News",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T18:28:45",
+      "link": "https://www.autonews.com/podcasts/daily-drive/an-daily-drive-stellantis-sues-unifo-katie-bowman-coleman-1125/",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "BYD plans car production in France to boost its push into the European market - Yahoo Finance",
+      "summary": "BYD plans car production in France to boost its push into the European market&nbsp;&nbsp;Yahoo Finance",
+      "source": "Yahoo Finance",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T11:46:56",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkN4bVRQdXcwRkYwTFgzeldIZVotUnRPNWFlOUJjZk44YkNnTzliTmc0SWRydThBN3RLdk4tdnZhWDFfaWpYUUdiS3ZjTm1QSF84SzJUcWhUM1R1X0J6aWItemVoWnJqTG5UTnB4R1NyMVdsSnRPTXZGQmZpRU96eThHaGFDRGVvR0k2NXJWMFM2a3BIaGd1blZWVjE?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "XPENG Accelerates Global Physical AI Expansion at the 2026 Guangzhou International Automobile Exhibition - Stock Titan",
+      "summary": "XPENG Accelerates Global Physical AI Expansion at the 2026 Guangzhou International Automobile Exhibition&nbsp;&nbsp;Stock Titan",
+      "source": "Stock Titan",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc0EzanJFdFZoVHZ0R1BQT0V3ZW5oM3JwcUVYWHQ5MnY1aWlNMVJuX09ORnlfRGpwaWdtb3NqdFNrUkNybHE3a2NERVU1cUNzcUprellWdGJGdkZKalFMeFdRUkdZNkxLcDFsbFEwZ2tNMng5ZHpLX1J0OTNhdnpxZXdacXZxNUt3MnZFeE5Gc3dLSk5vSUhNbkMzZ0h3RXlacnMyNjJjVDNfRkNyM3lZb0E4bUJVQ01VRVBFQnJaM3Y?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -1066,17 +1156,6 @@
       "published": "Wed, 25 Nov 2026",
       "published_iso": "2026-11-25T07:53:37",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcWg4YlBvMzF0MG1OT0hiSDNFMUpiQjFUZzQ2ZE9mNmFpbGxFTGZYaVhVdWVPUzN4ZlFXMXFLd2ZmZmxHWUFIN3VqUWFPVFNiRTZqMWdtMnRlWHdxaU1TcnFoZFNJdmhrUFhua1hwM0NuQnd1R0xHMEVkcU1VeDVYb05ySW9Ha001STZzZWdscXY4ZG1oZEkxNURRZkViVFAtcnVSV0ZEUlBjNkZ1WXJ4Q3JmWDl3R2FteV9ZUnhLT2pmN2xZUjRXRDFLdzZDZmV0aVJ3ZVpMaUdyLXBHUldjaHlZZjh4YWZIQnVsTUhHbVJESE9ValVTWnNDS0NYUHJVNnfSAYgCQVVfeXFMTk1JVEhfcXB1Q1lGMmJFN0FrQTZzdEhzbndNNGRBeVNQSnBzbnRSZ3ZwNmUzQnQ4YzRZUUJRTjR4MlZaQVRwdkQtcHotM21JeC1pV1BObm9nVG83V0x5WjFXVHd5d21PNmNrSVozQXd6bVVSblVZaHl0MnAtUUVUUG5GcHN2bFJNUFJXdXhaRkQwTko0alRmbVdCYzVGdWlJWDZpMG1CbXJHRFFtRkZMalVLdy1KMDJUbFgyRlo1RmVJQVdoWG1rdnhJMFZJUGVsZ3VoSGhVZXFycXlHcGx1NWt1eUNaX1VqUnJvOXlMdkh3NHhra0xBMFJ3MmpQbHZVUm1ucmZuUXdH?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "💻 Auto Tech, EV & Innovation",
-      "title": "EV Battery Recycling Market to Hit USD 92.16 Billion by 2035 - TimesTech",
-      "summary": "EV Battery Recycling Market to Hit USD 92.16 Billion by 2035&nbsp;&nbsp;TimesTech",
-      "source": "TimesTech",
-      "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T07:20:19",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNXJRNDBBTFdFSGdCR2xHRWkzQ3Y4Q1VkeElBYnhWN251Rk9hcVVFaXRXVGtwbzduZU1WbWprdmVkaUN0QmMtUU00bmlVREQ4TTd5OV9ub25qb3Zva0RBYzdrdHdLam5lRGVGQmsxcDdHejRBeWNjcXJUclU0TWIxRFQ2ZGRIZDc0TlE?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -1100,41 +1179,12 @@
     },
     {
       "category": "💻 Auto Tech, EV & Innovation",
-      "title": "Ineos Plans to Build Grenadiers in America After Selling Its French Factory to Chinese Giant BYD - Car and Driver",
-      "summary": "Ineos Plans to Build Grenadiers in America After Selling Its French Factory to Chinese Giant BYD&nbsp;&nbsp;Car and Driver",
-      "source": "Car and Driver",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T20:06:03",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2F0NGJpQ21qVWZmSGN2M0lDWnF0a1FudFRWRVlXRkJTYjY3OE1mVUwzSTkxa2Y0R2kzY0IyZ0Y1OTBTVlJ5NlhWTFA0Sk81ckVYMU50YWxLUVZNSXF5TlBua2ZKUExwLTgtTVlibnR1dHE3RDR2eG9iM1BrSzcybHNBVlh0dGd4M3dkMG1R?oc=5",
-      "coverage": 2,
-      "also": [
-        {
-          "source": "Electrek",
-          "title": "BYD in talks to buy Ineos’ French factory as Grenadier moves to US - Electrek",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVG54VzFhV2RaSVZzb2RVRE5xTFlldmNybU14dmNvSnZVcGZwaWtBemhVUmN4Y1hmNlFBNlBUVkpsOV9pNWxyR3JTNWNSZVJPZGZ3WVY0RnlpbVhwUzhFRWZnTGdvZnQwUHFDaWVJQ3Y2cVliZ0JfNGQ1TFhNaVhVSkg5Zw?oc=5",
-          "published_iso": "2026-11-24T17:58:00"
-        }
-      ]
-    },
-    {
-      "category": "💻 Auto Tech, EV & Innovation",
-      "title": "First Shift: Amazon Autos grows to 35 brands",
-      "summary": "Nvidia reinstates Huang as CEO | Slate’s bet: Less range but lower price | Court: BYD SUV is a copy; EU sales barred",
-      "source": "Automotive News",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T19:58:05",
-      "link": "https://www.autonews.com/video/first-shift-amazon-autos-grows-to-35-brands/",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "💻 Auto Tech, EV & Innovation",
-      "title": "Canadians’ Chinese EVs Would Be Barred From U.S. Roads, Senator Says - Electric Vehicles",
-      "summary": "Canadians’ Chinese EVs Would Be Barred From U.S. Roads, Senator Says&nbsp;&nbsp;Electric Vehicles",
+      "title": "Rivian-VW Venture Says ID.1 Remains on Track for 2027 as It Marks 2 Years - Electric Vehicles",
+      "summary": "Rivian-VW Venture Says ID.1 Remains on Track for 2027 as It Marks 2 Years&nbsp;&nbsp;Electric Vehicles",
       "source": "Electric Vehicles",
       "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T17:09:00",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa1I1SEpVV3BqTUlsa1AxRElSSUNycjF3U1QwQkY4ZGZBRDdpV25sZGhGMFBYaVpWOThraWxQcXVHb1VfblFDbnVzT0R6aGZWR1FDTkdzOTI5ekVaeXhTMUI0UXRHZnZ6OV9FVXBLQ1Q1X2RLclM3TThidUFBdHlDRERHNVVTZDI3NlNpTlZOTHZOUGFMQ2hLbnkxc2tCUVh1SG1xeENB?oc=5",
+      "published_iso": "2026-11-24T18:05:00",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZjl3cmFZOGtXbG9vYkhwYXY3REZSY1dONzJfVGQyS1VJVjF2RFlPRDFxOW8yWTJvbmtITnZpYlhXSmJUUi1hMTBUaFlmemN6VUp1XzhLUGxVUDNVMzlERUxITjctaHhkSnZ6VWRGSVNTZkhyMVI1el9kanVoOWJCWmYtM01rRm50MHBfTUNGVVRmWW1lQ3R5UHlRWS1DeWJ0eGlHNVRydDN3bmU4dHF3WHFn?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -1146,15 +1196,8 @@
       "published": "Tue, 24 Nov 2026",
       "published_iso": "2026-11-24T16:18:45",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcHQyR295clJrOS1fTXRwdEpSMlhwWjNJTEV4TmJHMnFObVEwdEFQbWt2MjRYTUxkU1N4Y0ZRaU90cnFWTl9CUHA5UTF5TVh6TUZkWnVBelEzd0t1dUdwSzM0VG1WTVlhdlRhc2p4OW9HblVudFhIWmxDOU95eXBuZFUxYUJScDUxbnpoRG84UFBrUS1fZTM3RXE1X19ZZlZQZXpRd2YxejQ4UnFUeTdiVDJCQnVwZmh3N2VqaV9PQjZseXZSUXhJ?oc=5",
-      "coverage": 2,
-      "also": [
-        {
-          "source": "Demokratis.co.id",
-          "title": "Ineos Plans US Factory Move and Sale of French Plant to BYD - Demokratis.co.id",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CbEg0LTZCMExaeHZ5QnZFQW9ZVlNJeGNXMEZTTkY3OHlsbUJMcEZGbUdGaWVLMTNsY3E0TXhDN2FYempkdUowRnhXeXdPNXNYLU1xaWJnQS1NRVFjZW1pQkt4TkhHdw?oc=5",
-          "published_iso": "2026-11-24T20:17:00"
-        }
-      ]
+      "coverage": 1,
+      "also": []
     },
     {
       "category": "💻 Auto Tech, EV & Innovation",
@@ -1164,17 +1207,6 @@
       "published": "Tue, 24 Nov 2026",
       "published_iso": "2026-11-24T10:00:00",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnd4eXM5X055dmgwTFg1M0pXT0ZMcVVkRGhDSm9PQUQxYWpDaFRndFo2ZHBrZnlXQ1RpcnB2NFkyMTVqS3IySERla3h0dWRyakUzTGZtQVdYMl9nUVMzM1pJTkZ5b3BXLXZEcElldm10MG1SZzFza29fRzBuUVZsa2RUR2t2NUlnNXY3dQ?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "💻 Auto Tech, EV & Innovation",
-      "title": "European automakers urge R&D alliance to counter US and Chinese rivals - Chosunbiz",
-      "summary": "European automakers urge R&amp;D alliance to counter US and Chinese rivals&nbsp;&nbsp;Chosunbiz",
-      "source": "Chosunbiz",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T01:44:00",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUEV4emlTQWVGbHdVVGM3bG5XU200YVV5TUpXSzdzeWNBeEFNbXNheTh5ZHhuMGZ4cGgtOHZ3UjFYZldiOWVJMG92UUxFdWppSUdrTDdKb3h6VnFzMUVQdy14cVpKUnRfaWhlb2VTQnFMWHpub2RDS1BpcVBheWFjYzJB?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -1191,12 +1223,30 @@
     },
     {
       "category": "💻 Auto Tech, EV & Innovation",
-      "title": "US EV Sales Plummet After Tax Credit Expires - Fuel Cells Works",
-      "summary": "US EV Sales Plummet After Tax Credit Expires&nbsp;&nbsp;Fuel Cells Works",
-      "source": "Fuel Cells Works",
+      "title": "Volkswagen Ex-Engineer Pleads Guilty to Insider Trading on Rivian Deal - Electric Vehicles",
+      "summary": "Volkswagen Ex-Engineer Pleads Guilty to Insider Trading on Rivian Deal&nbsp;&nbsp;Electric Vehicles",
+      "source": "Electric Vehicles",
       "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T17:10:00",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPczQyUDkzZER1c1p5R2NHVHI5NW1rSWJNcXVtYkN1STRhVXFZMlFDaElGc0gxclpxLWNhbi12Q2RnU3k4QUxfUEp3VWwxeEhUMVRoVFVVTm4wdjVEMzNoOU9kZkU4aHdqVEhDdjlNV2IxZ3VQTVJ5RnhNQ09JNkVTR2hnVFJhaUttVXRGeE1kZ2c4ZzVLak9ScUV5R1lsOHJ6Tmx6OTd2b1lOSkJLVkl5RXFUNWRNSlcwbWQ5eUgtbEE2bjRlSVN4ODFybzVoel96ay1fN2EzUnE?oc=5",
+      "published_iso": "2026-11-23T22:03:00",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGdaSXlLbmJfV3lGSnllZS1RLTBQWmx0U1BrREhwcTlXb2V6WDAzTmxFOGVtQWxKNjF4TTVfNm9UOUg4NktnT05Zd3BTU2E2eS1EVllJajM4VHNHaWFtcEdzVDlCUlJoRzVmX2RiRFJBdnZjZzBaNVQtbGJoNWp0ZVExUV8xRnlCMW1RS0R6R3c0U1FUbjVxdmQ1ckQxZ2wyM2JtTjFPaGp5dGVmNHc?oc=5",
+      "coverage": 2,
+      "also": [
+        {
+          "source": "Bloomberg.com",
+          "title": "Ex-Volkswagen Engineer Admits to Insider Trading on Rivian Deal - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWJpM0M3T0RjLTBTV1k4eEJIWGxyN1BWb000U2o5d3A2ZE1fR3JLRzMtZ3lJdS1jb01VZXBTbk5IM09oeWxZbERESmthVzNZZ1hUWkliOU9CWTU2MGNOS2Zid0lFMXhpazFBSFpHbEdGdGN4bnhPZlk0cURPVGJyN3FjVUtPakZwdk1PSHpsNk5YQjRsRmRKdXREaDU1Y09YeFJ0V3RXTUs0QXlaTzRFN0w0dkY?oc=5",
+          "published_iso": "2026-11-23T21:17:09"
+        }
+      ]
+    },
+    {
+      "category": "💻 Auto Tech, EV & Innovation",
+      "title": "Rivian 2026.41 Brings Big Navigation Upgrades to R1 and R2 (Video) - RivianTrackr",
+      "summary": "Rivian 2026.41 Brings Big Navigation Upgrades to R1 and R2 (Video)&nbsp;&nbsp;RivianTrackr",
+      "source": "RivianTrackr",
+      "published": "Mon, 23 Nov 2026",
+      "published_iso": "2026-11-23T20:36:27",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zY2F4dWtJOHkxTDJBdmVpZTdqX2l5N0g1YUlzUkdrbnQ2ZzdxMFFWWFFsUEpsM0E0cldsSmJOa0l2dVZZWWZnZkVtMHZBY2toMU1DYTNKSXh5MGM0RFhGZmhn?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -1213,263 +1263,306 @@
     },
     {
       "category": "💻 Auto Tech, EV & Innovation",
-      "title": "US moves closer to ban Chinese automakers from its market, exempts Mercedes-Benz from proposed restrictions - Livemint",
-      "summary": "US moves closer to ban Chinese automakers from its market, exempts Mercedes-Benz from proposed restrictions&nbsp;&nbsp;Livemint",
-      "source": "Livemint",
-      "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T10:33:29",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSmp3Xy1jTW5tRFdlR3ZBRjJVVmtRSmxiY2lDeEJMWXBjVFllVVVjUDMwcTRvS3p3bkpUTzY2dElROWhHdkwzdVhSQ3ZvWmw1bmw5VXV3UERERXloTE5VVnlwUGJjUHZzR09xYjgyQ01ybjlzMHhzY2lIMG5MTDJDNE9pUUoyZ3VrTWRnNDE3ZE9SRDNEekFrdTJobFlhS1pjbF9GbTVUWEhoX2dtWXp5Q0pHM2lPTnlqSG1pZm5kbEg1elR3aWNCZGNaUFZBMVAxSzRkV1MxYzU4eWxvaFhUZmpESldPcno1N3dtTjFkTWdmVUFGYTFj0gH8AUFVX3lxTFB4ZTBCMGJhYzJvWWhYNjd4eTgyc3JadVJ1c2dxRHc0MUdlWmFqcmJjbmdFMklpQXprazBQS1BTaVpoa0NNbVZzV1VvcWROdEhoX2swYmRKVzVnNDM5U3ltMnl0NFNuTVlpYjRZMWQ1TVdUTDFuZUFvd29UY2JLdnVtZjFuUFd2Ym43OHNDWGxRUGJjRTctSXhPaW82cVI0OEg4SU45YUJUc2RDdTZwU3RkdTRnNGZpQ1FDaGpyaWFKS09zYmoxS1BETnRLcjZRNGlKQkJRWWtMUzlkdkJ4U3duaVBzQzJOakdNNy1yTXg5UFJhUUpabVVHVWdjYw?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "💻 Auto Tech, EV & Innovation",
-      "title": "Rivian Buys Chinese LiDAR via Singapore After Denying RoboSense Ties - Electric Vehicles",
-      "summary": "Rivian Buys Chinese LiDAR via Singapore After Denying RoboSense Ties&nbsp;&nbsp;Electric Vehicles",
-      "source": "Electric Vehicles",
-      "published": "Sat, 21 Nov 2026",
-      "published_iso": "2026-11-21T13:50:00",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUw4aEpPdmplc29fb2dBMlVWNmhHSzhDaFlxTWtaSlpRek5NdW1vTW1Nc3hjYnpRd09VZ1N0R2tuZlJWZGNOVDNvR2tDMnZYU3JjUjZxV2VXWmxlSFUwREtWU0pJX3ZPT1VZeG9Bem5adXZDYzZqd09XdTJKSTJ1bHpQSFJwb0cxSTlkUUI5REk4YmUxVFBqVXhRQTl0M29yMkxRbWE0UDI?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "💻 Auto Tech, EV & Innovation",
-      "title": "Rivian Falls 6% As Broad Growth-Stock Selling Hits Shares - StocksToTrade",
-      "summary": "Rivian Falls 6% As Broad Growth-Stock Selling Hits Shares&nbsp;&nbsp;StocksToTrade",
-      "source": "StocksToTrade",
-      "published": "Fri, 20 Nov 2026",
-      "published_iso": "2026-11-20T17:26:00",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RX0ZuZHc2MGZCVXBiTGF2aHMtVVVzLThCUklxSzlMMmZIYTN5N1YycHljSUlQZXlwalRUYkZTT2ZwMzNVM2xuNWN2TEZLamIySHRJMnJydUxLYnhVMFJYVmlKaU5wNHNUR2p0b0wxa2kyX3dZbDBSYkZMNTVWWFE?oc=5",
-      "coverage": 1,
-      "also": []
-    },
-    {
-      "category": "⚡ Breaking & General Auto Finance",
-      "title": "Electric Vehicle Finance Market To 2035: Fleet Decarbonization Mandates Drive Growth - News and Statistics - IndexBox",
-      "summary": "Electric Vehicle Finance Market To 2035: Fleet Decarbonization Mandates Drive Growth - News and Statistics&nbsp;&nbsp;IndexBox",
-      "source": "IndexBox",
-      "published": "Wed, 18 Nov 2026",
-      "published_iso": "2026-11-18T23:46:05",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnhMNDhzUEh3UEZ6S3J4Rmw4dUFzRGhNWUFfN2VzM2thZzI1Rzh0VDRVdFREQy1ua2dmaDJkT0tSRm41ZHc2ZTVycEtSZWJfSHEtbzBnSFhTTnpISEJvQTE3d21XNlJYVzJiNERzdk5zcUNROWgtTDdlWTRmWTJyUVR0VDljaVdZalVISVJCdU9SX3QxTmpVLTAtMTJockRpbUVsTnJrWGxxWHpuYzMtZDNZaG85Uk1fMUdMa2pyTQ?oc=5",
+      "title": "Autonomous & Self-Driving Vehicle News: Mercedes-Benz, TIER IV, AEye, Rivian, Sonatus, Forvia & Hella - AUTO Connected Car News",
+      "summary": "Autonomous & Self-Driving Vehicle News: Mercedes-Benz, TIER IV, AEye, Rivian, Sonatus, Forvia & Hella&nbsp;&nbsp;AUTO Connected Car News",
+      "source": "AUTO Connected Car News",
+      "published": "Sun, 22 Nov 2026",
+      "published_iso": "2026-11-22T22:25:47",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmdZWEUza1RlQ0dNZHB3TnROa2JUanhkVmR5MWdsejJqbDk2TmtVYm5wb1ZXOTZJVVplSmd6RjMydldJeDRCUjd2Q1JoUW1kZHgxWXRhcGxjNXZmVldKNlFqdmd1ZTRKRDdjNmg5ZEM4d1NIbFhmcHlmY3JzUnZ6ZUtjU3BSbk9kb2dnNTViUHRQWjZMWG04LXJLWkU5S2VKWXdvazcxVk1jeXZreGp5TjhyUkVSNktENnhtenh1Z1ZwNURrQVhyNl90ZzhKZw?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "Trump rolls out sweeping new tariffs on Thanksgiving eve despite midterm backlash over inflation - The Independent",
-      "summary": "Trump rolls out sweeping new tariffs on Thanksgiving eve despite midterm backlash over inflation&nbsp;&nbsp;The Independent",
-      "source": "The Independent",
-      "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T14:20:00",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWdrZjZkcWdicVd1M1RodUZHUzYzWG5LX2tIRXRhb1Q0OGtHQS1GMXpqVVJBWldCUTdXeU96d3hQanNKZ2k5c1RROXpsNFA0OXlwZzNUY2NhZ3pYa01ydFR0NmsxR2Z0ZGRKd2FJeEF4OVUxdGNtXzJvejhEZ01zLUFVRGNzeThEeG1NTWxwYURubTNmTk9IQnNR?oc=5",
+      "title": "US tariff proposals threaten further disruption to automotive supply chains - Automotive Logistics",
+      "summary": "US tariff proposals threaten further disruption to automotive supply chains&nbsp;&nbsp;Automotive Logistics",
+      "source": "Automotive Logistics",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T15:08:59",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUdWVUVwMWpSaDZMZ1ZjUTAycVVobGdIeURJZnBGWVBGX1hlOXgwTF9neXNmWDFKMk1fWkhkRTV5TGRuc2J4VlR5OGZBVERKTWVrMlM0cThjd0xFMVBYTzNxMUZDSlpiNUs0eDJOalZNU1UzX2huRTRXVHh4djNRZHJCTWp4dHRabkUwVVJyS09US3l0MEt4c2tlZUtwano5SFMtRDZRc2JoUnphUWVGVXNUWEpGLWNxMG5nZ3owOGxkVWpU?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "US announces new tariffs on host of countries including China - BBC",
-      "summary": "US announces new tariffs on host of countries including China&nbsp;&nbsp;BBC",
-      "source": "BBC",
-      "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T13:19:41",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+      "title": "Geely confirms plans to build EVs on new electrified architecture at Ford Spain plant",
+      "summary": "Geely's UK chief says the brand will localize an all-new platform in Spain and tap Volvo plants as EU tariffs and proposed hybrid import quotas squeeze Chinese automakers",
+      "source": "Automotive News",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T09:51:26",
+      "link": "https://www.autonews.com/geely/ane-geely-evs-new-platform-valencia-production-1124/",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "Gold price today, Wednesday, November 25, 2026: Gold prices fall as inflation data and potential new tariffs loom - Yahoo Finance",
-      "summary": "Gold price today, Wednesday, November 25, 2026: Gold prices fall as inflation data and potential new tariffs loom&nbsp;&nbsp;Yahoo Finance",
-      "source": "Yahoo Finance",
-      "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T12:15:48",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPb3dFeUN5SkJCNHNoN2FGTDYzdHNOcXJtS0NVRlBDWUJtOFNiMndWMXBHNHJ0SHFRbm1ORkdDTUtBVEQ4ZUJlRC1QeU5xZ2VPVHVNTVNMa3E2SHpheU5XSGY0YVJEcS1OSmpKM21nTGx4QS1zVUxKWHVNeFd4Wko5NUltTHNTQTU2am1tRjZkX3dGTUttQ09DcUJaYmloUXExakZRUnFCVURWUy1sbENFdXFubllDSXVvZVgtVk5WejVKQzVZY1Nvbkx5N2hxNzhhelVheFlVTUFzNkJhMV9ISm9sR3cxanB0RXhlRGVyNmswd09EOXZuVU5kR3hJVXV4Vk9Wal9ReWY4M29mTGR1bHdhbw?oc=5",
+      "title": "Renewed US tariff threat puts Malaysian tech, automotive firms in the spotlight - NST Online",
+      "summary": "Renewed US tariff threat puts Malaysian tech, automotive firms in the spotlight&nbsp;&nbsp;NST Online",
+      "source": "NST Online",
+      "published": "Fri, 27 Nov 2026",
+      "published_iso": "2026-11-27T04:58:51",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGRyT1lEYl9zWWdaTG1DdVZFa1hFcUdiYzU0Y2NUVk9PVDJZTlpSeG12R2NtVXBPUDZ4c2VCQXVWQlAwb1hCYWl6M2lLeUMxMU9PU0ZIRXAtTEwxNk9sY2x4YWpzclFwTUJuRmNKdjg0UDVHaGp4ZkxUSUdfMFBjNkx3TjIzcVRwdVdpZkJRSlpVay1saUxuM2NwRmViZ3JQQjVaTHlZc0djRkJXZFRBWmt2MEhENWhk0gG-AUFVX3lxTFBrQ3JkanNvUFp2QVBQS2xCbkRGUWVlU3FacEdia1h1X2F4SF9jYkpocndwN3FQVWhQSlhFbmpqVndpaHo3NmZIQnZXOUlDbXplcWd0NF9CdjBxLUVIS1FPTnVibU9zLWV0dHhrLVo1eVNvX0lNNkF0NC1FWEo5WHd2ZEFtRXc5Y29MUjlNZ3AzdzBYOGFIckhnbnc4bG01ZzFEMnIwMHJZeXRBaGxfY1EyYnNEUkkzenVBcFdXTEE?oc=5",
       "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🌎 Trade, Tariffs & Macro",
+      "title": "Ford May Be Left Out Of Latest Tariff Relief Deal - Ford Authority",
+      "summary": "Ford May Be Left Out Of Latest Tariff Relief Deal&nbsp;&nbsp;Ford Authority",
+      "source": "Ford Authority",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T14:09:04",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWNZeW5VWVNuOENaUFJxRUpwTEhvSXpHSmFmdGZ4OXdEMFViZ0V0OE9tTEphTFlFV1p3MzU1YkZ4RkoxWW1EeERyRlFzUmF0bHFQeG54bU1GZnZ0c1NVZER6ODRNa2xuN0xReWFfZUhjeHc5ZmZaZ0Zoa2NfbWVNMzN0TUgtZUlERV9xcA?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🌎 Trade, Tariffs & Macro",
+      "title": "James Moore says Carney must answer urgent tariff-deal questions before Canada signs — what's at stake for your wallet - Yahoo! Finance Canada",
+      "summary": "James Moore says Carney must answer urgent tariff-deal questions before Canada signs — what's at stake for your wallet&nbsp;&nbsp;Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T13:30:00",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUhBZU81bTlUOW92MzZURklfWFUyOC1Od0tEQ1J6YnM4OUg5WGtsREhOUmJ1SmdMcjhXNTYxa3RNUGxaSk13QXROZ1UyVUFQN0JENDNfSFNvMXQzYnNKaWE1cUdYajM5WElPZ2l1QlhTZWMyVnQ2Y2EzeGQwcmplZndOSQ?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🌎 Trade, Tariffs & Macro",
+      "title": "China Inputs at Heart of US Tariff Case Against India; Automotive Impact Seen Narrow but Uneven - Autocar Professional",
+      "summary": "China Inputs at Heart of US Tariff Case Against India; Automotive Impact Seen Narrow but Uneven&nbsp;&nbsp;Autocar Professional",
+      "source": "Autocar Professional",
+      "published": "Thu, 26 Nov 2026",
+      "published_iso": "2026-11-26T08:15:54",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeHNWckN3OHFhOE83cnYzSUZhRG5HdFViV2xfeXRwdzhSRGw3R242TlVSWWYwV0toalBlR1lodHZJNGFHd1o0a0xEX1hpRGwyLU9EZFctWENHdkw1MzBFaVNEV1hsdVhlUXhUUHJTRTIxNDRkVXFhNlhHUkV6V0Rkeml2TUg1TnI2Vk8wWFc5aXdxLTdnX3FqRTR0bi16UWhHdmVybXBZWUcyZkVtS3FzTFlvOFN3NlVOdHNYOS1kQzQtd0RnU3phV3hJYznSAdQBQVVfeXFMT041cFgzVHFWckNyNEx6RHY3Z3BuSnc1bU0xSHB1d2tpYmZvTm9vWXdjM1dHV0RFWlNEZjlQcWtsdFFOV3lJSkF2ZnkyMnF1eFpYU1UzaFJMVlViejE4eUwtVXZ1VDFhM2VjM1hRbzg4YVE2RmJSY1Uxa3ZrOGVyck5IX0tHTE5ZUDIzcUZ1SmVyY3RJUmc1TXMxNUJ1bUM5SWxLMjhjSFRiT0NYVWUtbU55NFc1aG90VzdPcTlqV2hmM1N1YjNBSDFmeGJOblZ1c2t3NkY?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🌎 Trade, Tariffs & Macro",
+      "title": "AMIA Warns US Tariffs Weaken Mexico’s Auto Competitiveness - Mexico Business News",
+      "summary": "AMIA Warns US Tariffs Weaken Mexico’s Auto Competitiveness&nbsp;&nbsp;Mexico Business News",
+      "source": "Mexico Business News",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T22:14:10",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjlwcjZwYlR6NzRhVWFuUHJXdWMxS0NlOTFvVTJ6TEFCbk9Rck1WSm40TndzUGhlcHBzc3BPeVVQQ3g1X1dlWUowbkhqdWZmQUFCYTlKTG1UZWJhMzZmN2F0bklrVndwd3c0NGVWa3lIQ2otbHB3bE5QczRCbHZ0UDlTRHZzeXJVQWo4dWRySEVZcTNHam9HWm9hME5QRG9MRzZB?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🌎 Trade, Tariffs & Macro",
+      "title": "U.S. auto imports into Canada take major hit from ‘poorly conceived, self-destructive’ tariffs - insauga.com",
+      "summary": "U.S. auto imports into Canada take major hit from ‘poorly conceived, self-destructive’ tariffs&nbsp;&nbsp;insauga.com",
+      "source": "insauga.com",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T19:54:32",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeG5hUy1VLUhncnd0alZDS0oxV0o1ZVVHYkx0akxmY04ydW5tUVdiaktYUHdxMFhBTGhpTGtnamYwek9sQzRhVGxyeWF0bXVmQUJndk1RblhFaHNGUkJER0hOTV95RWwxR1Y2RzBNUXJrbmN5TU1ZZTU5blF3cnpSbk1VcjNyQjQ0dnBQeHF5WEIxckZKbE5KalF4SnA5c0YzVkRRWDRMYXRkNVJoS01wcExwSUNyUQ?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🌎 Trade, Tariffs & Macro",
+      "title": "USMCA, Trade, and the Character Issue - The Dispatch",
+      "summary": "USMCA, Trade, and the Character Issue&nbsp;&nbsp;The Dispatch",
+      "source": "The Dispatch",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T19:31:49",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbGppa2xzTEJZOHdVZVExclk2S2FuVFVPNHBDem9DTnVIcGJvVTJCYzJ4dUM2Yy13Ry1qLTRHUmlOa1ZtQTdtZ2hWcW1uemNaQmpWNnJhRHQ5bWJOcXR3cWNxOFM3M1FMNERNdllDTlBhb2t5Tm84NlBjU2NZYmZiXw?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🌎 Trade, Tariffs & Macro",
+      "title": "Canadian auto sector moving away from U.S. imports amid trade war: DesRosiers",
+      "summary": "Mexico, Japan, South Korea and the combined European markets all saw their shares of imports to Canada rise from two years ago.",
+      "source": "Automotive News",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T19:16:15",
+      "link": "https://www.autonews.com/canada/anc-us-auto-imports-to-canada-down-tariffs-cp-1125/",
+      "coverage": 4,
       "also": [
         {
-          "source": "Yahoo Finance",
-          "title": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDZ0bDdjN0JUTWU4T0c1eU5YZGdUckxKMTh3ZHVnd2VkVjQwTWRHWGcxMFA1cTlwMlJrYW9rNXhjV2NheHVzeXZrdHl6alZaNk5ZNzZUdTFNZXNUaXFYQzRWVk02dmtMdVFWTU9ZclBwc1ZOOHhiTmZ4Ym0xRHBmZzU3bFJDdEg0R3BITXkyOXQ?oc=5",
-          "published_iso": "2026-11-25T01:42:00"
+          "source": "Yahoo! Finance Canada",
+          "title": "Canadian auto sector moving away from U.S. imports amid trade war: DesRosiers - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVW5TNHFnMXViS1E2aHVkT2g5dnJUU0Fkb1dUSEg2SEZMX3dudlkyYTNuWFZXM0JtblB0VEpFWm1wQVVGOFBVYVBBSXpTZkE4WkpYZnBUR1BkOWxzZFQzQkxqR0wyOVNiUnlySDVLYUc0U2hFMnlncWNmVi1ZaDR4X3htVElsNGc1?oc=5",
+          "published_iso": "2026-11-25T18:11:15"
         },
         {
-          "source": "Yahoo Finance",
-          "title": "Nasdaq futures slide over 2% on fresh US tariff concerns; inflation data in focus - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekxNUWtOR1pxOTJPX2dfTUhyWW4teS1oQUY4V0ZsNHZwV2d4a2NWU280b0hYSWhyNFEydWxhTWdrbXpKendCTUx3RS1FT2V1NmJlRzdPOFIxcG9tdXQwMGN1QWhsanpHUWhCbHl3TFEwQUtmWVZtWGhSVFhjRXh1Vm5GYzVsQVdWSE4tOXNYaFZKQk82TzNB?oc=5",
-          "published_iso": "2026-11-25T10:08:22"
+          "source": "CityNews Vancouver",
+          "title": "Canadian auto sector moving away from U.S. imports amid trade war: DesRosiers - CityNews Vancouver",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNUpzOUJGSjRaUURuYm1fbWxZdlpMWXFLcDRCMC1xdDBnNTJEZExaUmJzYVEzWjFUQWtzelVYdmZNeFR3WnRnek1mMFRqVi04clBHbDRSN2w3MnVCbkVRWFZ6R2czaWdNeDF5NTdCeGJjcVA5YWVIbXFEd3FOV01JX19DOFVFbWFITXlLUXJzUm9GcEVpdFNOSmpuNFVmSGRXR0tMeGtuZVBCTkZaZGxXUlc1R25ROUdr?oc=5",
+          "published_iso": "2026-11-25T18:27:01"
+        },
+        {
+          "source": "Investment Executive",
+          "title": "Canadian auto sector moving away from U.S. imports amid trade war: DesRosiers - Investment Executive",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXVLRzg5UGtIVEJTVmMxSkEwWGxyUXdNbHViZzJDUnJOSzF0V2tETnplMWZKVGFPTjJOTHJzR2lHV0tPMURObklsOUZ2WE45eV9RQi1KYVFuUHVaVHRkRnBxTERjSXUxQWhyMUJWeF9BREVGUWJYWDRlNExVUk52YWlZbmUydGM0WWdCZUkwYmRvdExHc3BPTGJZaXhGNTl4NjRzMTdXMWx0YVIwUnkyMmt5enhEeGtZcm1LMjl4NVR6MlU?oc=5",
+          "published_iso": "2026-11-26T14:31:16"
         }
       ]
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "Scout Motors leaves plan for 7-store Canadian network intact despite tariffs",
-      "summary": "Scout plans to open three stores in Toronto, two in Montreal and one each in Vancouver and Ottawa by 2033.",
-      "source": "Automotive News",
+      "title": "US readies tariffs over manufacturing capacity, production concerns - Supply Chain Dive",
+      "summary": "US readies tariffs over manufacturing capacity, production concerns&nbsp;&nbsp;Supply Chain Dive",
+      "source": "Supply Chain Dive",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T11:41:32",
-      "link": "https://www.autonews.com/manufacturing/automakers/anc-scout-retail-plans-canada-unchanged-tariffs-1124/",
+      "published_iso": "2026-11-25T17:26:45",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdjN4bkVnb19hOU5ZQTJaU0RPN043TWpLcThYdGIxdndFa0U3SFZOcWhNMl9oVk9YeFBJRy1CbDQwbm9RcnZKZnZKd0MydEhHMWViS0pFbUVFcDJrSFNlcExoV01abjFLUHJkYlpvNDFfczQxTUNLVWtOeTZVdnZYalFJZUFRVGM1b0VNdVd4NGpzYlgwMTg0TG1kbktaeU5tNVFvNkZRelJkVllQNWlwdw?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "How A Seller Of Auto Parts Views The Clash Over Auto Tariffs - Forbes",
-      "summary": "How A Seller Of Auto Parts Views The Clash Over Auto Tariffs&nbsp;&nbsp;Forbes",
-      "source": "Forbes",
+      "title": "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed’s target - Fortune",
+      "summary": "The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed’s target&nbsp;&nbsp;Fortune",
+      "source": "Fortune",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T10:52:19",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamdybXFWd0d0eDRiTThEWXpWUmZGX0dFbVcxU3NrOWFKcU1Wc3hQWWVtVjN1UmRRUDRyd0lyMk01d2IzckZiTFk3ZnZGZjRyR2VFSmM3ZDJ6ODZXVmlhbGIwQUQ4U3MyaXJBSmIyME54RGtITTlTWTJkRENiYTczNGt3LWdxT0FSVmM2YTFJU21CZ3RWSDNyVU5zOUt6bGlVVjAyWjVCd3BCUkgwdi1kMQ?oc=5",
+      "published_iso": "2026-11-25T17:06:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWVHVE9zZ0YwZURJTU1TcTB0SmctN1FqWlljNlFsUEdvUHRMSDRtcnU3YXFBZjlicFhuaEJRNXgzTTd1emdhYzB2Y2dubEJwUUFpQk9VUEo1QmlhM3ZvMG1Lb0tOeVF0SDZrc3VvUUlqZFhDQndtc1dJUl9JUm8zc0EyZ3dJRnRjOG9OY0VOS1I?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "Why EU quotas on hybrid imports may last only 200 days",
-      "summary": "Brussels used WTO safeguard rules to impose hybrid import quotas within days, but the caps apply to every exporter and expire after 200 days without member state approval.",
-      "source": "Automotive News",
+      "title": "Strong Growth and Elevated Inflation Reinforce Case for December Rate Increase - IndexBox",
+      "summary": "Strong Growth and Elevated Inflation Reinforce Case for December Rate Increase&nbsp;&nbsp;IndexBox",
+      "source": "IndexBox",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T10:14:19",
-      "link": "https://www.autonews.com/manufacturing/automakers/ane-eu-import-quotas-restricted-1125/",
+      "published_iso": "2026-11-25T14:52:44",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYllXRU1vT3dZcjEySzZZUnRldXdGMEhoZTJvdVRhMjRocVptU3RGWmY5TGZrdXM2ZHlNcEJOSDZjcFZKeExZblhFTUJvUkhxTjJtekVlei12ZEhtTU1lQ1ZEeTdfcGNJQmw1cDZTR0ZUTFRJSGtlNzVsdmtMT2VDMWZzMDhiQUtyYjRCc3k0Wm5hNWxtX09QRk44M2YzdGthZmZBY0pPUU5xeWhW?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "Risk-off mood lifts dollar ahead of inflation data - Yahoo Finance",
-      "summary": "Risk-off mood lifts dollar ahead of inflation data&nbsp;&nbsp;Yahoo Finance",
-      "source": "Yahoo Finance",
+      "title": "Inflation remains stubbornly high fueling fears of interest rate hike - The Independent",
+      "summary": "Inflation remains stubbornly high fueling fears of interest rate hike&nbsp;&nbsp;The Independent",
+      "source": "The Independent",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T10:08:38",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRk1HMjFrYmp4TnhYVVd5aW9TcjZLMGJnOXdlTi0zTFVUelgzbjZZTE82cW5pTU1WTFh3RFE3czlLSjJPa3hiMzRITm5FckYzRFVBbEpObHRvSUVic2VUVGRUcTBsWmtSY2Nad0k0bzl0UjNuUWZ4b29OYm1seEctc2U4YjlLQldQOWM1VThpSjdjeE14VVFYX1lrWTQ5b3Q3?oc=5",
+      "published_iso": "2026-11-25T14:37:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQk9vM0ZIUmZqemotUmtsLUJ0VjJ1ZklwTFctbGRZbkNvczAxcEN3djE3a0F4NnpURTd3Zk5jcEdvVFQ4NHdxQWZsbHUyVTdHd0IyRW1wV0VUekREMUMxNnFoVmQ2aWVqWDhsdm5xVG9Oa2hzLTMyMlplTVBfTnltWUpKdHUtcG5hUTYtbXB3amJUZDFRUUM0Sk1zaXQyQQ?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "Treasury Yields Slip Before Inflation and Spending Data - Oz Arab Media",
-      "summary": "Treasury Yields Slip Before Inflation and Spending Data&nbsp;&nbsp;Oz Arab Media",
-      "source": "Oz Arab Media",
+      "title": "Inflation Continues to Climb, Fed Poised to Raise Interest Rates | National News | U.S. News - U.S. News & World Report",
+      "summary": "Inflation Continues to Climb, Fed Poised to Raise Interest Rates | National News | U.S. News&nbsp;&nbsp;U.S. News & World Report",
+      "source": "U.S. News & World Report",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T08:00:33",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMDNTRGozbVhYZV9yODNZOEJ1aV9LaVhLenFNOVJhS01LR1k3dFVCdTVHZF9tZG9MckRSNXFHbThYQzZRNmc2N0lEa1gyQm9BNWw5Tl9aU3lwNk9lZ3Nwbk0wT29wRXp3bTZ2dVNVR2R4V19oRjRndGtpMnAxSUo0bDFfb1FpNVpYTGxKUmp5RGpMSGszLWtQOUd3S2V4OFBWbXI4a0VMWFFFZXhvNGdQMWpSTWl4OG5kbGRxUnB6Q1hKMGtwY2pILVY0SUpHc25qRndQQTRYWWZGNlF2bVF0aDVqNVowb1ZtSGNXbmhNV2dPcHk3QktVNll4RjlVblZSZHcyeVU2OA?oc=5",
-      "coverage": 3,
+      "published_iso": "2026-11-25T14:26:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVBlVDN5cUVXOEowaDgwbmxNTFNrU3ZOZ2tMNjR1TDY3ZlNDdEhkRGlfMVpOVDNRazVaNGhsUWg5UUxPa1UwdHNZMmxOMkxYMHUxZ0Nmb1hJbGZtSTYzZEFvVUZJaW1nNFd0cEFSRTZUa2I0RzFZcmZKZ2xuemtic2JRUXdsRzN1YldNZDgxWXJqbUw1blRYUGEtWFVyYTU0dGFWV0t5WTltTElVNE0xWHFoS3ZpdFlnZDFmU2I4M18yc0E?oc=5",
+      "coverage": 6,
       "also": [
         {
           "source": "CNBC",
-          "title": "Treasury yields fall as investors await key inflation signal - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FRFlwZF9FMHIyY3J2Y25STC10T25DTG9zTWFKcVNYOXdtM21rLVNZTXRoTWVqYUVWUEE5RFpURWVUd1kyanJHNWJzaXRmTkJHMFZGTWV0U3RSdVpyc0h5NGEyQkEtS1RlZ2NUQWtHbFBVTUtucjJJ0gF8QVVfeXFMTThoU0xMTXQ1NFpvaUc1WHhNV3ExRTFFV05BWUUtTzk3SzBtUjZxSXJLeXhOZDB6aDJHMzlDQ0gzT0RETnJDRlpEeW1SNFl1MEk1dXhBYllVdWNTOTVzbF9IaHFGNzhJZ0l6WVVDLWxPQjhSMkozQm1JNWxRbw?oc=5",
-          "published_iso": "2026-11-25T07:44:24"
+          "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SREI2WkZTZTJWN0daalVYUlBFRVAtcUNzY3BybGN3dnJCUU1OR2dVRkNXMDRMWmtISWZSSkdNeFNGdm4xc2ZveGtVMmtnUFFqanhXbmhhcktZUWRrM1BpVUE0OU5ZNnNTOENfVDhoTmdWQWxNZGlFbXFR0gF_QVVfeXFMTmFSS3ViODJ4VUhoUF9pUHJwRldEZTlzTHoxRWt3djJQZGJLZ2R4dG9MSk9KaEZtbUp1a1ZwZjNMS0VJbDIyTldzcTlTblFKaWZ5LXJ0UXRMZERRbHNUZDdNYzV5UzVSV0pJYUhoVFh2T1psRElLZFlNUEVnUnBMaw?oc=5",
+          "published_iso": "2026-11-25T13:31:45"
         },
         {
-          "source": "Wisevoter",
-          "title": "Treasury Yields Ease Ahead of Inflation Data - Wisevoter",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUdCNHdrR2RzZXlKdTVDWjROamt1OVZveFlNYnVvZ2hSMksyanZ4V2FXT1ltTEtjdjhtYjlTM3RoSTBZM2NUa1hzUVZJaHA2SUlVRmVKOUlMUWVpQnR2MkFwYVgzNVQ4UmdHdjFIbTlVbzFINVdaX2ZSRXVWRXFBd3E5VDhGYV95ZmRYcWJyZTIySjVu?oc=5",
-          "published_iso": "2026-11-25T10:52:43"
+          "source": "The Guardian",
+          "title": "US inflation hits highest since May after prices climb 3.8% over the last year - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0FBRVB0TDVXeEprbXpxSm9xUXlSMXdBRDRueXJvMGxRR1J0Vko0MjN4T2VVXzNXV2JNZkpIYzV4YTFILWFSWHhMNlo3aFQwTHNXQ3hwaE81SFJ2MjNOTGg1TTFjdE5YTjlsWHBmUVh1QUFqSjBzclJMTUZwelJqVk9kRDA5a1R0bV9LQ29JdzFnTzlpSndUYWwwTHBlU0R5?oc=5",
+          "published_iso": "2026-11-25T13:54:00"
+        },
+        {
+          "source": "MLQ.ai",
+          "title": "PCE inflation rises to 3.8% in October as core prices climb 3.3%, the fastest since late 2023 - MLQ.ai",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3hFLXNqa3JVdTQ1NVhUR0RxV3Y4Mk5mRER3S3VObVhjVDQxUHdacjVFcmQ0dVZVZDlXYlNPVVZ0bDlYQTM1V2FkUUt4dUJ0bEVIbmVtSWJfb291cUxLT2JhbDVVamN4MUpOb054OEI2N20yVGpYb0VZVDEtdFBaY01sN3ZRT01rZmM3WUU0aW1ZV2dHUXJTM0VYdk4xSXZ2RXBPYTZOQmZqd0VVbVE?oc=5",
+          "published_iso": "2026-11-25T13:57:52"
+        },
+        {
+          "source": "iHeart",
+          "title": "Inflation Increases Slightly Last Month - iHeart",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOek5hZFBnSXZTdl8xaVVzUnRwd3RFa1BBc2YwS2RMX21fTVhWYXlEZTI2aFVueTF5TmRVUjdoX3hOUXZuRHRXXzRfNkZhOG0yb003Xy1CN3JDMXpvSHMxdkRUYndIRmxoNEdybFI4RnQ2dklIZmJhUk1qczZQeXVJNC1NdGxMTF9YYXfSAZIBQVVfeXFMTkZZZmpsWDRybWMtLXJZNkhwZmJ0aWNDc3JsckxheC1jUGNfVVl5WDA2cS1XVk9zSTJWcEVuc21uVXZwRkg0a3l3RDdFcm5zeXF5dEo5bFUyR0lTRVhMTks4SzFqRUFSZUlmQVNXa21WVzNvaFZYRUZRUlBlU2FvT0ZoMUFVYmJWMnF5dkxvN1RjS3c?oc=5",
+          "published_iso": "2026-11-25T18:59:27"
+        },
+        {
+          "source": "Sada Elbalad English",
+          "title": "US Inflation Climbs to 3.8%, Fueling Expectations of Further Fed Rate Hikes - Sada Elbalad English",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTVlQeWxWdGxtVnBqYWVIeFJTM1dXU09saFJXbnRZaHdJVERqS2lsRnB5c0xzazE3d2JNeEowOU83RC1ZTGtIb3Rjd0Q3V1UyRkkxSE5WMldOc0U2b2swbWdoMGVjNWM4bGFhbWdIU3QwLVNXNEJacU1ZSXUwd3owZlRydm1SVGVPWEJCY1BubjhzZU0?oc=5",
+          "published_iso": "2026-11-25T22:00:42"
         }
       ]
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "US ready to slap tariffs on China, EU and others over subsidized production, AP sources say - AP News",
-      "summary": "US ready to slap tariffs on China, EU and others over subsidized production, AP sources say&nbsp;&nbsp;AP News",
-      "source": "AP News",
+      "title": "Breaking: US core PCE inflation rises to 3.3% YoY in October vs 3.2% expected - FXStreet",
+      "summary": "Breaking: US core PCE inflation rises to 3.3% YoY in October vs 3.2% expected&nbsp;&nbsp;FXStreet",
+      "source": "FXStreet",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T01:17:00",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalJfNUMtVmVfb2RDeFlJeVEtNHVxc09sSjVrT1RfZmRMZ3dzZDMyLUhUSVVoalctTzJTNkU2b2F6VGVJNDZfZXZ3Rkp1WUZQLWY5UUxpOE9XcTJyUVJ4Ri1nZl9MU0xRbkY2MHVBZVg5NGcyX3JlMW1ZdVlrMXRodUlhSjZaSkkwR3pVQUtOUmJGY1JIelBuaGh3?oc=5",
+      "published_iso": "2026-11-25T13:40:27",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQUZzWXlBNFZYYlJKZzB0Sk50eDNkVDl4cGowSFlianpHVzc5d1RTc25hQzAxNFNwX3VablB3c0tmZEhkNkxvSC1pS2JsaDRvMkJMUlY4N3ZvSEF6UkcwSnZsZTM2VUxNQ2IxdGRNSGNydTJ4LVpSTFluTFZVcEZ0MVlpRnltaE94MmsxLUtxZk9RRDNpVTkwSnZtQWZ3bzI3WVYzQks2T2FkbHctbjBGcm5JR3FQendHTDNYQ2tIUC1SQTBfWUxkWGZOZFVzT2Ex?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "US readies new tariffs as months-long trade probe nears end; China, EU, 14 economies on radar | World News - Hindustan Times",
-      "summary": "US readies new tariffs as months-long trade probe nears end; China, EU, 14 economies on radar | World News&nbsp;&nbsp;Hindustan Times",
-      "source": "Hindustan Times",
+      "title": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again - The New York Times",
+      "summary": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again&nbsp;&nbsp;The New York Times",
+      "source": "The New York Times",
       "published": "Wed, 25 Nov 2026",
-      "published_iso": "2026-11-25T00:58:51",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX2xmTFNsWS1rN2dFc1lVZnRrZkZzaFNiZkFXMnlrandLemxoWWd4Q1RoYkRMWXVQU3NKbzcyeEhXR1NUQTk0Y2lyRHRRSWtPcFJhcEZ0cTYxVjNPeW1jeEFPSS1sZEVUZ3Y4czVjOHJtQmJKNnNrWEc4V3pJQlNNSEEyeWh2cHpaN0U3aWZReWdBYWxHZ3dRdjFLanJLemxwV1RaVkQyNmVGNVQ1cVQ5ZzNOcVphaHQ5dnFnbXVpX3AtbHVBdGFXdUY5cFl5cVZlTXh6TmV6UnFpanU0SzZ1QV9fSDhZNkxV0gHuAUFVX3lxTE1sMXNvMEM1VnhKWlpXZGxWbXVRQTJQZF9wM253MjRBX3NXR1pXa3l1SndWWUg2NGNObWlYdnVCQzd4UWNPWExheXEwZjFFc01PckoyUk9IUWlNUDNfTWxpSDhsMlhpQ1JyYmlfNGdmWjQ2UWFaMC1qOVJPaDlONDRpUmROZWJndF94SFBmUkNONGlsaXlJQXl1YnpSWkNmbnFGakFRX3c4ZW5LNmFPbHFQSzFycjNFUk1nSWdYVVF4T3hOLXVvbHhpVHdvQ1Z4NW5wWmNPbzBDTnBCSlZiQTFKRHZKajQ5emZHUnhvR1E?oc=5",
+      "published_iso": "2026-11-25T13:32:17",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmt0OG9famdFX2l1SjBPc1A0aWZYc3Aza2tac0ZTYWk0bWplX2xRWVBUdjh3ZEtOQ1RQbFdhaUc0Wl8zZkpKaGV5c3Q1R3AxZHF0VjBqZ0RicnRRNVZ6X2RfYmNQUnBtTXBfbmNQUWRuZXpVcXFGa2pyRXhJZmhIWUxjXzc5cm1RTG1HSm1n?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "U.S. firms are targeting Canadian competitors hurt by tariffs, Charest says - Yahoo! Finance Canada",
-      "summary": "U.S. firms are targeting Canadian competitors hurt by tariffs, Charest says&nbsp;&nbsp;Yahoo! Finance Canada",
-      "source": "Yahoo! Finance Canada",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T22:34:38",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWpvVUJpclNTR3Ftal9oSmZtbWpqRjNwcFhKT2p2aTl3YlozUnZ1UTdxNGpPcUlGVGpHckZmbWx6UzlaWlh1RTdsSTNMN1I1UUU4cHZwUzBrOGZ5YUtiaU5sSnZNMVJaUHBnNldrLURua29GZkZfZklqRmlSaDh5NjVuazVWQnNKZUNublpybjU?oc=5",
+      "title": "US Treasury yields decline ahead of inflation data release — CNBC - UA.NEWS",
+      "summary": "US Treasury yields decline ahead of inflation data release — CNBC&nbsp;&nbsp;UA.NEWS",
+      "source": "UA.NEWS",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T08:00:57",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmVQYzZRWHZ4RjhqT3NtbHMtYjVTdm1LWXhoUy1IRlNjdkhESzNaMDczU3Y5Yk1tTGZPMnB3Rkd3eWUzZ0d5YzU2NWVXa0JFUTJMM3dpLVl5cEZlb1pNTGhLZjBzYk52bmlrdzVlSjdxNkQxX3BQVE5nZVY5YUNrSGxmYmFUZ1dUdXV1V2xZY0RNS1RFQS1kWEk1SFZTU05VUFI1azZSQnpCOERvOGFPWWpfQUVPenUxbDA4amphWWNIUmc?oc=5",
       "coverage": 1,
       "also": []
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "New Jersey’s Dealer Pay Law Costs Automakers $375 Million a Year, They Claim. Now Ford, Honda, Stellantis and VW Are Suing - The Auto Wire",
-      "summary": "New Jersey’s Dealer Pay Law Costs Automakers $375 Million a Year, They Claim. Now Ford, Honda, Stellantis and VW Are Suing&nbsp;&nbsp;The Auto Wire",
-      "source": "The Auto Wire",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T21:48:41",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQTd1N04wUU1HeUdHeFhZSi04dDNWUEdHSFVSTDRMSF96ejZNVmI5c1JaQnlQQ2ttLU5TN0RTT3dJUDZLLTc0a2ZwVHdMV1lQUXYwUjdjU0VMakpIOENfVEZxUWpTTTc0R0QxcGZXeHdlbHBScDFjZ0liNWJxdTd4RHg0SE1VdXRkQTMzQmJLakVvTzYt?oc=5",
-      "coverage": 2,
+      "title": "US PCE Inflation Data and Q3 GDP Due Today; Key Numbers to Watch Ahead of December Fed Rate Decision - Kotak Neo",
+      "summary": "US PCE Inflation Data and Q3 GDP Due Today; Key Numbers to Watch Ahead of December Fed Rate Decision&nbsp;&nbsp;Kotak Neo",
+      "source": "Kotak Neo",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T05:09:34",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5",
+      "coverage": 3,
       "also": [
         {
-          "source": "PYMNTS.com",
-          "title": "CPI | Ford, Honda, Volkswagen and Stellantis Sue New Jersey Over Vehicle Repair Law - PYMNTS.com",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUExfbjFrSmFwYldSUW4zWmZPSjM5SmlyOGlPQUVMUlI3RlREcmRWdVpHRWRjaGV4QlRPazhtbl8yc1BtZlUtSUl2VE1KTy0tYTFGOGF1SUlYc0RoZzdhQ08tS0VLUXNCYklWVDU5dDhTcE50TXA2YnFzZFhlQWZWMmhNTXhMZmlhTW9RSTl0MzhRSGdOX2xTZTFjUUdlWVljXzB6dWZUU1U5OW9PaEE?oc=5",
-          "published_iso": "2026-11-23T19:50:19"
-        }
-      ]
-    },
-    {
-      "category": "🌎 Trade, Tariffs & Macro",
-      "title": "US stocks face tariff risks as Trump weighs higher duties on China, India, EU and 13 other economies | Hindustan Times - Hindustan Times",
-      "summary": "US stocks face tariff risks as Trump weighs higher duties on China, India, EU and 13 other economies | Hindustan Times&nbsp;&nbsp;Hindustan Times",
-      "source": "Hindustan Times",
-      "published": "Tue, 24 Nov 2026",
-      "published_iso": "2026-11-24T16:52:56",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeWpLaEJXVERUUFRmSmxzc0RTeGFSNEtFc3BEbnlMWUQxeFhScG1lclRPRWRjZ0RzcWhxUEdKRW5ZYmlnTXo4ZlE0VTNmcGJDcmFnYTE3Q2tKTU9nc0doSlVRVC04SlpzRnVtd1B3Y1haZ3NTaU9McU1iaUFmYjQ5eHdaMjMyS1RLWWhnQVJ1TEJKakZpdXl2RThqd3hWMUl1cGM3RTdqdjh0d21sczJ0UU0yNGR6NXhURkE3UklSTzdINk1mT1FSbU5hTFNoNEpwa1hWNTZtV3hLcENjd1A2UTR6bGNzWjhRUzg0MTNWbFNja1pEM0dXUUNoc2pnZ9IBgwJBVV95cUxPY3RCQjNYYzRaVzJiODd1NXBxZjNzeDRVa25zRFFoRGFGc3dxaFpxWGduZmQyTDZua1ljdjdDcndzdE9ocTZlTnZwV3NMaGc4QUFMdzE2U2R6R1A0QVRfaWlkX01mTGFocXBITTRfS2lzZFRyZ0RvMi14eUxqV1VhZlpfTWdBbUxzWjhkQ3h3Vzc5LTJnUnhRblQ1OWIyTkhvVUI3X3VOOGRQZUlmV0N6dV9rSVZNWXRmOGtPM2Ntb211NHFTdENwbElZZ3dpNWNMaDhQS1d6TE5hT3JNY2ZnN2lKWTFXXzZvVVR0enlJMWZtSjlVZHEwRUdRUF9hbW9mTW9Z?oc=5",
-      "coverage": 2,
-      "also": [
+          "source": "France 24",
+          "title": "US Q3 GDP revised strongly upward, Fed's inflation gauge hits three-year high - France 24",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT1VPMUY4dHUtcE5rWEF3SENCZUdzVnl2dW8xVnN6eTZaV0pGazNnRGRMZl9uQlRpZDlGUW9pOXR5eXpUZ0JEaEpQVERrU0FhS1dSbGR2Q0x3S1NzR0NTRzQweVotTTdVX1YxblJGTG1zNFhjd3FndU54SWFCZlNLLUU2dVFUZW43QVh3NHF3N0pWT1VWVVFacGxISHdua18xNlFtemtuSFRzdFJ2emctZDBjU21LTjRUNUd3VHdXV2k?oc=5",
+          "published_iso": "2026-11-25T14:47:16"
+        },
         {
-          "source": "U.S. News & World Report",
-          "title": "US Plans to Hike Tariffs on China, EU, Brazil and Others Over Subsidized Production - U.S. News & World Report",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNejB4X3hDSGtNV0tDd2YyRGR1ZmhQemFFWFl1UWJvZXNLcEpYUmo4TF85MUVtdl80b1YxbHppOERRWC0xY1JJcjI3WVNUQloxcGRPMzM2YU9XUlg5U3NlMjhnQlNqVnllLU1pSTNmS3NxUUYyeXEwTzlNX0dfWTYyV0U4TTNkQWxHcmR5MWo5d3VxcmgxTDJzV0JJdzRDTlQ3VHA2WjBnLWVHU1pVSnZjU3l3N2NRVEFNX1pKR1dsWmhja0tsTFdNWmJDLUdudktyNlhGMg?oc=5",
-          "published_iso": "2026-11-25T13:11:00"
+          "source": "SuaraGarut.ID",
+          "title": "US Inflation Hits 3.8% as Strong Growth Pressures Fed - SuaraGarut.ID",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oZjBpX1BodEd0Z2JndnU4N2NyYl9mYkRTc3hrR0MxWThuRUJkNDY3aWE3RDlfUGh3Z1JNX3dvN0JfdmN6dE5STG9aVnB3aUpIMmxRdGZwZUJVTWd3NmFvNEl4WS1pUQ?oc=5",
+          "published_iso": "2026-11-26T02:26:02"
         }
       ]
     },
     {
       "category": "🌎 Trade, Tariffs & Macro",
-      "title": "Fed's Williams: Fed must be forward-looking to bring inflation down - Yahoo Finance",
-      "summary": "Fed's Williams: Fed must be forward-looking to bring inflation down&nbsp;&nbsp;Yahoo Finance",
-      "source": "Yahoo Finance",
+      "title": "Treasury Yields Hold Steady as Investors Await Inflation Data - Limapagi",
+      "summary": "Treasury Yields Hold Steady as Investors Await Inflation Data&nbsp;&nbsp;Limapagi",
+      "source": "Limapagi",
+      "published": "Wed, 25 Nov 2026",
+      "published_iso": "2026-11-25T04:23:30",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsRW5aVVpEeVlVVjZmZEpVejRZOW83NXVRd0lTTWtNMVg3MUVobk1lRGZYazYzVENhVk90VTVidlJpbldjd3hHeUVzRkNzU3cxOS1keFNFTkUxWXlPZjlFN3BqUW1pczlu?oc=5",
+      "coverage": 1,
+      "also": []
+    },
+    {
+      "category": "🌎 Trade, Tariffs & Macro",
+      "title": "U.S. trade chief sees progress in trade talks but faults Canada for Beijing-friendly moves - CBC",
+      "summary": "U.S. trade chief sees progress in trade talks but faults Canada for Beijing-friendly moves&nbsp;&nbsp;CBC",
+      "source": "CBC",
       "published": "Mon, 23 Nov 2026",
-      "published_iso": "2026-11-23T21:25:31",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkpPSGswM0U3MVZfMHI0TW9Pel9sNi1Mc1VMQ09qYlF3WmNzd3llU3BFeGtsQUJrSHA1VFNsTXdTN004amQtcmtXcGVWMndRLWkxeDlYSko3bWp5cmd3ck9EZlpQeTIxNkpZY3RUX2xpTUJ2anZUUmhoTTN4THZFZy1yWl92M05xYmVfbmgtM2JaNmZqRGUtTzVIVmJ1ZFRvX3R6VEt0dkktNFg2bHRUaVVyRlMzZFVUZENwX3kyMHdQbHNUaHh0OQ?oc=5",
-      "coverage": 1,
-      "also": [
-        {
-          "source": "Yahoo Finance",
-          "title": "Inflation report to provide Fed's preferred gauge of prices - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPREh6X09FYWNTZ1pjSmlEc3ZhUVFyaXpsNGdacmY2MEVYZVIxZlYtakY2NnNlWXF0bktXSVFXc09VN2lFS1UxSTU4cWVaaEQwMEtyTUtvZWtzU3otT0RCV1ViTFZrTkNURTlSZ0pXQ3Z2S0R0NGlHbEZfSHhKSEtFeG1kay1LTjJqZnp3MVZqUWNBNEpNdnNZZnd2RUNkbHlvYVRTOA?oc=5",
-          "published_iso": "2026-11-25T10:05:05"
-        },
-        {
-          "source": "Yahoo Finance",
-          "title": "Fed policymakers at odds over causes of high inflation - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlV4QVFPc2daMzBjUnYxeWM0UWZlRFEzRGd0QkJzS1FVdWFhaC1QLWR0VWZTcHdBUXlnVlFlS1pGQWpTQm9Ybm4yMUdwb211bHdraVhqTm9VX2p6VGJTYUdET0ZNZTY2ZjZCS1pITmlyTG1TeDBpOXR1VHNQRkgzZDZHSzBmc0hGNnhFME5lMnpqY2pmTEo5S3czZFRPM1E?oc=5",
-          "published_iso": "2026-11-25T11:01:39"
-        }
-      ]
-    },
-    {
-      "category": "🌎 Trade, Tariffs & Macro",
-      "title": "The critical minerals race: How Israel plans to challenge China's dominance - Ynetnews",
-      "summary": "The critical minerals race: How Israel plans to challenge China's dominance&nbsp;&nbsp;Ynetnews",
-      "source": "Ynetnews",
-      "published": "Sat, 21 Nov 2026",
-      "published_iso": "2026-11-21T13:18:21",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TT3YtOUxkZWlqQTFJeVVlUjZiODJJZW5uVXVCYU9ZUzJxOHZudTF3TUIzZmYtV2d1dWlSc3NDdnlXVHFLUVVydWVGOVN3cS1kTmRfWjZSM1h4NXRYRENhV3Jn?oc=5",
+      "published_iso": "2026-11-23T02:51:00",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44eG1DbWtkT1NnajFhUGJMOFQyOG90SHlORThIX2FNUUZSWDZSMEczdXU4Ymtac2JJWFE0U1VRcjZyNkhTS3lUbFNFWEREOWxmSDNscGlsQVBMUzhFQnpTM2pmLXN6ajM4LVdUaXpOSkdSSHRpc095d0c3LVo4eEU?oc=5",
       "coverage": 1,
       "also": []
     },
@@ -1481,19 +1574,91 @@
       "published": "Sat, 21 Nov 2026",
       "published_iso": "2026-11-21T11:30:00",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUw0WmtWLWJiTUJaSEZMdEVYYllfUHFubFl1RG1oS01ZT2d4ZGxyYW5IMXhnVm1aZ0I5YTF0alJXM3BrR1kzZUdNeTF4dWw1cEtsMXJQd05HUnRwRHgzUXpDamRqZ0taQ0NUVXFBWDMxWjFGV1lFelpaQW5PcHlLazhSQzY3TUFIbUE?oc=5",
-      "coverage": 3,
+      "coverage": 13,
       "also": [
         {
-          "source": "The North State Journal",
-          "title": "Carney: Canada could turn to Chinese automakers if Trump trade talks fail - The North State Journal",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYVJqWHhVbnBCZkFUdy1aN3Q0SGdXRE1pc1ZSUTJ2NENBekR4STBuRy1WSmd3TjN4cVRDV1cybmEzbG82WVFORXNEOWlFU1JJQy1EMktRUnBoaFJ5a0RrekF0NXgtVkpfQnNkNzJCX1ZHMkVXZTFpOS1sb2VGV3VnRFpMRFVWbWtVSWdB?oc=5",
-          "published_iso": "2026-11-21T20:25:00"
+          "source": "CTV News",
+          "title": "LeBlanc gives update on U.S. trade talks to Canada-U.S. advisory committee - CTV News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdmdCMjVzRmtTSE1KS1U4bFM2VXJreGN3bmkwRU82NnVuLVZ5Y3BNU2EzQlFhYV8wTS1ZRGpiZVcydV9OUFJrVWNlbVUyYUZVUTNHUkZjeU0tOWw1TXUxcjJ6RWRxemNpSHpma19ibFVuVkF6Vk9fTFItWEI0TGFSS01oY1FDTy1KZlc1Z2ljM1M3OWNLVldSZTVvZkNnaklQSVBTckJjbEZGRklWSklqNXZaM0dHbmhNOGRnVjdYblA?oc=5",
+          "published_iso": "2026-11-20T17:05:25"
         },
         {
           "source": "Global News",
           "title": "Premier Ford won’t agree to trade deal without auto, steel and manufacturing approval - Global News",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXBRYzFTRDRsMExjM1p0MlZrekw1QnBLOVk4UU1RZHVhSlljWG5KT0R3MUZoby1fRTM2N2V3VWJwcWg0SV9XeU5pT1pZcVRrZVRLeWVNa1Z0bkJVSl9LblVHenliaEg3RjFYTmtBbjZwWFlmcUVtVlZJOFRxZ3hyUHZxczM5WGc3SzRzV3JKN3FUVTVfMDU2QUVNSE56UG0xWVZmWkYwRkVOc0UtelFGXy10THBxeVlrX3JjWQ?oc=5",
           "published_iso": "2026-11-23T19:38:46"
+        },
+        {
+          "source": "Autoweek",
+          "title": "Could Trump’s Auto Tariffs Push Canada into China’s Arms? - Autoweek",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDRLVm1CVlE0ZWRCR3V2NnpYT3J6TVVucmpuYTlMVHJnRHNiVVZvaThUTlRtQTRqRlpsckUwNkd4Vno4NkxIYzRlZjFSQkdtWHh2THVqNmQ3aENTbVBZZ1FldG9Ic0dfa1U0bmhZUkxOaWJ6czRnem15dHVvcnd1N2Z0SXd1Qk0?oc=5",
+          "published_iso": "2026-11-24T23:01:00"
+        },
+        {
+          "source": "Yahoo News Canada",
+          "title": "Even with a softening tone, Trump’s 50% tariff threat on Canada still looms - Yahoo News Canada",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BTV9jdzRPN1NMWWNWeC1HdFhNdHVlamlGMmlYMTVkQ3lTYXlaOXAxaTFOU3VZWV9oUUNoVmg4SThtY3R3YS11bTJMcXZobzExcnBCem9XTHJrQmZmUk5YMkpUazFNczRvekdZbVV6djlFWlBZWnFuLQ?oc=5",
+          "published_iso": "2026-11-25T09:00:00"
+        },
+        {
+          "source": "CBT News",
+          "title": "Trump administration proposes new tariffs on China, 13 other trading partners - CBT News",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QS1lDeXNnVHQ2RmEwSDVZNmh2S3VoZ0pYQnlHR0xYcWRlTWJsdS1DNFlNYTF2SEs2MllaT3ZDeGU4MjdpczJBLUU3RHZudU80RWtFQWV4cHpSOVk0?oc=5",
+          "published_iso": "2026-11-25T11:07:30"
+        },
+        {
+          "source": "Newsweek",
+          "title": "Trump Administration Signals Opening for Canada Trade Deal - Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTEx0OTdvS3lONFU5a2QyUW1FNXVpOWhpSU50LWlsdGZXNmI4QUp0TTJNNVlBZlcyTzlDXzBBN2FOeUhDcDJKbFdibVdRLWFIRWhycExTczU3Nk90VFB5ZVRJZTQtbmpUQnlFR0s4WWRRVUlUeG44VXYwd3VzdEJ5SmRzQ1g2YzNpRWVFQlhOMENfQQ?oc=5",
+          "published_iso": "2026-11-25T15:23:00"
+        },
+        {
+          "source": "Yahoo Finance",
+          "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU1FZDY5UnlETEhNeFdMUGJEOUpJWUh2TTRVU2pYa1NIaWJPZmIxZTVOZ3MyOU1kUmk4RXluQThXd0lnbWJJcGNPbzlLYnFrZHI4R094VnB2UHVCdjFDRmNleVNZT1pxTUJxdzFWdWkzS29senQ0WGRRZmxKcjZ3NThMemZSQzJEX2JxcVRrczF4ZlpHOUt0TGlMSGVPSE1seWo2bXluSjhJME1oa2Ytd0l6N0UxWXB5S3E4X2RaZDV3V2RpbVNicUR3?oc=5",
+          "published_iso": "2026-11-25T15:33:01"
+        },
+        {
+          "source": "Yahoo! Finance Canada",
+          "title": "Trump's trade czar says he's looking to accommodate Canada on some sectoral tariffs - Yahoo! Finance Canada",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMlJ2N0JLbjAyUmZNVlhtYk5CZkppU2FoVG5WdlhwR1JnaW1lcHVxV0VfVklXVkFMQWZCa01HQ182VlhlWXdtNGl4WV9vMHpjZjZqSjc2cXlicmxkVDcwWjcwRFdSaXRQYUNPck9JYjR3aWFGRy1zUzZKQVhlMFV5Rw?oc=5",
+          "published_iso": "2026-11-25T18:02:04"
+        },
+        {
+          "source": "Global News",
+          "title": "U.S. wants to accommodate Canada on sectoral tariffs, Trump trade czar says - Global News",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcloxVjhYaXhVYWFPSW5DM3JvTnNSYUg5NmtNNFY3Z05POVdSU2VxT2NIWEY2NDFvZVdadXg0b0ZqbUpsTDh0Wi1DZDZXR0lxM0xuNXRNMGRJRDBXQkJPcU1lVFpTaE5IRk8zOTdNcmUwbTJiUDE0RjB1VFVfdjI5MnNOQ2hJVU1H?oc=5",
+          "published_iso": "2026-11-25T18:43:28"
+        },
+        {
+          "source": "CBC",
+          "title": "Where big U.S. unions stand on Trump's Canada tariffs - CBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPODcyUXlndUdFSWtlUVFUZTM2TWdRUWtQdlE4eE9Vc1FRQl9aNXZZZjBzSll4OE5Mai1GdlpxMWo4b1cwbUNSczZFV01xbXBWTHNpMVlpTmg1dEdUQWVaYndNUVJuS292MGQtOHhiQkFQel8zRldVN3M3MW1DVzhMaXkzOENmNmlhMmlmMG9rVkktSXNrTmFaYTBn?oc=5",
+          "published_iso": "2026-11-26T09:00:00"
+        },
+        {
+          "source": "Business Standard",
+          "title": "Trump's fresh tariff threats: Uneven road for auto parts companies - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbHg2V29fQ2M0TllXRm85cmtlbThQbk9PVVdWLXg1WGxqWTlMM1VmSF9JeUdueVBjdFlWblc3aFkxS29jekQ1aVg3T1FpNTQ4ellnYTM3NktYandYZHdwTHVBQjJkNndyZ0FpTmdTSmJHTlFycWE0QU9DampZeVVxVTZrTlRHaFI5NC1YVjZBc3dQOGwwX092cFpET2NPRXdOVnhNUzZub09mY3BuVUR3YlNDLWhZcmNqa19vQzNTX2phVUVPVlV3ZDd2dHMtV2PSAdQBQVVfeXFMTWV0U0VSa3hydW93M3lVVXNjRHJkME1yamxLV1hfLUNvMTVtenNqa2MxZi1mY29xR1JlbW9jOVZMTl9VdDZma1l0MzI2UmJjSzBQVG1GX29qWGRHaWpLcFhNZjhCTnFWczJZVmh2ck1QYzMtZEdTVWxwOU9Kb3V5MGwwOWNrNk1adUxrU216YjJSdlpPYm0xUktaaHo0VUxSWno0ZTk2bVdyaFRCVE1reWZ4RGVhSENjVTdlNUhMQkVjYmN2NlVwUVh5T3pGd0k3V2RhVjM?oc=5",
+          "published_iso": "2026-11-26T12:40:43"
+        },
+        {
+          "source": "The Hub | More Signal. Less Noise.",
+          "title": "Greer signals room for Canada in any change to U.S. auto and steel tariffs - The Hub | More Signal. Less Noise.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQamU5RDJWcUh2bDZzYzVGZzlGLXJqem16dlBnUXNZR1J5RFhtTDRxYzY5U0YyZmg0MHdfaXNJT1AwY1AtSEpNTklXLWVRQjZ0WHFPeVFsVWxKSWVpZVZTeEpXTXZNTTVMZDVxR3RQX2o5OHUtR3FyV3BhXzByZnNiYVE5ckRlZXZ1Z1c2ay1mamJYYTZlMHpvNzJ2b0ZPemU1Z0dBY01R?oc=5",
+          "published_iso": "2026-11-26T13:50:57"
+        },
+        {
+          "source": "Bloomberg.com",
+          "title": "Mexico and Asia Gain Auto Share in Canada as US Trade War Takes a Toll - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFNvdEg3TThhSTFYaVZVZGh1aHJ5Tkg5SnQwRkFXV2NaS1lTNmY4RHlJM0NwVWo5bUc3U0dFT1JrazNDTTVQNkpxMl9WZ09JOTI5SWJmNUEyNG1IdjU0OFFKNGg0WFVBeEQtT3ZnaE1RaGlXQWlWendzTEIxOUVfajE0LVFRYmQtd2ttQy1oaWRYSHVNZnpQUmlFTC01c215aG10RGVMVnpXZkhvQkx2ZHkzaXJJQ3ht?oc=5",
+          "published_iso": "2026-11-26T15:01:40"
+        },
+        {
+          "source": "Rebel News",
+          "title": "U.S. trade rep signals room for Canada on steel and auto tariffs as talks resume after Thanksgiving - Rebel News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVTdRM19MYzRkSDFQWmdlY3JmQWdhbGJWMF9RRy1pbDFRYkR0U3ktQVppUHZ4UThfTlMyZkFLVzFrelV3RHdwTHNCeERzVkV1UFh1QlNuYVhVSG9tZ1ZiangzUXZ3TWd5MjkydWdGOERsTVRLemY4d3Fnc3pGMzAydWxLdW93aDZhTUwzWW01NjJZS0E?oc=5",
+          "published_iso": "2026-11-26T17:22:48"
         }
       ]
     },
@@ -1505,72 +1670,6 @@
       "published": "Fri, 20 Nov 2026",
       "published_iso": "2026-11-20T20:59:33",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMExCZjI3M2txVy1tMm90TTg5VmpnTWtoUUxGZFN4OTRoSHN3OUNYQXp6QUJjR2lEa0pJNE5EeFJ3Qkxad0E0NlIwMHhmWUhCTjRYVV9BeGQ2UGQwU1JpYzgycDh5YTZtY3N1dUdwSGJKUTJzWWtPMGt5YXBicVhrekxYTjdfNER0V1RybC1GcjZYOXMtRkhGenBLOHBLMGh0NlE?oc=5",
-      "coverage": 9,
-      "also": [
-        {
-          "source": "cwibc.co.id",
-          "title": "Greer Says Canada and U.S. Near Trade Deal as Tariff Talks Continue - cwibc.co.id",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RQ3Roc1RLMlMzRGRzOF9CUFZiR3l2b0ZOSS1CcEVscVItaDJ0ejZ0V195ZE55bnhrVlkzTjk5YzZkREF5ekM2UUNSOUtJaGM0UDhyNVZtRmY1Nmh2Q2tUNTgtVm5hcE0?oc=5",
-          "published_iso": "2026-11-22T20:38:00"
-        },
-        {
-          "source": "JournalArta",
-          "title": "US and Canada Are Close to Trade Deal, Greer Says - JournalArta",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVhoaE10RERibmVRUExDZE5MRW1qUlN5NnphUXFpN2k4N0UxWXRaZzhTUjVLOS1xNG5HUGEtYTlDd3E4TnJuNFoxdDdWbE9MRUNsSi04RTBvRUFPM2JKcElRQ2hfQ1Z5UFp2akRpYThnLVBoZXdlLTZKaU5VY0JQUUE0Y04?oc=5",
-          "published_iso": "2026-11-22T22:08:26"
-        },
-        {
-          "source": "CBC",
-          "title": "U.S. trade chief sees progress in trade talks but faults Canada for Beijing-friendly moves - CBC",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44eG1DbWtkT1NnajFhUGJMOFQyOG90SHlORThIX2FNUUZSWDZSMEczdXU4Ymtac2JJWFE0U1VRcjZyNkhTS3lUbFNFWEREOWxmSDNscGlsQVBMUzhFQnpTM2pmLXN6ajM4LVdUaXpOSkdSSHRpc095d0c3LVo4eEU?oc=5",
-          "published_iso": "2026-11-23T02:51:00"
-        },
-        {
-          "source": "Western Standard",
-          "title": "Cabinet declines to disclose auto tariff rate that stalled trade talks - Western Standard",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWg2V2RFSnBhajZCTzl5eElGc2lVei1zdWZHQ2RvOXpMR1ZEUFk0cFRkRHBBNElaSWVhLVhhNG9Iak1xQ3RkeXJvN3pHMVhSVzAzRHlBQmdRT0hxeTh1NmNzN0U5QWVWUmRCdHJzVXhlM1ltZXc4aTlrd1IxcnRZT3B3bVpCVm9adUdvdWpBelF2RmZlNFBROGNNTVl1S2ViY0RLbHpYNldTdWlXaktzM0xVdWU?oc=5",
-          "published_iso": "2026-11-23T14:08:09"
-        },
-        {
-          "source": "Western Standard",
-          "title": "Canada-US trade deal 'fairly close' to being completed says US trade rep - Western Standard",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekJ0NkNkcl9pdjg3VFF0WV9jalBJN1ZMYWpKWXl4RnRaeFMtbUp2Vk9Nc0ZabTJZSTJjbGRDNjZaenhoUWMtZUR6b1JmV3hzTFRPeGY4eVVwcDJfSzAxa2lkRFVZQXFac3pwSEZubkl2MmRnRmNYZHlvd2VWV0lPN3hSOERmb29wcGdzTnZ4TTd5Y1ZFTURRbGU4Vzk5NHlvbDFtTjRsaWg4SHN5c3BZSlkza2o?oc=5",
-          "published_iso": "2026-11-23T15:31:29"
-        },
-        {
-          "source": "EnergyNow",
-          "title": "Trump Says He Does Not Care About USMCA as US, Canada Plan Trade Talks - EnergyNow",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUW9JV3ZqZXctbEZTeGh4NUZoX24wbC1XSWJLaVpqVDRpMEsyc2VsM0xQaUFGeEZnaXFNU21ZWUN5WkNqR1VfX0k4WEMzckpfSXNoYTdCVmQyTWl5MWlZVWQ3WWxuYWdveWwwVU84eElDQ2JQZWdwdno4UUFOV2dYZWthSHZmbU5LUm5rOWFPam85SHVFY3V1bjBKOUY0eURv?oc=5",
-          "published_iso": "2026-11-24T17:02:36"
-        },
-        {
-          "source": "Autoweek",
-          "title": "Could Trump’s Auto Tariffs Push Canada into China’s Arms? - Autoweek",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDRLVm1CVlE0ZWRCR3V2NnpYT3J6TVVucmpuYTlMVHJnRHNiVVZvaThUTlRtQTRqRlpsckUwNkd4Vno4NkxIYzRlZjFSQkdtWHh2THVqNmQ3aENTbVBZZ1FldG9Ic0dfa1U0bmhZUkxOaWJ6czRnem15dHVvcnd1N2Z0SXd1Qk0?oc=5",
-          "published_iso": "2026-11-24T23:01:00"
-        },
-        {
-          "source": "Nikkei Asia",
-          "title": "Trump proposes new US tariffs on 14 partners including China, Japan, India - Nikkei Asia",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjRHdUY0ZEUwQ3o2c3h3Y1JBQUMxTEdyYkxjR09VZElUUXR6aUZIVXBNZkNXYldnQjVuOWptcUZZbExXMXJwZ1E2OWJ2eGd3WjJxdm5DQWpac3NnOEdQNlhzY1UzbkYta3VkbzNQQ1FyR1lUN0dZZ3p3ZzZQdEI4RDJZdy12TjhwOGUxeVN1bEtMYUtLZGJlOGQza0cwS2w3QzZPelVaWF9CN2k5VG5JdEEzN0VEMGphb3JVNkNjaG1DZ3lvQ3gw?oc=5",
-          "published_iso": "2026-11-25T14:14:00"
-        },
-        {
-          "source": "Al Arabiya English",
-          "title": "US unveils proposed tariffs on major partners, including EU and China - Al Arabiya English",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnRiQU9DNjdGV2FOWXhMR3Npb0o0QUhRa2lrUnY0dVRPR3FUcHFTbzJkSW5YYkl1NE5uNk1wQnE4MFVWM0lMZTUtZXFEV2pFSkgydmJyZERpUjBzTElwUzRxc2dScEN1SGN0TzJXdHJ3b1d4UEVJX3hSYVZIR29jVG9BLWFTNUpLT1lHZVo5TmVlOWIzYlBzc24yUTg4QURKbFVTWExaU3paUGNlZFdDMUQzZDlscEhjZXhuRtIBwgFBVV95cUxQNE5BZFlFVzZnS0wwLUtieHBYeW5uOWlncjlCUU9XbG5fcDF6MTVyeWdMSmNWSzBwQldnbFRpNXVWSzB1cGxvbV9VMEVUMTA4YW1CT3RFUm52bEVzTUt6OXNydDFsUkRadXB2dzVOYXlXeDMtTk5sVktSMGtQOEo4cmpZdkVjUXM5QUhGYVkzZVlnTVVRb3Z5Nmk2YmQyY1hlNlJHbHZqTVZPUGdCWWFzYVgyOTVWMVpIT09oVnhuVnY1Zw?oc=5",
-          "published_iso": "2026-11-25T14:27:00"
-        }
-      ]
-    },
-    {
-      "category": "🌎 Trade, Tariffs & Macro",
-      "title": "Tariffs Protect Home Markets, but US and European EVs Face Chinese Price Competition Abroad: Robotic Assembly Offers a Way Forward - https://economy.ac/",
-      "summary": "Tariffs Protect Home Markets, but US and European EVs Face Chinese Price Competition Abroad: Robotic Assembly Offers a Way Forward&nbsp;&nbsp;https://economy.ac/",
-      "source": "https://economy.ac/",
-      "published": "Thu, 19 Nov 2026",
-      "published_iso": "2026-11-19T04:56:16",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tRGc0Rk1mRGxjd0dsaThHM3hSMFRsVHlvQkRQOE9Ick1kaXBfT0x6bkl3N3E4SXN1UHFNY3JDT0ZGaE5SVHcxRFpXMFRCWk1oYkpmLS1ZOA?oc=5",
       "coverage": 1,
       "also": []
     }
